@@ -1,0 +1,307 @@
+[
+  {
+    "id": "TEST_6359",
+    "category": "Savings (예적금)",
+    "query": "30살 직장인인데  적금 추천해줘. 목돈 마련하고 싶어.",
+    "target_product": "세이프지수연동예금 KOSPI200 디지털 상승형 23-18호(1년)",
+    "expected_profile": {
+      "age": 30,
+      "job": "직장인",
+      "financial_goal": "목돈 마련"
+    },
+    "evaluation_points": [
+      "세이프지수연동예금 KOSPI200 디지털 상승형 23-18호(1년)",
+      "월 한도",
+      "유의사항",
+      "비대면"
+    ]
+  },
+  {
+    "id": "TEST_4116",
+    "category": "Savings (예적금)",
+    "query": "50살 개인사업자인데  적금 추천해줘. 목돈 마련하고 싶어.",
+    "target_product": "신한 SOL메이트 정기예금",
+    "expected_profile": {
+      "age": 50,
+      "job": "개인사업자",
+      "financial_goal": "목돈 마련"
+    },
+    "evaluation_points": [
+      "신한 SOL메이트 정기예금",
+      "월 한도",
+      "비대면"
+    ]
+  },
+  {
+    "id": "TEST_9763",
+    "category": "Savings (예적금)",
+    "query": "30살 직장인인데  적금 추천해줘. 목돈 마련하고 싶어.",
+    "target_product": "세이프지수연동예금(프리미어전용)",
+    "expected_profile": {
+      "age": 30,
+      "job": "직장인",
+      "financial_goal": "목돈 마련"
+    },
+    "evaluation_points": [
+      "세이프지수연동예금(프리미어전용)",
+      "월 한도",
+      "유의사항",
+      "비대면"
+    ]
+  },
+  {
+    "id": "TEST_4016",
+    "category": "Savings (예적금)",
+    "query": "30살 개인사업자인데 자유롭게 넣을 수 있는 적금 추천해줘. 목돈 마련하고 싶어.",
+    "target_product": "거액기업자유예금",
+    "expected_profile": {
+      "age": 30,
+      "job": "개인사업자",
+      "financial_goal": "목돈 마련"
+    },
+    "evaluation_points": [
+      "거액기업자유예금",
+      "월 한도",
+      "비대면"
+    ]
+  },
+  {
+    "id": "TEST_8966",
+    "category": "Savings (예적금)",
+    "query": "30살 직장인인데 자유롭게 넣을 수 있는 적금 추천해줘. 목돈 마련하고 싶어.",
+    "target_product": "Home’n Sweet 적립예금",
+    "expected_profile": {
+      "age": 30,
+      "job": "직장인",
+      "financial_goal": "목돈 마련"
+    },
+    "evaluation_points": [
+      "Home’n Sweet 적립예금",
+      "월 한도"
+    ]
+  },
+  {
+    "id": "TEST_7764",
+    "category": "Savings (예적금)",
+    "query": "30살 직장인인데  적금 추천해줘. 목돈 마련하고 싶어.",
+    "target_product": "세이프지수연동예금",
+    "expected_profile": {
+      "age": 30,
+      "job": "직장인",
+      "financial_goal": "목돈 마련"
+    },
+    "evaluation_points": [
+      "세이프지수연동예금",
+      "월 한도",
+      "유의사항",
+      "비대면"
+    ]
+  },
+  {
+    "id": "TEST_4357",
+    "category": "Investment (투자/ISA/골드)",
+    "query": "신한은행이 보유중인 증권 같은데 투자하고 싶은데 안전인 성향이야. 수익률 좋은거 있어?",
+    "target_product": "환매조건부매도(RP)",
+    "expected_profile": {
+      "age": 30,
+      "job": "직장인",
+      "financial_goal": "자산 증식"
+    },
+    "evaluation_points": [
+      "환매조건부매도(RP)",
+      "비대면"
+    ]
+  },
+  {
+    "id": "TEST_1108",
+    "category": "Investment (투자/ISA/골드)",
+    "query": "ISA(개인종합자산관리계좌) 같은데 투자하고 싶은데 공격적인 성향이야. 수익률 좋은거 있어?",
+    "target_product": "신한 ISA 정기예금",
+    "expected_profile": {
+      "age": 30,
+      "job": "직장인",
+      "financial_goal": "자산 증식"
+    },
+    "evaluation_points": [
+      "신한 ISA 정기예금",
+      "비대면"
+    ]
+  },
+  {
+    "id": "TEST_9704",
+    "category": "Investment (투자/ISA/골드)",
+    "query": "CMA 수탁금 같은데 투자하고 싶은데 공격적인 성향이야. 수익률 좋은거 있어?",
+    "target_product": "어음관리계좌(CMA)",
+    "expected_profile": {
+      "age": 30,
+      "job": "직장인",
+      "financial_goal": "자산 증식"
+    },
+    "evaluation_points": [
+      "어음관리계좌(CMA)",
+      "비대면"
+    ]
+  },
+  {
+    "id": "TEST_4387",
+    "category": "Investment (투자/ISA/골드)",
+    "query": "예금 같은데 투자하고 싶은데 공격적인 성향이야. 수익률 좋은거 있어?",
+    "target_product": "신한투자증권 증권거래예금",
+    "expected_profile": {
+      "age": 30,
+      "job": "직장인",
+      "financial_goal": "자산 증식"
+    },
+    "evaluation_points": [
+      "신한투자증권 증권거래예금",
+      "비대면"
+    ]
+  },
+  {
+    "id": "TEST_5010",
+    "category": "Demand_Deposit (입출금)",
+    "query": "이자 매일 주는 파킹통장이나 수수료 없는 입출금 통장 추천해줘.",
+    "target_product": "신한 행복연금 통장",
+    "expected_profile": {
+      "age": 30,
+      "job": "직장인",
+      "financial_goal": "비상금 관리"
+    },
+    "evaluation_points": [
+      "신한 행복연금 통장"
+    ]
+  },
+  {
+    "id": "TEST_1480",
+    "category": "Demand_Deposit (입출금)",
+    "query": "이자 매일 주는 파킹통장이나 수수료 없는 입출금 통장 추천해줘.",
+    "target_product": "신한 김대리통장",
+    "expected_profile": {
+      "age": 30,
+      "job": "직장인",
+      "financial_goal": "비상금 관리"
+    },
+    "evaluation_points": [
+      "신한 김대리통장",
+      "비대면"
+    ]
+  },
+  {
+    "id": "TEST_1897",
+    "category": "Demand_Deposit (입출금)",
+    "query": "이자 매일 주는 파킹통장이나 수수료 없는 입출금 통장 추천해줘.",
+    "target_product": "신한 글로벌OK 통장",
+    "expected_profile": {
+      "age": 30,
+      "job": "직장인",
+      "financial_goal": "비상금 관리"
+    },
+    "evaluation_points": [
+      "신한 글로벌OK 통장",
+      "비대면"
+    ]
+  },
+  {
+    "id": "TEST_2547",
+    "category": "Insurance (보험/방카)",
+    "query": "30세인데 보험 하나 들려고 해. 변액연금보험 추천좀.",
+    "target_product": "시간에 투자하는 변액연금보험 무배당 2108",
+    "expected_profile": {
+      "age": 30,
+      "job": "직장인",
+      "financial_goal": "위험 대비"
+    },
+    "evaluation_points": [
+      "시간에 투자하는 변액연금보험 무배당 2108",
+      "비대면"
+    ]
+  },
+  {
+    "id": "TEST_3358",
+    "category": "Insurance (보험/방카)",
+    "query": "30세인데 보험 하나 들려고 해. 변액보험 추천좀.",
+    "target_product": "무배당 더쉬운자산관리 ETF변액저축보험 2.0(적립형)",
+    "expected_profile": {
+      "age": 30,
+      "job": "직장인",
+      "financial_goal": "위험 대비"
+    },
+    "evaluation_points": [
+      "무배당 더쉬운자산관리 ETF변액저축보험 2.0(적립형)"
+    ]
+  },
+  {
+    "id": "TEST_5217",
+    "category": "Insurance (보험/방카)",
+    "query": "30세인데 보험 하나 들려고 해. 변액보험 추천좀.",
+    "target_product": "삼성 에이스변액저축보험(B2401)(무배당)",
+    "expected_profile": {
+      "age": 30,
+      "job": "직장인",
+      "financial_goal": "위험 대비"
+    },
+    "evaluation_points": [
+      "삼성 에이스변액저축보험(B2401)(무배당)"
+    ]
+  },
+  {
+    "id": "TEST_8910",
+    "category": "Retirement_Pension (퇴직연금)",
+    "query": "연말정산 세액공제 받고 싶은데 퇴직연금 기타파생결합사채 상품 알려줘.",
+    "target_product": "교보증권 제1040회 기타파생결합사채",
+    "expected_profile": {
+      "age": 30,
+      "job": "직장인",
+      "financial_goal": "노후 대비"
+    },
+    "evaluation_points": [
+      "교보증권 제1040회 기타파생결합사채",
+      "비대면"
+    ]
+  },
+  {
+    "id": "TEST_8674",
+    "category": "Retirement_Pension (퇴직연금)",
+    "query": "연말정산 세액공제 받고 싶은데 퇴직연금 DC, DB, IRP 상품 알려줘.",
+    "target_product": "카카오뱅크 퇴직연금 정기예금",
+    "expected_profile": {
+      "age": 30,
+      "job": "직장인",
+      "financial_goal": "노후 대비"
+    },
+    "evaluation_points": [
+      "카카오뱅크 퇴직연금 정기예금",
+      "비대면"
+    ]
+  },
+  {
+    "id": "TEST_8774",
+    "category": "Retirement_Pension (퇴직연금)",
+    "query": "연말정산 세액공제 받고 싶은데 퇴직연금 DB 상품 알려줘.",
+    "target_product": "DB한국지수연계증권투자신탁제3호",
+    "expected_profile": {
+      "age": 30,
+      "job": "직장인",
+      "financial_goal": "노후 대비"
+    },
+    "evaluation_points": [
+      "DB한국지수연계증권투자신탁제3호",
+      "비대면"
+    ]
+  },
+  {
+    "id": "TEST_4429",
+    "category": "Retirement_Pension (퇴직연금)",
+    "query": "연말정산 세액공제 받고 싶은데 퇴직연금 C-P2 상품 알려줘.",
+    "target_product": "DB한국지수연계증권투자신탁제3호[채권]",
+    "expected_profile": {
+      "age": 30,
+      "job": "직장인",
+      "financial_goal": "노후 대비"
+    },
+    "evaluation_points": [
+      "DB한국지수연계증권투자신탁제3호[채권]",
+      "비대면"
+    ]
+  }
+]

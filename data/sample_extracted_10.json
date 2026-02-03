@@ -1,0 +1,366 @@
+[
+  {
+    "product_name": "세이프지수연동예금KOSPI200 보장강화안정형24-29호(1년)",
+    "product_type": "정기예금",
+    "accumulation_type": "정기적립식",
+    "eligibility": {
+      "age_min": null,
+      "age_max": null,
+      "target_detail": "가입자격 제한없음"
+    },
+    "interest_rate": {
+      "base_rate": 3.2,
+      "max_rate": 3.6,
+      "prime_conditions": [
+        "기초자산변동률에 따른 수익률",
+        "최저금리 0.10%"
+      ]
+    },
+    "min_month": 12,
+    "max_month": 12,
+    "max_deposit": 13000000000,
+    "auto_renewal": false,
+    "partial_withdrawal": true,
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "영업점 및 개인인터넷뱅킹, SOL뱅크에서 해지 가능",
+        "정기성예금자동 해지서비스 이용 가능"
+      ]
+    },
+    "risk_caution": "중도해지시 일부 원금손실 발생 가능",
+    "keywords": [
+      "KOSPI200",
+      "세이프지수연동예금",
+      "정기예금"
+    ],
+    "filename": "세이프지수연동예금 24-29호 KOSPI200 보장강화 안정형 (1년) 상품설명서_2024120200000042.pdf",
+    "category": "Savings (예적금)"
+  },
+  {
+    "product_name": "신한Privilege 세이프지수연동예금(KRW) KOSPI200 보장강화디지털상승형25-02호(6개월)",
+    "product_type": "정기예금",
+    "accumulation_type": "정기적립식",
+    "eligibility": {
+      "age_min": null,
+      "age_max": null,
+      "target_detail": "가입자격 제한없음"
+    },
+    "interest_rate": {
+      "base_rate": 2.2,
+      "max_rate": 2.4,
+      "prime_conditions": [
+        "만기평가지수가 기준지수 이상 상승한 경우: 수익률= 연 2.4%",
+        "만기평가지수가 기준지수 미만으로 하락한 경우: 수익률= 연 2.2%"
+      ]
+    },
+    "min_month": 6,
+    "max_month": 6,
+    "max_deposit": 6000000000,
+    "auto_renewal": false,
+    "partial_withdrawal": false,
+    "join_channel": {
+      "is_online": true,
+      "is_offline": false,
+      "descriptions": [
+        "비대면 채널을 통해 가입 가능"
+      ]
+    },
+    "risk_caution": "중도해지시에는 이자(모집기간중이자 포함) 가지급되지 않으며, 중도해지 이율로 인해 원금 손실이 발생할 수 있습니다.",
+    "keywords": [
+      "KOSPI200",
+      "정기예금",
+      "지수연동예금"
+    ],
+    "filename": "신한 Privilege 세이프지수연동예금(KRW) KOSPI200 보장강화 디지털상승형 25-02호(6개월)_2025051200000045.pdf",
+    "category": "Savings (예적금)"
+  },
+  {
+    "product_name": "새싹사랑적금",
+    "product_type": "정기적립식",
+    "accumulation_type": "자유적립식",
+    "eligibility": {
+      "age_min": 19,
+      "age_max": null,
+      "target_detail": "만 19세 미만의 실명의 개인"
+    },
+    "interest_rate": {
+      "base_rate": 2.1,
+      "max_rate": 2.5,
+      "prime_conditions": [
+        "10만원 이상 저축시 해당 저축건별로 연 0.10% 우대",
+        "이체거래에 의한 저축시 해당 저축건별로 연 0.10% 우대",
+        "특정일(새해•설날•어린이날•추석) 이후 5영업일까지 저축시 해당 저축건별로 연 0.10% 우대",
+        "자동재예치 원리금이 2백만원 이상일 경우 해당 재예치건에 대하여 연 0.10% 우대"
+      ]
+    },
+    "min_month": 12,
+    "max_month": 60,
+    "max_deposit": 10000000,
+    "auto_renewal": true,
+    "partial_withdrawal": true,
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "영업점 방문 가능",
+        "인터넷뱅킹 등 비대면 채널을 통해 가입 가능"
+      ]
+    },
+    "risk_caution": "이 금융상품을 가입(계약)하시기 전에 ‘금융상품설명서’ 및 ‘약관’을 반드시 읽어 보시기 바랍니다.",
+    "keywords": [
+      "#새싹사랑적금",
+      "#정기적립식",
+      "#자유적립식"
+    ],
+    "filename": "새싹사랑적금 상품설명서_2006042500540000.pdf",
+    "category": "Savings (예적금)"
+  },
+  {
+    "product_name": "세이프지수연동예금 KOSPI200 보장강화안정형22-17호(1년)",
+    "product_type": "정기예금",
+    "accumulation_type": "정기적립식",
+    "eligibility": {
+      "age_min": null,
+      "age_max": null,
+      "target_detail": "가입자격 제한없음"
+    },
+    "interest_rate": {
+      "base_rate": 3.55,
+      "max_rate": 3.74,
+      "prime_conditions": [
+        "만기일당시의일반정기예금약정기간에해당하는 만기지급식고시이율의½(단,최저금리0.10%)",
+        "만기후1개월초과6개월이내: 만기일당시의일반정기예금약정기간 만기후이율에해당하는 만기지급식고시이율의¼(단,최저금리0.10%)",
+        "만기후6개월초과: 연0.10%"
+      ]
+    },
+    "min_month": 12,
+    "max_month": 12,
+    "max_deposit": null,
+    "auto_renewal": false,
+    "partial_withdrawal": true,
+    "join_channel": {
+      "is_online": true,
+      "is_offline": false,
+      "descriptions": [
+        "인터넷뱅킹, SOL뱅킹, M신한으로 가입 가능"
+      ]
+    },
+    "risk_caution": "중도해지시 일부 원금손실 발생가능.",
+    "keywords": [
+      "KOSPI200",
+      "정기예금",
+      "세이프지수연동예금"
+    ],
+    "filename": "세이프 지수연동예금 22-17호 보장강화 안정형 상품설명서_2022090700000018.pdf",
+    "category": "Savings (예적금)"
+  },
+  {
+    "product_name": "세이프지수연동예금 KOSPI200 보장강화 상승형 23-01호(1년)",
+    "product_type": "정기예금",
+    "accumulation_type": "정기적립식",
+    "eligibility": {
+      "age_min": null,
+      "age_max": null,
+      "target_detail": "가입자격 제한없음"
+    },
+    "interest_rate": {
+      "base_rate": 4.4,
+      "max_rate": 4.95,
+      "prime_conditions": [
+        "최소가입금액 300만원 이상 (단, 인터넷뱅킹, SOL뱅킹, M신한으로 가입시 50만원 이상)"
+      ]
+    },
+    "min_month": 12,
+    "max_month": 12,
+    "max_deposit": 20000000000,
+    "auto_renewal": false,
+    "partial_withdrawal": true,
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "인터넷뱅킹, SOL뱅킹, M신한으로 가입 가능",
+        "영업점 방문 가능"
+      ]
+    },
+    "risk_caution": "중도해지시 일부 원금손실 발생 가능.",
+    "keywords": [
+      "KOSPI200",
+      "정기예금",
+      "지수연동예금"
+    ],
+    "filename": "세이프 지수연동예금 23-01호 KOSPI200보장강화상승형(1년) 상품설명서_2023010500000099.pdf",
+    "category": "Savings (예적금)"
+  },
+  {
+    "product_name": "변액저축보험(무배당)",
+    "insurance_type": "저축형",
+    "is_renewal": null,
+    "declared_rate": 2.25,
+    "min_guarantee_rate": null,
+    "coverage_summary": "사망보험금은 투자실적에 따라 변동되며, 해지환급금도 투자실적에 따라 변동됩니다.",
+    "tax_benefit_cond": null,
+    "early_termination_warning": "중도에 해지할 시 돌려받는 금액이 지금까지 낸 보험료보다 적거나 없을 수 있습니다.",
+    "filename": "신한라이프_VIP변액저축보험(무배당)_핵심상품설명서_비대면 핵심상품설명서_2021091700000103.pdf",
+    "category": "Insurance (보험/방카)"
+  },
+  {
+    "product_name": "세이프지수연동예금",
+    "product_type": "예금상품",
+    "accumulation_type": "정기적립식",
+    "eligibility": {
+      "age_min": null,
+      "age_max": null,
+      "target_detail": "개인 및 법인(금융기관 제외)"
+    },
+    "interest_rate": {
+      "base_rate": 3.96,
+      "max_rate": 15.3,
+      "prime_conditions": [
+        "최소가입금액 300만원 이상",
+        "인터넷뱅킹으로 신규시 50만원 이상"
+      ]
+    },
+    "min_month": 12,
+    "max_month": 12,
+    "max_deposit": 110000000000,
+    "auto_renewal": false,
+    "partial_withdrawal": false,
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "인터넷뱅킹으로 가입 가능",
+        "영업점 방문 가능"
+      ]
+    },
+    "risk_caution": "이자소득세의 적용: 만기 시 이자부분에 대한 원천징수세금은 소득세법에 따라 원금을 상회하는 이자지급 전액에 대하여 계산됩니다.",
+    "keywords": [
+      "예금상품",
+      "지수연동",
+      "신한은행"
+    ],
+    "filename": "세이프지수연동예금11-6호 상품설명서_2006042500850000.pdf",
+    "category": "Savings (예적금)"
+  },
+  {
+    "product_name": "세이프지수연동예금KOSPI200보장강화안정형24-01호(6개월)",
+    "product_type": "정기예금",
+    "accumulation_type": "정기적립식",
+    "eligibility": {
+      "age_min": null,
+      "age_max": null,
+      "target_detail": "가입자격 제한없음"
+    },
+    "interest_rate": {
+      "base_rate": 3.1,
+      "max_rate": 3.39,
+      "prime_conditions": [
+        "만기가격 결정일에 만기가격이 기준가격 대비 상승하여 가격변동률 5% 이내인 경우: 연 [{가격변동률% X 참여율 3.00% X 365÷예금기간}+ 3.10%]",
+        "만기가격 결정일에 만기가격이 기준가격 대비 5% 초과 상승한 경우: 연 3.39%",
+        "만기가격 결정일에 만기가격이 기준가격과 같거나 하락한 경우: 연 3.10%"
+      ]
+    },
+    "min_month": 6,
+    "max_month": 6,
+    "max_deposit": 500000000,
+    "auto_renewal": false,
+    "partial_withdrawal": true,
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "영업점 및 개인인터넷뱅킹, SOL뱅크에서 해지 가능",
+        "정기성예금자동 해지서비스 이용 가능"
+      ]
+    },
+    "risk_caution": "중도해지시 일부 원금손실 발생 가능",
+    "keywords": [
+      "KOSPI200",
+      "세이프지수연동예금",
+      "정기예금"
+    ],
+    "filename": "세이프지수연동예금 25-01호 KOSPI200 보장강화 안정형 (6개월) 상품설명서_2024122400000119.pdf",
+    "category": "Savings (예적금)"
+  },
+  {
+    "product_name": "세이프지수연동예금 KOSPI200 보장강화 안정형 24-13호(0.5년)",
+    "product_type": "정기예금",
+    "accumulation_type": "정기적립식",
+    "eligibility": {
+      "age_min": null,
+      "age_max": null,
+      "target_detail": "세법상 거주자"
+    },
+    "interest_rate": {
+      "base_rate": 3.49,
+      "max_rate": 3.85,
+      "prime_conditions": [
+        "만기일당시의 일반정기예금 약정기간에 해당하는 만기지급식 고시이율의 ½ (단, 최저금리 0.10%)",
+        "만기후 1개월 초과 6개월 이내: 만기일당시의 일반정기예금 약정기간 만기후 이율에 해당하는 만기지급식 고시이율의 ¼ (단, 최저금리 0.10%)",
+        "만기후 6개월 초과: 연 0.10%"
+      ]
+    },
+    "min_month": 6,
+    "max_month": 6,
+    "max_deposit": 300000000,
+    "auto_renewal": false,
+    "partial_withdrawal": true,
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "영업점 및 개인 인터넷뱅킹, SOL뱅크에서 해지 가능",
+        "정기성 예금 자동 해지 서비스 이용 가능"
+      ]
+    },
+    "risk_caution": "중도해지시 일부 원금손실 발생 가능",
+    "keywords": [
+      "KOSPI200",
+      "세이프지수연동예금",
+      "정기예금"
+    ],
+    "filename": "세이프지수연동예금 24-13호 KOSPI200 보장강화 안정형 (6개월) 상품설명서_2024052300000124.pdf",
+    "category": "Savings (예적금)"
+  },
+  {
+    "product_name": "WM 세이프지수연동예금",
+    "product_type": "정기예금",
+    "accumulation_type": "정기적립식",
+    "eligibility": {
+      "age_min": null,
+      "age_max": null,
+      "target_detail": "가입자격 제한없음"
+    },
+    "interest_rate": {
+      "base_rate": 1.88,
+      "max_rate": 6.9,
+      "prime_conditions": [
+        "인터넷뱅킹 또는 스마트폰뱅킹으로 가입 시 최소 가입금액 50만원"
+      ]
+    },
+    "min_month": 12,
+    "max_month": 18,
+    "max_deposit": 1000000000,
+    "auto_renewal": false,
+    "partial_withdrawal": true,
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "비대면 채널을 통해 가입 가능",
+        "영업점 방문 가능"
+      ]
+    },
+    "risk_caution": null,
+    "keywords": [
+      "KOSPI200",
+      "삼성전자",
+      "원금보장"
+    ],
+    "filename": "WM 세이프지수연동예금 22-01호 상품설명서_2022011100000026.pdf",
+    "category": "Savings (예적금)"
+  }
+]

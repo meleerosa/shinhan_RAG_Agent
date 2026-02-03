@@ -3,196 +3,214 @@ import os
 import pandas as pd
 from tqdm import tqdm
 from langchain_openai import ChatOpenAI
-from langchain_core.messages import SystemMessage
+from langchain_core.messages import SystemMessage, HumanMessage, AIMessage
 
-# [중요] 우리가 만든 Agent를 import 합니다.
-# 파일명이 'real_agent_final_v4.py'라고 가정합니다. 다르면 수정하세요.
+# ==========================================
+# [설정] 에이전트 Import
+# ==========================================
 try:
     from real_agent_final_v4 import app
     print(">>> Agent 로드 성공!")
 except ImportError:
-    print("Error: 'real_agent_final_v4.py' 파일을 찾을 수 없습니다.")
-    print("평가 스크립트와 같은 폴더에 에이전트 파일을 두거나, 경로를 확인하세요.")
+    print("Error: 에이전트 파일을 찾을 수 없습니다.")
     exit(1)
 
 # ==========================================
 # 0. 설정
 # ==========================================
 TEST_DATA_PATH = "/home/wlaud/projects/shinhan/data/test_golden_20.json"
-RESULT_CSV_PATH = "/home/wlaud/projects/shinhan/data/evaluation_result.csv"
+RESULT_CSV_PATH = "/home/wlaud/projects/shinhan/log/evaluation_result.csv"
+RESULT_JSON_PATH = "/home/wlaud/projects/shinhan/log/evaluation_detail_log.json"
 
-# 채점관 LLM (객관성을 위해 GPT-4o 사용 권장)
+# 채점관 LLM
 judge_llm = ChatOpenAI(model="gpt-4o", temperature=0)
 
 # ==========================================
 # 1. 평가 함수 정의
 # ==========================================
-
 def calculate_profile_score(expected, extracted):
-    """프로필 추출 정확도 계산 (0.0 ~ 1.0)"""
-    if not expected: return 1.0 # 기대값이 없으면 만점 처리
-    
+    """프로필 추출 정확도 계산"""
+    if not expected: return 1.0
     matched = 0
     total = len(expected)
-    
     for k, v in expected.items():
         extracted_val = str(extracted.get(k, ''))
         expected_val = str(v)
-        
-        # 단순 포함 여부나 일치 여부 확인 (유연하게)
         if expected_val in extracted_val or extracted_val in expected_val:
             matched += 1
-        elif k == "age" and extracted_val: # 나이는 숫자 변환 비교
+        elif k == "age" and extracted_val:
             try:
                 if int(float(extracted_val)) == int(v): matched += 1
             except: pass
-            
     return (matched / total) * 100
 
 def check_retrieval_hit(target_product, candidates):
-    """검색 결과에 정답 상품이 있는지 확인 (Hit@K)"""
+    """검색 결과 Hit 여부 확인"""
     if not candidates: return False
-    
     for cand in candidates:
         cand_name = cand.get('product_name', '')
-        # 공백 제거 후 비교 or 부분 일치
         if target_product.replace(" ", "") in cand_name.replace(" ", ""):
             return True
         if cand_name in target_product:
             return True
-            
     return False
 
 def evaluate_response_quality(query, target_product, eval_points, agent_response):
-    """LLM을 판사로 사용하여 답변 품질 채점 (1~10점)"""
-    
+    """LLM 기반 답변 품질 평가"""
     prompt = f"""
-    당신은 깐깐한 AI 평가관입니다. 
-    금융 AI Agent의 답변 품질을 평가해주세요.
-    
     [평가 기준]
-    1. **정확성**: 사용자가 원하는 상품(**{target_product}**)을 추천했는가?
-    2. **필수사항**: 평가 포인트 {eval_points}를 답변에 포함했는가?
-    3. **유용성**: 구체적인 수치나 행동 가이드(가입방법 등)를 제공했는가?
+    1. 정확성: 상품({target_product}) 추천 여부
+    2. 필수사항: {eval_points} 포함 여부
+    3. 유용성: 구체적 가이드 제공 여부
     
-    [사용자 질문]
-    {query}
+    질문: {query}
+    답변: {agent_response}
     
-    [Agent 답변]
-    {agent_response}
-    
-    위 기준에 따라 1점부터 10점 사이의 점수를 매겨주세요.
-    반드시 숫자만 출력하세요. (예: 8)
+    1~10점 사이의 점수(숫자만)를 출력하세요.
     """
-    
     try:
         res = judge_llm.invoke([SystemMessage(content=prompt)])
-        score = int(res.content.strip())
-        return score
+        return int(res.content.strip())
     except:
-        return 5 # 에러 시 중간 점수
+        return 5
 
 # ==========================================
-# 2. 테스트 실행 루프
+# 2. 테스트 실행 루프 (멀티턴 지원 & 상세 로깅)
 # ==========================================
-
 if not os.path.exists(TEST_DATA_PATH):
-    print("Error: 테스트 데이터가 없습니다. create_golden_testset.py를 먼저 실행하세요.")
+    print("Error: 테스트 데이터가 없습니다.")
     exit(1)
 
 with open(TEST_DATA_PATH, 'r') as f:
     test_cases = json.load(f)
 
 results = []
-print(f"\n>>> 총 {len(test_cases)}개 케이스 평가 시작...\n")
+print(f"\n>>> 총 {len(test_cases)}개 케이스 평가 시작 (멀티턴 자동응답 포함)...\n")
 
 for case in tqdm(test_cases):
+    # 1. 초기 질문 설정
     query = case['query']
     target = case['target_product']
-    points = case['evaluation_points']
     exp_profile = case['expected_profile']
     
-    # 1. Agent 실행
-    # (상태 초기화)
-    initial_state = {
-        "messages": [],
-        "user_query": query,
-        "profile": {},
-        "ask_count": 0,
-        "missing_info": [],
-        "candidates": []
-    }
+    # 2. 상태 초기화
+    history = []
+    curr_profile = {}
+    curr_ask_count = 0
     
+    final_res = ""
+    candidates = []
+    # [수정] 로그를 단순 리스트가 아니라 구조화된 딕셔너리 리스트로 저장
+    log_history = [] 
+
+    user_context_answer = f"내 정보는 {json.dumps(exp_profile, ensure_ascii=False)} 야."
+
+    for turn in range(3): 
+        
+        # 턴별 시작 시간 등은 생략하지만, 입력 쿼리는 기록
+        turn_input_query = query 
+        
+        inputs = {
+            "messages": history, 
+            "user_query": query, 
+            "profile": curr_profile,
+            "ask_count": curr_ask_count,
+            "missing_info": [], 
+            "candidates": [],
+            "thinking_process": [] 
+        }
+        
+        try:
+            output = app.invoke(inputs)
+            
+            final_res = output.get('final_response', "")
+            curr_profile = output.get('profile', {})
+            curr_ask_count = output.get('ask_count', 0)
+            candidates = output.get('candidates', [])
+            turn_logs = output.get('thinking_process', [])
+            
+            # [상세 로깅] 턴별 상세 정보 저장
+            log_history.append({
+                "turn": turn + 1,
+                "input_query": turn_input_query,
+                "agent_response": final_res,
+                "extracted_profile": curr_profile.copy(),
+                "found_candidates": [c.get('product_name') for c in candidates], # 상품명만 추출
+                "internal_logs": turn_logs
+            })
+            
+            has_response_step = any("Response" in log for log in turn_logs)
+            
+            if has_response_step or candidates:
+                break 
+            
+            history.append(HumanMessage(content=query))
+            history.append(AIMessage(content=final_res))
+            
+            query = user_context_answer 
+            
+        except Exception as e:
+            print(f"Error in Case {case['id']}: {e}")
+            final_res = f"Error: {str(e)}"
+            log_history.append({"turn": turn+1, "error": str(e)})
+            break
+
+    # 3. 최종 평가
     try:
-        output = app.invoke(initial_state)
-        
-        final_res = output['final_response']
-        ext_profile = output['profile']
-        candidates = output.get('candidates', [])
-        
-        # 2. 지표 계산
-        # A. Profile Score
-        prof_score = calculate_profile_score(exp_profile, ext_profile)
-        
-        # B. Retrieval Hit
+        prof_score = calculate_profile_score(exp_profile, curr_profile)
         is_hit = check_retrieval_hit(target, candidates)
+        qual_score = evaluate_response_quality(case['query'], target, case['evaluation_points'], final_res)
         
-        # C. Response Quality (LLM Judge)
-        qual_score = evaluate_response_quality(query, target, points, final_res)
-        
-        # 결과 기록
         results.append({
             "id": case['id'],
             "category": case['category'],
-            "query": query,
-            "target": target,
+            "initial_query": case['query'],
+            "target_product": target,
+            "expected_profile": exp_profile,
+            
+            # 평가 지표
+            "turns_taken": turn + 1,
             "profile_score": prof_score,
             "retrieval_hit": is_hit,
             "quality_score": qual_score,
-            "agent_response": final_res[:100] + "..." # 로그용 요약
+            
+            # 최종 결과물
+            "final_agent_response": final_res,
+            "final_extracted_profile": curr_profile,
+            "final_candidates": [c.get('product_name') for c in candidates],
+            
+            # [Full Log] 전체 대화 및 사고 과정
+            "full_interaction_log": log_history 
         })
         
     except Exception as e:
-        print(f"Error in Case {case['id']}: {e}")
-        results.append({
-            "id": case['id'],
-            "error": str(e)
-        })
+        results.append({"id": case['id'], "error": str(e)})
+
 
 # ==========================================
-# 3. 결과 분석 및 리포트
+# 3. 결과 저장
 # ==========================================
 df = pd.DataFrame(results)
 
-# 성공한 케이스만 필터링
+if 'error' not in df.columns:
+    df['error'] = None
+    
 success_df = df[df['error'].isna()].copy()
 
 print("\n" + "="*50)
-print("📊 [최종 평가 리포트]")
-print("="*50)
+print("📊 [평가 완료]")
 
 if len(success_df) > 0:
-    # 평균 점수 계산
-    avg_profile = success_df['profile_score'].mean()
-    hit_rate = (success_df['retrieval_hit'].sum() / len(success_df)) * 100
-    avg_quality = success_df['quality_score'].mean()
+    # CSV는 요약 정보만 저장 (로그가 너무 길어서 CSV 포맷 깨짐 방지)
+    # full_interaction_log 컬럼은 제외하거나 문자열로 변환해서 저장
+    csv_df = success_df.drop(columns=['full_interaction_log'])
+    csv_df.to_csv(RESULT_CSV_PATH, index=False, encoding='utf-8-sig')
     
-    print(f"1. 프로필 추출 정확도 : {avg_profile:.1f}점 (100점 만점)")
-    print(f"2. 상품 검색 성공률   : {hit_rate:.1f}% (Top-3 기준)")
-    print(f"3. 답변 품질 점수     : {avg_quality:.1f}점 (10점 만점)")
+    # JSON에는 모든 상세 정보 포함
+    success_df.to_json(RESULT_JSON_PATH, orient='records', force_ascii=False, indent=2)
     
-    print("\n[카테고리별 검색 성공률]")
-    print(success_df.groupby('category')['retrieval_hit'].mean() * 100)
-    
-    # CSV 저장
-    df.to_csv(RESULT_CSV_PATH, index=False, encoding='utf-8-sig')
-    print(f"\n상세 결과 저장 완료: {RESULT_CSV_PATH}")
-    
-    # 개선 가이드
-    print("\n💡 [개선 포인트 제안]")
-    if hit_rate < 70:
-        print("- 검색 성능이 낮습니다. 'extract_sample_json.py'의 키워드 추출 로직을 보강하거나, 'retrieve_node'의 검색어 확장을 강화하세요.")
-    if avg_quality < 7:
-        print("- 답변 품질이 낮습니다. 'response_node'의 프롬프트를 더 구체적으로 수정하거나, Critic의 역할을 강화하세요.")
+    print(f"1. 요약 결과 CSV: {RESULT_CSV_PATH}")
+    print(f"2. 상세 로그 JSON: {RESULT_JSON_PATH}")
+    print(f"3. 평균 점수: 품질 {success_df['quality_score'].mean():.1f}, 프로필 {success_df['profile_score'].mean():.1f}")
 else:
-    print("평가 데이터가 없거나 모든 테스트가 실패했습니다.")
+    print("실패한 테스트만 존재합니다.")

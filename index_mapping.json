@@ -1,0 +1,14 @@
+{
+    "dynamic": "false",
+    "properties": {
+        "appendix_no":{
+            "type": "integer"
+        },
+        "appendix_nos": {
+            "type":"integer"
+        },
+        "appendix_refs":{
+            "type": "keyword"
+        }
+    }
+}

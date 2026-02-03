@@ -2,11 +2,11 @@ text
 # 가상환경 폴더
 venv/
 env/
+logs/
 
 # 데이터 파일 (너무 크거나 보안상 제외)
 *.csv
 *.xlsx
-*.json
 # *.pdf
 
 # 로그 및 임시 파일

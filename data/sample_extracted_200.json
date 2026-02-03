@@ -1,0 +1,5792 @@
+[
+  {
+    "product_name": "세이프지수연동예금(USD) 달러/원환율하락형22-18호(1년)",
+    "product_type": "정기예금",
+    "accumulation_type": "정기적립식",
+    "eligibility": {
+      "age_min": null,
+      "age_max": null,
+      "target_detail": "가입자격 제한없음"
+    },
+    "interest_rate": {
+      "base_rate": 4.53,
+      "max_rate": 4.73,
+      "prime_conditions": [
+        "최저금리 0.10%",
+        "만기일당시의 일반정기예금 약정기간에 해당하는 만기지급식 고시이율의 ½ (만기후 1개월 이내)",
+        "만기일당시의 일반정기예금 약정기간 만기후 이율에 해당하는 만기지급식 고시이율의 ¼ (만기후 1개월 초과 6개월 이내)",
+        "연 0.10% (만기후 6개월 초과)"
+      ]
+    },
+    "min_month": 12,
+    "max_month": 12,
+    "max_deposit": 10000000,
+    "auto_renewal": false,
+    "partial_withdrawal": true,
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "인터넷뱅킹 또는 SOL뱅킹을 이용한 예금해지 가능",
+        "대면가입전용"
+      ]
+    },
+    "risk_caution": "중도해지시 일부 원금손실 발생가능.",
+    "keywords": [
+      "세이프지수연동예금",
+      "정기예금",
+      "USD/KRW 환율"
+    ],
+    "filename": "세이프 지수연동예금(USD) 22-18호 달러원 환율 하락형(1년) 상품설명서_2022100700000008.pdf",
+    "category": "Savings (예적금)",
+    "diversity_tag": "General_TaxFree_Travel"
+  },
+  {
+    "product_name": "미래에셋생명 변액저축보험 무배당 2207",
+    "insurance_type": "변액보험",
+    "is_renewal": null,
+    "declared_rate": null,
+    "min_guarantee_rate": null,
+    "coverage_summary": "원금손실이 발생할 수 있는 상품",
+    "tax_benefit_cond": "해당 없음",
+    "early_termination_warning": "조기 해지 시 원금 손실 위험이 있습니다.",
+    "join_channel": {
+      "is_online": true,
+      "is_offline": false,
+      "descriptions": [
+        "다이렉트(온라인) 상품입니다."
+      ]
+    },
+    "filename": "미래에셋생명_미래에셋생명 변액저축보험(무)2108_상품설명서_기본형(모바일)_2021122800000020.pdf",
+    "category": "Insurance (보험/방카)",
+    "diversity_tag": "Housing_Invest_Parking_Senior_TaxFree"
+  },
+  {
+    "product_name": "SOL글로벌 통장",
+    "interest_payment_date": "매년 3월, 6월, 9월, 12월의 셋째주 마지막 영업일에 계산하여 익일 원금에 더함",
+    "base_interest_rate": 0.1,
+    "max_interest_rate": 0.1,
+    "transfer_fee_waiver": "신한은행 자동화기기(CD/ATM)를 이용한 SOL글로벌통장 계좌의 마감 후 인출 수수료 면제",
+    "withdraw_fee_waiver": "해당 없음",
+    "currency_benefit": "환율스프레드의 50% 우대",
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "인터넷뱅킹 등 비대면 채널을 통해 가입 가능",
+        "영업점을 통해 가입 가능"
+      ]
+    },
+    "filename": "SOL글로벌 통장 상품설명서_2006042600620000.pdf",
+    "category": "Demand_Deposit (입출금)",
+    "diversity_tag": "Business_TaxFree_Travel"
+  },
+  {
+    "product_name": "세이프지수연동예금(프리미어)",
+    "product_type": "정기예금",
+    "accumulation_type": "정기적립식",
+    "eligibility": {
+      "age_min": null,
+      "age_max": null,
+      "target_detail": "가입자격 제한없음"
+    },
+    "interest_rate": {
+      "base_rate": 2.41,
+      "max_rate": 16.8,
+      "prime_conditions": [
+        "최소가입금액 300만원 이상",
+        "세전 기준"
+      ]
+    },
+    "min_month": 18,
+    "max_month": 18,
+    "max_deposit": null,
+    "auto_renewal": false,
+    "partial_withdrawal": false,
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "영업점 방문 가능",
+        "인터넷뱅킹을 통한 가입 가능"
+      ]
+    },
+    "risk_caution": null,
+    "keywords": [
+      "세이프지수연동예금",
+      "정기예금",
+      "KOSPI200",
+      "GOLD"
+    ],
+    "filename": "세이프지수연동예금(프리미어)12-9호_2012091822370000.pdf",
+    "category": "Savings (예적금)",
+    "diversity_tag": "Business_Invest_Travel"
+  },
+  {
+    "product_name": "삼성증권 제274회 주가연계파생결합사채",
+    "pension_type": "DLS",
+    "default_option_info": null,
+    "tax_deduction_limit": "해당사항 없음",
+    "pension_receipt_method": "현금결제",
+    "investment_options": "삼성전자 보통주(005930)",
+    "fees": "해당사항 없음",
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "삼성증권의 본, 지점에서 청약 가능",
+        "온라인 청약 가능"
+      ]
+    },
+    "filename": "삼성증권 퇴직연금 ELB 274호_2015060160840000.pdf",
+    "category": "Retirement_Pension (퇴직연금)",
+    "diversity_tag": "Business_Housing_Invest_Pension_Travel"
+  },
+  {
+    "product_name": "SOL Plan 포인트박스",
+    "product_type": "저축예금",
+    "accumulation_type": "null",
+    "eligibility": {
+      "age_min": 14,
+      "age_max": null,
+      "target_detail": "실명의 개인 및 개인사업자 (1인 1계좌)"
+    },
+    "interest_rate": {
+      "base_rate": 0.1,
+      "max_rate": 4.9,
+      "prime_conditions": [
+        "SOL Plan 포인트박스우대"
+      ]
+    },
+    "min_month": null,
+    "max_month": null,
+    "max_deposit": null,
+    "auto_renewal": false,
+    "partial_withdrawal": true,
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "영업점: 0원 신규만 가능",
+        "비대면 채널: 실명 확인된 본인의 신한은행 입출금이 자유로운 예금(연결계좌)을 통해 1원 신규"
+      ]
+    },
+    "risk_caution": "이 예금은 예금자보호법에 따라 원금과 소정의 이자를 합하여 1인당 1억원까지 보호됩니다.",
+    "keywords": [
+      "#신한은행 #저축예금 #포인트박스"
+    ],
+    "filename": "SOL Plan 포인트박스 상품설명서_2025081800000068.pdf",
+    "category": "Unclassified (기타)",
+    "diversity_tag": "Business_TaxFree"
+  },
+  {
+    "product_name": "무배당 메리츠 신탁제공용 이율보증형III 보험",
+    "pension_type": "DB",
+    "default_option_info": "이 상품은 예금자보호법에 따라 보호되는 상품입니다.",
+    "tax_deduction_limit": "1인당 1억원까지 보호됩니다.",
+    "pension_receipt_method": "만기일에 직전 단위보험과 동일한 새로운 단위보험으로 자동 재예치됨.",
+    "investment_options": "적용이율은 지표금리에서 향후 예상수익 등을 고려하여 결정됨.",
+    "fees": "당사와 협약서 참조",
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "전화 상담 가능",
+        "인터넷 상담 가능"
+      ]
+    },
+    "filename": "메리츠화재 퇴직연금 이율보증형보험 상품설명서_2022060900000014.pdf",
+    "category": "Retirement_Pension (퇴직연금)",
+    "diversity_tag": "General_Pension"
+  },
+  {
+    "product_name": "거액기업자유예금",
+    "product_type": "정기예금",
+    "accumulation_type": "자유적립식",
+    "eligibility": {
+      "age_min": null,
+      "age_max": null,
+      "target_detail": "법인 및 사업자등록증을 소지한 개인사업자"
+    },
+    "interest_rate": {
+      "base_rate": 0.1,
+      "max_rate": null,
+      "prime_conditions": [
+        "입금건별 10억원 이상으로 건별로 금리협의 가능"
+      ]
+    },
+    "min_month": null,
+    "max_month": null,
+    "max_deposit": 1000000000,
+    "auto_renewal": false,
+    "partial_withdrawal": true,
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "영업점 방문 필수",
+        "인터넷뱅킹 등 비대면 채널을 통해 가입 가능"
+      ]
+    },
+    "risk_caution": null,
+    "keywords": [
+      "거액기업자유예금",
+      "정기예금",
+      "금리협의"
+    ],
+    "filename": "거액기업자유예금 상품설명서_2006041700020000.pdf",
+    "category": "Savings (예적금)",
+    "diversity_tag": "Business_TaxFree"
+  },
+  {
+    "product_name": "세이프지수연동예금 KOSPI200 보장강화 상승형 23-04호 Ⅱ (1년)",
+    "product_type": "정기예금",
+    "accumulation_type": "정기적립식",
+    "eligibility": {
+      "age_min": null,
+      "age_max": null,
+      "target_detail": "가입자격 제한없음"
+    },
+    "interest_rate": {
+      "base_rate": 3.0,
+      "max_rate": null,
+      "prime_conditions": [
+        "최소가입금액 300만원 이상(단, 인터넷뱅킹, SOL뱅킹, M신한으로 가입시 50만원 이상)"
+      ]
+    },
+    "min_month": 12,
+    "max_month": 12,
+    "max_deposit": 10000000000,
+    "auto_renewal": false,
+    "partial_withdrawal": true,
+    "join_channel": {
+      "is_online": true,
+      "is_offline": false,
+      "descriptions": [
+        "인터넷뱅킹, SOL뱅킹, M신한으로 가입 가능"
+      ]
+    },
+    "risk_caution": "중도해지시 일부 원금손실 발생 가능.",
+    "keywords": [
+      "KOSPI200",
+      "정기예금",
+      "지수연동예금"
+    ],
+    "filename": "세이프 지수연동예금 23-04호 KOSPI200보장강화상승형 Ⅱ (1년) 상품설명서_2023020600000040.pdf",
+    "category": "Savings (예적금)",
+    "diversity_tag": "General_TaxFree"
+  },
+  {
+    "product_name": "CD수익률",
+    "category_detail": "예금",
+    "underlying_asset": "CD(양도성예금증서)",
+    "payout_cycle": "만기일시지급",
+    "risk_grade": 3,
+    "principal_protected": true,
+    "loss_warning": "원금 손실 가능성 있음",
+    "total_fee_rate": null,
+    "fee_detail": null,
+    "recommended_period": "91일",
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "비대면 가입 가능",
+        "오프라인 지점 방문 가능"
+      ]
+    },
+    "filename": "CD수익률 설명서(예금거래용)_2023092000000023.pdf",
+    "category": "Investment (투자/ISA/골드)",
+    "diversity_tag": "General_Invest"
+  },
+  {
+    "product_name": "Mint 적금",
+    "product_type": "적립식예금",
+    "accumulation_type": "정기적립식 및 자유적립식",
+    "eligibility": {
+      "age_min": null,
+      "age_max": null,
+      "target_detail": "실명의 개인 및 개인사업자"
+    },
+    "interest_rate": {
+      "base_rate": 2.1,
+      "max_rate": 2.8,
+      "prime_conditions": [
+        "정기적립식: 월저축금액이 25만원 이상시 연0.1%",
+        "정기적립식: 전체 저축건 중 2/3이상 창구거래를 제외한 이체거래로 입금시 연0.1%",
+        "자유적립식: 매회 저축금액이 25만원 이상시 적립건별 연0.1%",
+        "자유적립식: 매회 저축금을 창구거래를 제외한 이체거래로 입금시 적립건별 연0.1%",
+        "본 상품가입전 당행 플랜형 상품 가입 고객: 연0.1%",
+        "유동성예금 월평균잔액 1백만원 이상 고객: 연0.3%",
+        "인터넷뱅킹 또는 폰뱅킹으로 본 상품을 신규하는 경우: 연0.1%"
+      ]
+    },
+    "min_month": 6,
+    "max_month": 60,
+    "max_deposit": 10000000,
+    "auto_renewal": false,
+    "partial_withdrawal": false,
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "영업점 방문 가능",
+        "앱(SOL) 전용 가능"
+      ]
+    },
+    "risk_caution": null,
+    "keywords": [
+      "Mint적금",
+      "정기적립식",
+      "자유적립식",
+      "우대금리",
+      "해지조건"
+    ],
+    "filename": "Mint(민트)적금 상품설명서_2006042700690000.pdf",
+    "category": "Savings (예적금)",
+    "diversity_tag": "Housing_Senior_Travel"
+  },
+  {
+    "product_name": "세이프지수연동예금 KOSPI200 디지털 상승형 23-18호(1년)",
+    "product_type": "정기예금",
+    "accumulation_type": "정기적립식",
+    "eligibility": {
+      "age_min": null,
+      "age_max": null,
+      "target_detail": "세법상 거주자"
+    },
+    "interest_rate": {
+      "base_rate": 3.6,
+      "max_rate": 3.75,
+      "prime_conditions": [
+        "최소가입금액 300만원 이상",
+        "개인 인터넷뱅킹, SOL뱅킹, M신한으로 가입 시 50만원 이상"
+      ]
+    },
+    "min_month": 12,
+    "max_month": 12,
+    "max_deposit": 200000000,
+    "auto_renewal": false,
+    "partial_withdrawal": true,
+    "join_channel": {
+      "is_online": true,
+      "is_offline": false,
+      "descriptions": [
+        "인터넷뱅킹, SOL뱅킹을 통해 가입 가능"
+      ]
+    },
+    "risk_caution": "중도해지 시 일부 원금 손실 발생 가능.",
+    "keywords": [
+      "KOSPI200",
+      "정기예금",
+      "지수연동예금"
+    ],
+    "filename": "세이프지수연동예금 23-18호 KOSPI200 디지털 상승형 상품설명서_2023052400000056.pdf",
+    "category": "Savings (예적금)",
+    "diversity_tag": "General_TaxFree"
+  },
+  {
+    "product_name": "세이프지수연동예금",
+    "product_type": "정기예금",
+    "accumulation_type": "정기적립식",
+    "eligibility": {
+      "age_min": null,
+      "age_max": null,
+      "target_detail": "가입자격 제한없음"
+    },
+    "interest_rate": {
+      "base_rate": 1.0,
+      "max_rate": 10.3,
+      "prime_conditions": [
+        "급여이체 시 우대금리 적용"
+      ]
+    },
+    "min_month": 12,
+    "max_month": 12,
+    "max_deposit": 15000000000,
+    "auto_renewal": false,
+    "partial_withdrawal": false,
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "영업점 방문 가능",
+        "인터넷뱅킹으로 가입 가능"
+      ]
+    },
+    "risk_caution": null,
+    "keywords": [
+      "#정기예금",
+      "#지수연동예금",
+      "#신한은행"
+    ],
+    "filename": "세이프지수연동예금 11-21호 상품설명서(고객교부용)_2012092122500000.pdf",
+    "category": "Savings (예적금)",
+    "diversity_tag": "Business_Invest_Parking_Travel"
+  },
+  {
+    "product_name": "신한 행복연금 통장",
+    "interest_payment_date": "매년 3월, 6월, 9월, 12월의 셋째주 마지막 영업일에 계산하여 기준일에 이은 익일에 원금에 더함",
+    "base_interest_rate": 0.1,
+    "max_interest_rate": 0.2,
+    "transfer_fee_waiver": "자기앞수표 발행수수료 면제, 전자금융수수료 면제, CD/ATM 이용수수료 면제, 창구 송금수수료 면제",
+    "withdraw_fee_waiver": "자기앞수표 발행수수료 면제, 전자금융수수료 면제, CD/ATM 이용수수료 면제, 창구 송금수수료 면제",
+    "currency_benefit": "환전(지폐), 여행자수표 매매, 당/타발 외화송금시 고객부담 스프레드의 50% 우대",
+    "join_channel": {
+      "is_online": false,
+      "is_offline": true,
+      "descriptions": [
+        "신한은행 영업점에서 가입 가능"
+      ]
+    },
+    "filename": "신한행복연금통장 상품설명서_2006042600480000.pdf",
+    "category": "Demand_Deposit (입출금)",
+    "diversity_tag": "Housing_Senior_Travel"
+  },
+  {
+    "product_name": "신한 S-birds 스피드업 정기예금",
+    "product_type": "정기예금",
+    "accumulation_type": "정기적립식",
+    "eligibility": {
+      "age_min": null,
+      "age_max": null,
+      "target_detail": "개인 및 개인사업자 고객"
+    },
+    "interest_rate": {
+      "base_rate": null,
+      "max_rate": 0.2,
+      "prime_conditions": [
+        "신한 S-birds 여자농구단 정규리그 1위 달성 시 연 0.100%",
+        "신한 S-birds 여자농구단 우승 시 연 0.100%",
+        "신한 S-birds 여자농구단 응원메시지 수신 시 연 0.100%",
+        "비대면 채널 신규 시 연 0.100%"
+      ]
+    },
+    "min_month": 12,
+    "max_month": 12,
+    "max_deposit": 10000000,
+    "auto_renewal": false,
+    "partial_withdrawal": true,
+    "join_channel": {
+      "is_online": true,
+      "is_offline": false,
+      "descriptions": [
+        "비대면 채널로 신규시 50만원 이상 1억원 이내"
+      ]
+    },
+    "risk_caution": null,
+    "keywords": [
+      "정기예금",
+      "신한 S-birds",
+      "우대이자율"
+    ],
+    "filename": "신한 S-birds 스피드업 정기예금 상품설명서_2015123165200000.pdf",
+    "category": "Savings (예적금)",
+    "diversity_tag": "Business_TaxFree"
+  },
+  {
+    "product_name": "교보증권 제1040회 기타파생결합사채",
+    "pension_type": "기타파생결합사채",
+    "default_option_info": null,
+    "tax_deduction_limit": "퇴직연금 적립금에 한함",
+    "pension_receipt_method": "현금결제",
+    "investment_options": "CD91일물 최종호가수익률",
+    "fees": null,
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "교보증권 본·지점 방문",
+        "금융위 전자공시시스템"
+      ]
+    },
+    "filename": "교보증권 퇴직연금 DLB 1040호 투자설명서_2022122900000159.pdf",
+    "category": "Retirement_Pension (퇴직연금)",
+    "diversity_tag": "Business_Housing_Invest_Pension_Travel"
+  },
+  {
+    "product_name": "보너스주는변액저축보험2404",
+    "insurance_type": "변액저축보험",
+    "is_renewal": true,
+    "declared_rate": null,
+    "min_guarantee_rate": null,
+    "coverage_summary": "사망보험금: 피보험자가 보험기간 중 사망 시 월납 기본보험료의 5배 + 계약자적립액 지급",
+    "tax_benefit_cond": null,
+    "early_termination_warning": "조기 해지 시 원금 손실 위험이 있습니다.",
+    "join_channel": {
+      "is_online": false,
+      "is_offline": true,
+      "descriptions": [
+        "오프라인 판매 채널을 통해 가입 가능"
+      ]
+    },
+    "filename": "ABL생명_(무)보너스주는변액저축보험VI_가입제안서_2022041300000091.pdf",
+    "category": "Insurance (보험/방카)",
+    "diversity_tag": "Business_Invest"
+  },
+  {
+    "product_name": "세이프지수연동예금 KOSPI200 상승형 24-11호(0.5년)",
+    "product_type": "정기예금",
+    "accumulation_type": "자유적립식",
+    "eligibility": {
+      "age_min": null,
+      "age_max": null,
+      "target_detail": "세법상 거주자"
+    },
+    "interest_rate": {
+      "base_rate": 3.46,
+      "max_rate": 3.81,
+      "prime_conditions": [
+        "비대면 채널 가입 시 최소 가입금액 50만원 이상",
+        "최소 가입금액 300만원 이상"
+      ]
+    },
+    "min_month": 6,
+    "max_month": 6,
+    "max_deposit": 300000000,
+    "auto_renewal": false,
+    "partial_withdrawal": true,
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "영업점 및 개인 인터넷뱅킹, SOL뱅크에서 해지 가능",
+        "비대면 채널을 통해 가입 가능"
+      ]
+    },
+    "risk_caution": "중도해지 시 일부 원금 손실 발생 가능.",
+    "keywords": [
+      "KOSPI200",
+      "세이프지수연동예금",
+      "정기예금"
+    ],
+    "filename": "세이프지수연동예금 24-11호 KOSPI200 상승형 (6개월) 상품설명서_2024042300000011.pdf",
+    "category": "Savings (예적금)",
+    "diversity_tag": "General_TaxFree"
+  },
+  {
+    "product_name": "Kids & Teens 적금(아이사랑카드 전용)",
+    "product_type": "정기적금",
+    "accumulation_type": "자유적립식",
+    "eligibility": {
+      "age_min": 0,
+      "age_max": 17,
+      "target_detail": "만 18세 미만의 개인"
+    },
+    "interest_rate": {
+      "base_rate": 2.8,
+      "max_rate": 3.6,
+      "prime_conditions": [
+        "이체거래시 연 0.1%P 가산",
+        "부모가 Tops직장인플랜 저축예금 또는 Mint레이디통장 보유시 연 0.1%P 가산",
+        "부모가 아이사랑카드 결제계좌를 당행으로 지정하고 결제실적이 있는 경우 연 0.3%P 가산"
+      ]
+    },
+    "min_month": 12,
+    "max_month": 36,
+    "max_deposit": 10000000,
+    "auto_renewal": false,
+    "partial_withdrawal": false,
+    "join_channel": {
+      "is_online": false,
+      "is_offline": true,
+      "descriptions": [
+        "영업점 방문 필수"
+      ]
+    },
+    "risk_caution": "이 예금은 예금자보호법에 따라 예금보험공사가 보호하되, 보호 한도는 본 은행에 있는 귀하의 모든 예금보호대상 금융상품의 원금과 소정의 이자를 합하여 1인당 '최고 5천만원'입니다.",
+    "keywords": [
+      "Kids&Teens적금",
+      "아이사랑카드 전용",
+      "자유적립식",
+      "가산이율"
+    ],
+    "filename": "Kids&Teens적금(아이사랑카드 전용) 상품설명서_2006042700580000.pdf",
+    "category": "Savings (예적금)",
+    "diversity_tag": "Worker"
+  },
+  {
+    "product_name": "청년 주택드림 청약통장",
+    "interest_payment_date": "null",
+    "base_interest_rate": 4.5,
+    "max_interest_rate": 4.5,
+    "transfer_fee_waiver": "해당 없음",
+    "withdraw_fee_waiver": "해당 없음",
+    "currency_benefit": "해당 없음",
+    "join_channel": {
+      "is_online": false,
+      "is_offline": true,
+      "descriptions": [
+        "영업점을 통해 가입 가능",
+        "비대면 채널을 통한 가입 불가"
+      ]
+    },
+    "filename": "청년 주택드림 청약통장 상품설명서_2018073090210000.pdf",
+    "category": "Demand_Deposit (입출금)",
+    "diversity_tag": "Housing_TaxFree_Youth"
+  },
+  {
+    "product_name": "동양생명 퇴직연금보험(무배당) 이율보증형",
+    "pension_type": "DB",
+    "default_option_info": null,
+    "tax_deduction_limit": null,
+    "pension_receipt_method": "퇴직 시 연금으로 전환 가능",
+    "investment_options": "원리금보장형 보험(무배당)상품",
+    "fees": "중도해지 시 약정된 이율보다 낮은 중도해지이율 적용",
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "동양생명보험 홈페이지(www.myangel.co.kr)",
+        "퇴직연금 콜센터(1899-4707)"
+      ]
+    },
+    "filename": "동양생명 퇴직연금 이율보증형보험 상품설명서_2021061800000069.pdf",
+    "category": "Retirement_Pension (퇴직연금)",
+    "diversity_tag": "Business_Housing_Pension"
+  },
+  {
+    "product_name": "세이프지수연동예금(프리미어 전용)",
+    "product_type": "정기예금",
+    "accumulation_type": "정기적립식",
+    "eligibility": {
+      "age_min": null,
+      "age_max": null,
+      "target_detail": "개인 및 법인(금융기관 제외)"
+    },
+    "interest_rate": {
+      "base_rate": 2.0,
+      "max_rate": 20.0,
+      "prime_conditions": [
+        "만기 지수가 기준 지수 대비 상승한 경우: 연 5.64% 수익률 확정",
+        "만기 지수가 기준 지수 대비 하락한 경우: 원금 보장",
+        "KOSPI200 안정상승형: 만기 지수 결정일까지 장중 한번이라도 25% 초과 상승한 경우: 연 4.10% 수익률 확정",
+        "KOSPI200 안정형: 만기 지수가 기준 지수 대비 상승한 경우: 연[2.0% + 지수 상승률(%) X 23.40%]"
+      ]
+    },
+    "min_month": 12,
+    "max_month": 12,
+    "max_deposit": 1000000000,
+    "auto_renewal": false,
+    "partial_withdrawal": false,
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "영업점 방문 가능",
+        "인터넷 뱅킹을 통한 가입 가능"
+      ]
+    },
+    "risk_caution": "이 예금은 예금자 보호법에 따라 예금보험공사가 보호하되, 보호한도는 본은행에 있는 귀하의 모든 예금 보호 대상 금융상품의 원금과 소정의 이자를 합하여 1인당 '최고 5천만원'이며, 5천만원을 초과하는 나머지 금액은 보호하지 않습니다.",
+    "keywords": [
+      "#세이프지수연동예금",
+      "#프리미어전용",
+      "#KOSPI200",
+      "#골드프리미어"
+    ],
+    "filename": "세이프지수연동예금(프리미어)12-2호_상품설명서(고객교부용)_2012072620990000.pdf",
+    "category": "Savings (예적금)",
+    "diversity_tag": "Business_Invest_Travel"
+  },
+  {
+    "product_name": "세이프지수연동예금 KOSPI200 연이자지급식 보장강화 상승형 23-34호(2년)",
+    "product_type": "정기예금",
+    "accumulation_type": "자유적립식",
+    "eligibility": {
+      "age_min": null,
+      "age_max": null,
+      "target_detail": "제한없음(세법상거주자)"
+    },
+    "interest_rate": {
+      "base_rate": 4.05,
+      "max_rate": 4.57,
+      "prime_conditions": [
+        "만기일당시의일반정기예금약정기간에해당하는 만기지급식고시이율의½(단,최저금리0.10%)",
+        "만기후1개월초과6개월이내: 만기일당시의일반정기예금약정기간 만기후이율에해당하는 만기지급식고시이율의¼(단,최저금리0.10%)",
+        "만기후6개월초과: 연0.10%"
+      ]
+    },
+    "min_month": 24,
+    "max_month": 24,
+    "max_deposit": 200000000,
+    "auto_renewal": false,
+    "partial_withdrawal": false,
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "영업점 및 개인인터넷뱅킹, SOL뱅킹에서 해지 가능합니다."
+      ]
+    },
+    "risk_caution": "중도해지시 일부 원금손실 발생가능.",
+    "keywords": [
+      "KOSPI200",
+      "세이프지수연동예금",
+      "정기예금",
+      "금리연동"
+    ],
+    "filename": "세이프지수연동예금 23-34호 KOSPI200 연 이자지급식 보장강화 상승형 (2년 )상품설명서_2023112000000048.pdf",
+    "category": "Savings (예적금)",
+    "diversity_tag": "General_TaxFree"
+  },
+  {
+    "product_name": "키즈앤틴즈(Kids&Teens) 통장",
+    "interest_payment_date": "null",
+    "base_interest_rate": 0.1,
+    "max_interest_rate": 0.1,
+    "transfer_fee_waiver": "신한은행 CD/ATM을 이용한 신한은행 계좌의 마감후 신한은행으로의 이체시 수수료 면제",
+    "withdraw_fee_waiver": "신한은행 CD/ATM을 이용한 신한은행 계좌의 마감후 인출시 수수료 면제. 단, 다른은행으로의 이체는 면제가 불가함",
+    "currency_benefit": "null",
+    "join_channel": {
+      "is_online": false,
+      "is_offline": true,
+      "descriptions": [
+        "신한은행 지점에서 가입 가능"
+      ]
+    },
+    "filename": "Kids&Teens(키즈앤틴즈)통장 상품설명서_2006042700550000.pdf",
+    "category": "Demand_Deposit (입출금)",
+    "diversity_tag": "General_Invest"
+  },
+  {
+    "product_name": "신한 나라사랑 적금",
+    "product_type": "적립식예금",
+    "accumulation_type": "정기적립식/자유적립식",
+    "eligibility": {
+      "age_min": null,
+      "age_max": null,
+      "target_detail": "군에 복무하는 자(군무원 포함), 병무청이 지정한『병역명문가』로 선정된 자 및 가족, 중장기복무제대군인, 신한은행 나라사랑카드 소지자"
+    },
+    "interest_rate": {
+      "base_rate": 1.9,
+      "max_rate": 2.7,
+      "prime_conditions": [
+        "군복무자 확인서류 제시 시 연0.6%P 우대",
+        "병역명문가 확인서류 제시 시 연0.6%P 우대",
+        "중장기복무제대군인 확인서류 제시 시 연0.6%P 우대",
+        "신한은행 나라사랑카드 소지 시 연0.6%P 우대",
+        "군인급여이체 실적 시 연0.4%P 가산",
+        "정기적립식 월저축금액 10만원 이상 시 연0.1%P 우대",
+        "자유적립식 매회 저축금액 10만원 이상 시 연0.1%P 우대"
+      ]
+    },
+    "min_month": 12,
+    "max_month": 36,
+    "max_deposit": 10000000,
+    "auto_renewal": false,
+    "partial_withdrawal": false,
+    "join_channel": {
+      "is_online": false,
+      "is_offline": true,
+      "descriptions": [
+        "영업점 방문 필수"
+      ]
+    },
+    "risk_caution": null,
+    "keywords": [
+      "군인",
+      "적금",
+      "우대금리"
+    ],
+    "filename": "신한나라사랑적금 상품설명서_2006042600070000.pdf",
+    "category": "Savings (예적금)",
+    "diversity_tag": "Soldier_TaxFree_Travel"
+  },
+  {
+    "product_name": "자유전환 정기예금",
+    "product_type": "정기예금",
+    "accumulation_type": "정기적립식",
+    "eligibility": {
+      "age_min": null,
+      "age_max": null,
+      "target_detail": null
+    },
+    "interest_rate": {
+      "base_rate": null,
+      "max_rate": null,
+      "prime_conditions": [
+        "가입기간 1개월 이상 경과 후 전환 가능",
+        "최소 3백만원 이상 가입"
+      ]
+    },
+    "min_month": 1,
+    "max_month": 12,
+    "max_deposit": null,
+    "auto_renewal": false,
+    "partial_withdrawal": false,
+    "join_channel": {
+      "is_online": false,
+      "is_offline": true,
+      "descriptions": [
+        "영업점 방문 필수"
+      ]
+    },
+    "risk_caution": null,
+    "keywords": [],
+    "filename": "자유전환정기예금 상품설명서_2006042600860000.pdf",
+    "category": "Savings (예적금)",
+    "diversity_tag": "General_Travel"
+  },
+  {
+    "product_name": "신한 SOL메이트 연금 통장",
+    "interest_payment_date": "매월 셋째주 마지막 영업일에 계산하여 그 익일(원가일)에 원금에 더함",
+    "base_interest_rate": 0.1,
+    "max_interest_rate": 2.9,
+    "transfer_fee_waiver": "신한은행 CD/ATM을 이용한 신한은행 계좌의 다른은행이체수수료 월 10회 면제 및 현금인출수수료 면제",
+    "withdraw_fee_waiver": "다른은행 CD/ATM을 이용한 신한은행 계좌의 현금인출수수료 월 5회 면제",
+    "currency_benefit": null,
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "영업점",
+        "신한 SOL뱅크"
+      ]
+    },
+    "filename": "신한 SOL메이트 연금 통장 상품설명서_2025031300000068.pdf",
+    "category": "Demand_Deposit (입출금)",
+    "diversity_tag": "Housing_Invest_Pension_Soldier_TaxFree"
+  },
+  {
+    "product_name": "시간에 투자하는 변액연금보험 무배당 2108",
+    "insurance_type": "변액연금보험",
+    "is_renewal": true,
+    "declared_rate": 2.0,
+    "min_guarantee_rate": 1.0,
+    "coverage_summary": "최저연금보증형 1+α 및 2+α",
+    "tax_benefit_cond": "보험차익에 대한 이자소득세 비과세 가능",
+    "early_termination_warning": "조기 해지 시 원금 손실 위험 경고",
+    "join_channel": {
+      "is_online": true,
+      "is_offline": false,
+      "descriptions": [
+        "다이렉트(온라인) 상품입니다."
+      ]
+    },
+    "filename": "미래에셋생명_시간에 투자하는 변액연금보험(무)2108_약관&운용설명서_2021122800000023.pdf",
+    "category": "Insurance (보험/방카)",
+    "diversity_tag": "Housing_Invest_Parking_Soldier_TaxFree_Travel"
+  },
+  {
+    "product_name": "퇴직연금 정기예금",
+    "pension_type": "DB",
+    "default_option_info": "이 금융상품은 디폴트옵션 정기예금으로 사전지정운용방법에 따라 운용됩니다.",
+    "tax_deduction_limit": null,
+    "pension_receipt_method": "만기일시지급식",
+    "investment_options": "원리금보장형 연금자산으로 운용",
+    "fees": "중도해지 시 차등 이자율 적용",
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "키움저축은행 고객센터(1670-0077)로 문의 가능",
+        "인터넷 홈페이지(www.kiwoombank.com)에서 정보 확인 가능"
+      ]
+    },
+    "filename": "키움저축은행 퇴직연금 정기예금 상품설명서_2019021497780000.pdf",
+    "category": "Retirement_Pension (퇴직연금)",
+    "diversity_tag": "Business_Invest_Pension_TaxFree"
+  },
+  {
+    "product_name": "신한은행 디폴트옵션 중립투자형 포트폴리오 2",
+    "pension_type": "DC",
+    "default_option_info": "사전지정운용방법에 따라 적립금의 일부 또는 전부가 운용될 경우 가입자가 운용하고 있는 전체 퇴직연금 적립금의 위험도가 변경될 수 있습니다.",
+    "tax_deduction_limit": "세액공제받은 납입원금 및 수익에 대해 소득세(16.5%) 세율이 부과될 수 있습니다.",
+    "pension_receipt_method": "연금 개시 후 연금 외의 형태로 수령 시 기타 소득세(16.5%)로 과세되는 등 세제상 불이익을 받을 수 있습니다.",
+    "investment_options": "정기예금 30%, 펀드 70% (글로벌주식, 채권, 부동산, 원자재 등 다양한 자산에 분산 투자)",
+    "fees": "상품을 구성하는 집합투자상품(펀드)의 비용은 발생하나 포트폴리오 구성에 따른 추가적인 비용은 발생하지 않습니다.",
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "신한은행 영업점 방문",
+        "신한은행 인터넷 홈페이지"
+      ]
+    },
+    "filename": "신한은행 디폴트옵션 중립투자형 포트폴리오 2_2023010500000105.pdf",
+    "category": "Retirement_Pension (퇴직연금)",
+    "diversity_tag": "Housing_Invest_Pension_Travel_Worker"
+  },
+  {
+    "product_name": "세이프지수연동예금(퇴직연금전용 11-1호)",
+    "pension_type": "DB",
+    "default_option_info": null,
+    "tax_deduction_limit": "퇴직소득세 과세",
+    "pension_receipt_method": "만기일시지급식",
+    "investment_options": "KOSPI200 지수연동",
+    "fees": "중도해지 수수료: 원금의 2.79% ~ 2.37%",
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "모집기간: 2011.1.26 ~ 1.31",
+        "가입대상: DB형 및 개인형 IRA 가입자"
+      ]
+    },
+    "filename": "세이프지수연동예금(퇴직연금전용)11-1호 상품설명서_2011111901440000.pdf",
+    "category": "Retirement_Pension (퇴직연금)",
+    "diversity_tag": "General_Invest_Pension_TaxFree"
+  },
+  {
+    "product_name": "마이홈플랜청약부금",
+    "product_type": "정기적립식",
+    "accumulation_type": "정기적립식",
+    "eligibility": {
+      "age_min": 19,
+      "age_max": null,
+      "target_detail": "주택청약예금 실시지역에 거주하는 국민 또는 외국인 거주자"
+    },
+    "interest_rate": {
+      "base_rate": 2.1,
+      "max_rate": 2.1,
+      "prime_conditions": [
+        "36개월 이상: 연 2.100%",
+        "60개월: 연 2.100%"
+      ]
+    },
+    "min_month": 36,
+    "max_month": 60,
+    "max_deposit": 500000,
+    "auto_renewal": false,
+    "partial_withdrawal": false,
+    "join_channel": {
+      "is_online": false,
+      "is_offline": true,
+      "descriptions": [
+        "영업점 방문 필수"
+      ]
+    },
+    "risk_caution": "만기 전 해지할 경우 약정한 이자율보다 낮은 중도해지이자율이 적용됨.",
+    "keywords": [
+      "주택청약",
+      "정기적립식",
+      "신한은행"
+    ],
+    "filename": "마이홈플랜청약부금 상품설명서_2006042500410000.pdf",
+    "category": "Savings (예적금)",
+    "diversity_tag": "General_Housing_TaxFree"
+  },
+  {
+    "product_name": "(무)보너스주는변액저축보험(월납)_BA",
+    "insurance_type": "변액저축보험",
+    "is_renewal": null,
+    "declared_rate": 2.75,
+    "min_guarantee_rate": null,
+    "coverage_summary": "변액보험으로 투자실적에 따라 보험금 및 해약환급금 변동",
+    "tax_benefit_cond": "해당 사항 없음",
+    "early_termination_warning": "조기 해지 시 원금 손실 위험이 있음",
+    "join_channel": {
+      "is_online": false,
+      "is_offline": true,
+      "descriptions": [
+        "오프라인 판매 채널을 통해 가입 가능"
+      ]
+    },
+    "filename": "ABL생명_(무)보너스주는변액저축보험VI_상품설명서_2022041300000097.pdf",
+    "category": "Insurance (보험/방카)",
+    "diversity_tag": "Housing_Invest_Senior_TaxFree_Travel"
+  },
+  {
+    "product_name": "신한 직장IN플러스 적금",
+    "product_type": "정기적립식, 자유적립식",
+    "accumulation_type": "정기적립식, 자유적립식",
+    "eligibility": {
+      "age_min": 18,
+      "age_max": null,
+      "target_detail": "직장인"
+    },
+    "interest_rate": {
+      "base_rate": 1.3,
+      "max_rate": 1.1,
+      "prime_conditions": [
+        "급여이체에 의한 우대이자율(연 0.500%P)",
+        "신한은행 적립식 상품 월 10만원 이상 이체실적이 3개월 이상인 경우 연 0.200%P",
+        "신한카드 결제계좌를 신한카드로 지정하고 월10만원 이상 결제실적이 3개월 이상인 경우 연 0.100%P",
+        "신한금융투자 증권거래 실적 3일 이상인 경우 연 0.100%P",
+        "신한생명 보험료 납부계좌를 신한은행으로 지정하고 납부실적이 3개월 이상인 경우 연 0.100%P",
+        "스윙 또는 보너스월 입금시 연 0.100%P"
+      ]
+    },
+    "min_month": 12,
+    "max_month": 36,
+    "max_deposit": 1000000,
+    "auto_renewal": false,
+    "partial_withdrawal": false,
+    "join_channel": {
+      "is_online": false,
+      "is_offline": true,
+      "descriptions": [
+        "영업점 방문 필수"
+      ]
+    },
+    "risk_caution": null,
+    "keywords": [
+      "신한은행",
+      "적금",
+      "우대금리"
+    ],
+    "filename": "신한 직장IN플러스 적금_2012031315300000.pdf",
+    "category": "Savings (예적금)",
+    "diversity_tag": "Invest_TaxFree_Worker"
+  },
+  {
+    "product_name": "세이프지수연동예금달러/원환율하락형22-22호(1년)",
+    "product_type": "정기예금",
+    "accumulation_type": "정기적립식",
+    "eligibility": {
+      "age_min": null,
+      "age_max": null,
+      "target_detail": "가입자격 제한없음"
+    },
+    "interest_rate": {
+      "base_rate": 5.1,
+      "max_rate": 5.3,
+      "prime_conditions": [
+        "최소가입금액 300만원이상(단, 인터넷뱅킹, SOL뱅킹, M신한으로가입시50만원이상)"
+      ]
+    },
+    "min_month": 12,
+    "max_month": 12,
+    "max_deposit": 1000000000,
+    "auto_renewal": false,
+    "partial_withdrawal": true,
+    "join_channel": {
+      "is_online": true,
+      "is_offline": false,
+      "descriptions": [
+        "인터넷뱅킹, SOL뱅킹, M신한으로 가입 가능"
+      ]
+    },
+    "risk_caution": "중도해지시 일부 원금손실 발생가능",
+    "keywords": [
+      "세이프지수연동예금",
+      "정기예금",
+      "환율연동"
+    ],
+    "filename": "세이프 지수연동예금 22-22호 달러원 환율하락형(1년) 상품설명서_2022112100000035.pdf",
+    "category": "Savings (예적금)",
+    "diversity_tag": "General_TaxFree"
+  },
+  {
+    "product_name": "세이프지수연동예금(IRA전용) KOSPI200 안정형11-6호",
+    "product_type": "정기예금",
+    "accumulation_type": "정기적립식",
+    "eligibility": {
+      "age_min": null,
+      "age_max": null,
+      "target_detail": "개인형IRA 가입자"
+    },
+    "interest_rate": {
+      "base_rate": 2.0,
+      "max_rate": 7.1,
+      "prime_conditions": [
+        "만기지수가 기준지수 대비 3% 이상 상승 시 연 7.10%",
+        "만기지수가 기준지수 대비 0% 이상 3% 미만 상승 시 연[2.00+지수상승률(%)×170.00%] 참여율 170%",
+        "만기지수가 기준지수 대비 하락 시 연 2.00%"
+      ]
+    },
+    "min_month": 12,
+    "max_month": 12,
+    "max_deposit": 1000000000,
+    "auto_renewal": false,
+    "partial_withdrawal": false,
+    "join_channel": {
+      "is_online": false,
+      "is_offline": true,
+      "descriptions": [
+        "영업점 방문 필수"
+      ]
+    },
+    "risk_caution": "고객님께서 선택하신 상품에 대한 주가지수 예측이 어긋날 경우 일반 정기예금보다 낮은 이율이 적용될 수 있으며 만기 전 중도해지 시에는 일부 원금 손실이 발생합니다.",
+    "keywords": [
+      "세이프지수연동예금",
+      "IRA전용",
+      "KOSPI200",
+      "정기예금",
+      "금리연동"
+    ],
+    "filename": "세이프(IRA전용)11-6호 상품설명서_2006042500660000.pdf",
+    "category": "Savings (예적금)",
+    "diversity_tag": "General_Pension_TaxFree"
+  },
+  {
+    "product_name": "퇴직연금 정기예금",
+    "pension_type": "DC",
+    "default_option_info": null,
+    "tax_deduction_limit": null,
+    "pension_receipt_method": "만기일시지급식",
+    "investment_options": "정기예금",
+    "fees": "중도해지이율 적용",
+    "join_channel": {
+      "is_online": false,
+      "is_offline": true,
+      "descriptions": [
+        "영업점 방문 신청"
+      ]
+    },
+    "filename": "제주은행 퇴직연금정기예금 (DB)_제주은행 자산 상품설명서_2015060160740000.pdf",
+    "category": "Retirement_Pension (퇴직연금)",
+    "diversity_tag": "Housing_Invest_Pension_Senior_TaxFree"
+  },
+  {
+    "product_name": "유안타 W ELB 제115호",
+    "pension_type": "ELB",
+    "default_option_info": null,
+    "tax_deduction_limit": "해당 없음",
+    "pension_receipt_method": "만기상환금액 지급일에 지급",
+    "investment_options": "KOSPI200 지수",
+    "fees": "해당 없음",
+    "join_channel": {
+      "is_online": false,
+      "is_offline": true,
+      "descriptions": [
+        "유안타증권 본, 지점에서 직접 방문하여 인수 가능"
+      ]
+    },
+    "filename": "유안타증권 퇴직연금 ELB 115호 투자설명서_2022083000000012.pdf",
+    "category": "Retirement_Pension (퇴직연금)",
+    "diversity_tag": "Invest_Pension_Soldier_Travel"
+  },
+  {
+    "product_name": "신한 삼성라이온즈 정기예금",
+    "product_type": "정기예금",
+    "accumulation_type": "정기적립식",
+    "eligibility": {
+      "age_min": null,
+      "age_max": null,
+      "target_detail": "개인 및 개인사업자 고객 (1인1계좌)"
+    },
+    "interest_rate": {
+      "base_rate": 0.1,
+      "max_rate": 0.3,
+      "prime_conditions": [
+        "삼성라이온즈가 포스트시즌 진출시 연 0.100%p",
+        "삼성라이온즈가 한국시리즈 진출시 연 0.300%p",
+        "삼성라이온즈가 한국시리즈 우승시 연 0.100%p"
+      ]
+    },
+    "min_month": 12,
+    "max_month": 12,
+    "max_deposit": 10000000,
+    "auto_renewal": false,
+    "partial_withdrawal": true,
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "비대면 채널로 신규할 경우 50만원 이상 1억원 이내"
+      ]
+    },
+    "risk_caution": null,
+    "keywords": [
+      "정기예금",
+      "신한은행",
+      "삼성라이온즈"
+    ],
+    "filename": "신한 삼성라이온즈 정기예금 상품설명서_2018031287120000.pdf",
+    "category": "Savings (예적금)",
+    "diversity_tag": "Business_TaxFree"
+  },
+  {
+    "product_name": "신한 가계富 통장",
+    "interest_payment_date": "매년 3월,6월,9월,12월의 셋째주 마지막 영업일",
+    "base_interest_rate": 0.1,
+    "max_interest_rate": 0.1,
+    "transfer_fee_waiver": "전자금융 이체수수료 월 30회 면제 (단, 다른은행으로의 자동이체수수료 면제 불가)",
+    "withdraw_fee_waiver": "신한은행 자동화기기를 이용한 마감후 인출수수료 월 30회 면제",
+    "currency_benefit": null,
+    "join_channel": {
+      "is_online": false,
+      "is_offline": true,
+      "descriptions": [
+        "신한은행 지점에서 가입 가능"
+      ]
+    },
+    "filename": "신한 가계부 통장 상품설명서_2013101741670000.pdf",
+    "category": "Demand_Deposit (입출금)",
+    "diversity_tag": "Business_Housing_TaxFree"
+  },
+  {
+    "product_name": "신한 한국보건산업진흥원 (KHIDI) 전용통장",
+    "interest_payment_date": "매년 6월,12월 셋째주 마지막 영업일",
+    "base_interest_rate": 0.1,
+    "max_interest_rate": null,
+    "transfer_fee_waiver": "한국보건산업진흥원과의 협약에 따라 이체 요청을 통해서만 출금 가능",
+    "withdraw_fee_waiver": "자동이체 등록이 제한되어 출금 수수료 면제 조건 없음",
+    "currency_benefit": null,
+    "join_channel": {
+      "is_online": false,
+      "is_offline": true,
+      "descriptions": [
+        "신한은행 기관고객1본부에서 개발한 상품"
+      ]
+    },
+    "filename": "신한 한국보건산업진흥원 전용통장_2017122985400000.pdf",
+    "category": "Demand_Deposit (입출금)",
+    "diversity_tag": "General_Parking"
+  },
+  {
+    "product_name": "무배당 더쉬운자산관리 ETF변액저축보험 2.0(적립형)",
+    "insurance_type": "변액보험",
+    "is_renewal": null,
+    "declared_rate": null,
+    "min_guarantee_rate": null,
+    "coverage_summary": "사망보험금 지급사유: 피보험자가 사망한 경우, 지급금액: xxx,xxx,xxx원 + 계약자적립액",
+    "tax_benefit_cond": "보험차익 비과세 가능",
+    "early_termination_warning": "조기 해지 시 원금 손실 위험 경고",
+    "join_channel": {
+      "is_online": false,
+      "is_offline": true,
+      "descriptions": [
+        "오프라인 판매 채널을 통해 가입 가능"
+      ]
+    },
+    "filename": "BNP파리바카디프생명 (무)더쉬운자산관리 ETF변액보험 2.0_가입제안서(적립형)_2021122700000002.pdf",
+    "category": "Insurance (보험/방카)",
+    "diversity_tag": "Business_Housing_Invest_TaxFree"
+  },
+  {
+    "product_name": "무배당 더쉬운자산관리 ETF변액저축보험 2.0(일시납)",
+    "insurance_type": "변액보험",
+    "is_renewal": null,
+    "declared_rate": null,
+    "min_guarantee_rate": null,
+    "coverage_summary": "사망보험금 지급사유: 피보험자가 사망한 경우, 지급금액: xxx,xxx,xxx원 + 계약자적립액",
+    "tax_benefit_cond": "보험차익 비과세 가능",
+    "early_termination_warning": "조기 해지 시 원금 손실 위험 경고",
+    "join_channel": {
+      "is_online": false,
+      "is_offline": true,
+      "descriptions": [
+        "가입제안서는 보험계약자가 가입여부를 결정하기 위해 필요한 기본적인 내용만 안내합니다."
+      ]
+    },
+    "filename": "BNP파리바카디프생명_(무)더쉬운자산관리ETF변액저축보험2.0(일시납)_가입제안서_2022062400000231.pdf",
+    "category": "Insurance (보험/방카)",
+    "diversity_tag": "Business_Housing_Invest_TaxFree"
+  },
+  {
+    "product_name": "세이프지수연동예금(퇴직연금전용) KKOOSSPPII220000 안정형11-5호",
+    "pension_type": "DB",
+    "default_option_info": null,
+    "tax_deduction_limit": "이자소득세는 비과세되며 퇴직연금 수령 시 퇴직소득세가 과세됩니다.",
+    "pension_receipt_method": "만기 후 6개월 이내: 만기일 당시의 일반정기예금 약정기간에 해당하는 월이자 지급식 고시이율의 1/2",
+    "investment_options": "KOSPI200",
+    "fees": "중도해지 시 수수료 발생, 원금 손실 가능",
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "신한은행 영업점 방문",
+        "신한폰뱅킹 서비스 이용"
+      ]
+    },
+    "filename": "세이프지수연동예금(퇴직연금전용) 11-5호 상품설명서(고객교부용)_2012092122460000.pdf",
+    "category": "Retirement_Pension (퇴직연금)",
+    "diversity_tag": "Business_Invest_Pension_TaxFree_Travel"
+  },
+  {
+    "product_name": "Global Partner Account(글로벌 파트너 통장)",
+    "interest_payment_date": "매년 3월, 6월, 9월, 12월 셋째 주 마지막 영업일에 계산하여 그 익일(원가일)에 원금에 더함",
+    "base_interest_rate": 0.0,
+    "max_interest_rate": 0.3,
+    "transfer_fee_waiver": "외국인 직접투자 배당금(이자) 당발 송금 시 송금수수료 면제",
+    "withdraw_fee_waiver": "출금 시 먼저 입금한 금액부터 출금되므로(선입선출법 적용) 입출금이 자주 발생하는 경우 7일 미만 예치기간에 대한 약정이자율이 적용될 수 있음",
+    "currency_benefit": "환전 및 송금 시 환율우대서비스 기본 제공",
+    "join_channel": {
+      "is_online": true,
+      "is_offline": false,
+      "descriptions": [
+        "비대면 채널을 통해 가입 가능",
+        "통장 미 발행 요청 시 통장 또는 증서가 교부되지 않음"
+      ]
+    },
+    "filename": "GlobalPartnerAccount(글로벌 파트너 통장) 상품설명서_2006042700400000.pdf",
+    "category": "Demand_Deposit (입출금)",
+    "diversity_tag": "Business_Invest_TaxFree_Travel"
+  },
+  {
+    "product_name": "대우증권 제417회 주가연계파생결합사채",
+    "pension_type": "IRP",
+    "default_option_info": null,
+    "tax_deduction_limit": "퇴직연금 적립금으로 청약을 제한합니다.",
+    "pension_receipt_method": "현금결제",
+    "investment_options": "KOSPI200 지수",
+    "fees": "발행인은 한국예탁결제원을 본 증권에 대한 등록기관으로 지정하며, 투자자를 갈음하여 본 증권을 한국예탁결제원 명의로 일괄등록합니다.",
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "대우증권 HTS 및 홈페이지를 통한 온라인 청약 가능",
+        "청약취급처에서 오프라인 청약 가능"
+      ]
+    },
+    "filename": "대우증권 퇴직연금 ELB 417호 (1년)_2015060160610000.pdf",
+    "category": "Retirement_Pension (퇴직연금)",
+    "diversity_tag": "Business_Housing_Invest_Parking_Pension"
+  },
+  {
+    "product_name": "신한 청년 DREAM 적금(인천시)",
+    "product_type": "적금",
+    "accumulation_type": "자유적립식",
+    "eligibility": {
+      "age_min": null,
+      "age_max": null,
+      "target_detail": "인천시에서 인정하는 기준 (군입대, 본인사망)으로 중도해지시는 최초 신규시 적용된 약정이자율 적용"
+    },
+    "interest_rate": {
+      "base_rate": 2.7,
+      "max_rate": 3.0,
+      "prime_conditions": [
+        "주택청약 신한은행 ‘주택청약종합저축’(청년우대형 주택청약종합저축 포함) 만기전일까지 유지한 경우 연 0.20%",
+        "신한카드 신한은행 통장을 통해 신한카드 (신용/체크) 결연 제 실적이 있는 경우 연 0.10%"
+      ]
+    },
+    "min_month": 36,
+    "max_month": 36,
+    "max_deposit": 450000,
+    "auto_renewal": false,
+    "partial_withdrawal": false,
+    "join_channel": {
+      "is_online": false,
+      "is_offline": true,
+      "descriptions": [
+        "영업점에서만 해지 가능"
+      ]
+    },
+    "risk_caution": null,
+    "keywords": [
+      "신한은행",
+      "청년적금",
+      "DREAM 적금",
+      "인천시"
+    ],
+    "filename": "신한 청년 DREAM적금(인천시) 상품설명서_2019070503820000.pdf",
+    "category": "Savings (예적금)",
+    "diversity_tag": "Housing_TaxFree_Youth"
+  },
+  {
+    "product_name": "푸른 대전 가꾸기 통장",
+    "interest_payment_date": "null",
+    "base_interest_rate": 0.1,
+    "max_interest_rate": 4.8,
+    "transfer_fee_waiver": "전자금융수수료 면제: 인터넷뱅킹, 폰뱅킹(ARS에 한함), 모바일뱅킹의 신한은행 및 다른은행으로의 이체수수료 면제",
+    "withdraw_fee_waiver": "신한은행 마감후 CD/ATM 현금 인출수수료 및 신한은행간 계좌이체 수수료 면제",
+    "currency_benefit": "null",
+    "join_channel": {
+      "is_online": true,
+      "is_offline": false,
+      "descriptions": [
+        "온라인 가입 가능"
+      ]
+    },
+    "filename": "푸른대전가꾸기통장 상품설명서_2006042600980000.pdf",
+    "category": "Demand_Deposit (입출금)",
+    "diversity_tag": "Business"
+  },
+  {
+    "product_name": "퇴직연금 정기예금",
+    "pension_type": "DC",
+    "default_option_info": null,
+    "tax_deduction_limit": null,
+    "pension_receipt_method": "만기일에 원금과 이자를 합산하여 상환",
+    "investment_options": null,
+    "fees": null,
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "영업점 방문 신청",
+        "인터넷뱅킹 등 비대면채널 가입 가능"
+      ]
+    },
+    "filename": "제주은행 퇴직연금 정기예금 상품설명서_2015060160870000.pdf",
+    "category": "Retirement_Pension (퇴직연금)",
+    "diversity_tag": "Housing_Pension_Senior_TaxFree"
+  },
+  {
+    "product_name": "신한 군인행복 적금",
+    "product_type": "정기적립식",
+    "accumulation_type": "자유적립식",
+    "eligibility": {
+      "age_min": null,
+      "age_max": null,
+      "target_detail": "군 복무 중인 장교, 준사관, 부사관, 군무원 및 각 군 사관생도, 사관/부사관 후보생, 군인연금 수급권자 – 1인 1계좌"
+    },
+    "interest_rate": {
+      "base_rate": 1.6,
+      "max_rate": 5.1,
+      "prime_conditions": [
+        "급여실적우대 연 2.00%",
+        "비대면 채널 우대 연 1.00%",
+        "청약종합저축 실적 우대 연 0.50%"
+      ]
+    },
+    "min_month": 36,
+    "max_month": 36,
+    "max_deposit": 500000,
+    "auto_renewal": true,
+    "partial_withdrawal": true,
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "영업점 및 비대면 채널을 통해서 해지 가능",
+        "비대면 채널을 통해 가입 가능"
+      ]
+    },
+    "risk_caution": null,
+    "keywords": [
+      "군인",
+      "적금",
+      "우대이자율"
+    ],
+    "filename": "신한 군인행복적금 상품설명서_2016033167720000.pdf",
+    "category": "Savings (예적금)",
+    "diversity_tag": "Housing_Soldier_TaxFree"
+  },
+  {
+    "product_name": "퇴직연금정기예금(디폴트옵션)",
+    "pension_type": "DC",
+    "default_option_info": "사전지정운용제도에 따라 퇴직연금사업자가 취급하는 정기예금상품",
+    "tax_deduction_limit": "비과세종합저축 가입 불가",
+    "pension_receipt_method": "만기일시지급식 또는 중도해지 요청 시 이자 지급",
+    "investment_options": "퇴직연금 적립금 운용지시에 따라 정기예금 상품",
+    "fees": "없음",
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "영업점 및 인터넷 홈페이지를 통한 가입 가능",
+        "비대면 채널을 통한 가입 가능"
+      ]
+    },
+    "filename": "기업은행 디폴트옵션 퇴직연금 정기예금 상품설명서_2025082900000150.pdf",
+    "category": "Retirement_Pension (퇴직연금)",
+    "diversity_tag": "Business_Housing_Invest_Pension_TaxFree"
+  },
+  {
+    "product_name": "신한은행일임형ISA 미래설계MP (위험중립형)",
+    "category_detail": "ISA",
+    "underlying_asset": "주식형, 채권형, 대체투자",
+    "payout_cycle": "만기일시지급",
+    "risk_grade": 4,
+    "principal_protected": false,
+    "loss_warning": "본상품은운용결과에따라원금의일부또는전부손실이발생할수있음",
+    "total_fee_rate": 0.4,
+    "fee_detail": "일임보수: 후취연0.4% (비대면0.3%)",
+    "recommended_period": "3년",
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "비대면 가입 가능",
+        "오프라인 지점 방문 가능"
+      ]
+    },
+    "filename": "3003_일임형ISA MP설명서(미래설계MP 위험중립형)_2020070800000034.pdf",
+    "category": "Investment (투자/ISA/골드)",
+    "diversity_tag": "Housing_Invest_Parking_TaxFree_Worker"
+  },
+  {
+    "product_name": "WM 세이프지수연동예금",
+    "product_type": "정기예금",
+    "accumulation_type": "정기적립식",
+    "eligibility": {
+      "age_min": null,
+      "age_max": null,
+      "target_detail": "가입자격 제한없음"
+    },
+    "interest_rate": {
+      "base_rate": 1.09,
+      "max_rate": 5.55,
+      "prime_conditions": [
+        "최소가입금액 300만원 이상(단, 인터넷뱅킹 또는 스마트폰뱅킹으로 가입 시 50만원 이상)"
+      ]
+    },
+    "min_month": 12,
+    "max_month": 24,
+    "max_deposit": 200000000,
+    "auto_renewal": false,
+    "partial_withdrawal": false,
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "인터넷뱅킹 또는 스마트폰뱅킹으로 가입 가능",
+        "영업점 방문 가능"
+      ]
+    },
+    "risk_caution": "중도해지 시 원금 손실 발생 가능성 있음.",
+    "keywords": [
+      "KOSPI200",
+      "S&P Economic Cycle Factor Rotator",
+      "원금보장",
+      "지수연동"
+    ],
+    "filename": "WM 세이프지수연동예금 21-04 상품설명서_2021022500000037.pdf",
+    "category": "Savings (예적금)",
+    "diversity_tag": "Business_Invest_TaxFree_Travel"
+  },
+  {
+    "product_name": "신한금융투자 제685호 파생결합사채",
+    "pension_type": "DB",
+    "default_option_info": null,
+    "tax_deduction_limit": "연 300만원",
+    "pension_receipt_method": "현금결제",
+    "investment_options": "KOSPI200",
+    "fees": "없음",
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "신한금융투자 홈페이지에서 청약 가능",
+        "신한금융투자 본지점 방문 가능"
+      ]
+    },
+    "filename": "신한금융투자 퇴직연금 ELB 685호_2015060160720000.pdf",
+    "category": "Retirement_Pension (퇴직연금)",
+    "diversity_tag": "Housing_Invest_Pension_Soldier"
+  },
+  {
+    "product_name": "삼성 에이스변액저축보험(B2401)(무배당)",
+    "insurance_type": "변액보험",
+    "is_renewal": null,
+    "declared_rate": null,
+    "min_guarantee_rate": null,
+    "coverage_summary": "이 보험계약은 실적배당형 상품으로 보험금 및 해약환급금이 특별계정의 운용실적에 따라 변동됩니다.",
+    "tax_benefit_cond": "약관에서 정한 최저사망보험금 및 특약에 한하여 예금자보호법에 따라 보호됩니다.",
+    "early_termination_warning": "중도해지시 해약환급금에 대한 최저보증이 없으므로 원금손실이 발생할 수 있으며, 그 손실은 모두 계약자에게 귀속됩니다.",
+    "join_channel": {
+      "is_online": false,
+      "is_offline": true,
+      "descriptions": [
+        "다이렉트(온라인) 상품이 아닙니다."
+      ]
+    },
+    "filename": "삼성 에이스변액저축보험(B2201)(무배당)_운용설명서_2021122700000128.pdf",
+    "category": "Insurance (보험/방카)",
+    "diversity_tag": "Business_Invest_Parking_Pension_Travel"
+  },
+  {
+    "product_name": "일일수퍼기업자유예금",
+    "product_type": "유동성 예금",
+    "accumulation_type": "자유적립식",
+    "eligibility": {
+      "age_min": null,
+      "age_max": null,
+      "target_detail": "법인, 국가기관, 자치단체, 법인으로 보는 단체(단, 금융기관 제외) (1사 1계좌)"
+    },
+    "interest_rate": {
+      "base_rate": 0.1,
+      "max_rate": 1.5,
+      "prime_conditions": [
+        "일 최종잔액이 10억원 이상인 경우, 0원 초과 200억원 이하 구간에 대해 우대이자율 적용"
+      ]
+    },
+    "min_month": null,
+    "max_month": null,
+    "max_deposit": null,
+    "auto_renewal": false,
+    "partial_withdrawal": false,
+    "join_channel": {
+      "is_online": false,
+      "is_offline": true,
+      "descriptions": [
+        "영업점 방문 필수"
+      ]
+    },
+    "risk_caution": null,
+    "keywords": [
+      "법인예금",
+      "유동성예금",
+      "우대금리"
+    ],
+    "filename": "일일수퍼기업자유예금_2024081300000036.pdf",
+    "category": "Savings (예적금)",
+    "diversity_tag": "Business_Parking_TaxFree"
+  },
+  {
+    "product_name": "DB한국지수연계증권투자신탁제3호",
+    "pension_type": "DB",
+    "default_option_info": null,
+    "tax_deduction_limit": "세액공제 한도는 연간 400만원입니다.",
+    "pension_receipt_method": "연금 개시 나이는 55세 이상이며, 최소 10년 이상 납입해야 합니다.",
+    "investment_options": "주식, 채권, 부동산 등 다양한 자산에 투자 가능",
+    "fees": "운용보수, 판매수수료 등 다양한 수수료가 발생할 수 있습니다.",
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "온라인 및 오프라인에서 가입 가능",
+        "상담을 통해 상품에 대한 자세한 정보 제공"
+      ]
+    },
+    "filename": "DB한국지수연계증권투자신탁제3호[채권]_2022021700000143.pdf",
+    "category": "Retirement_Pension (퇴직연금)",
+    "diversity_tag": "General_Housing_Invest_Pension_Travel"
+  },
+  {
+    "product_name": "황금우산 골드리슈",
+    "category_detail": "정기예금",
+    "underlying_asset": "골드",
+    "payout_cycle": "전환 시",
+    "risk_grade": 3,
+    "principal_protected": false,
+    "loss_warning": "이익 또는 손실이 발생할 수 있습니다.",
+    "total_fee_rate": 15.4,
+    "fee_detail": "배당소득세 15.4% 원천징수",
+    "recommended_period": "1개월 이상",
+    "join_channel": {
+      "is_online": true,
+      "is_offline": false,
+      "descriptions": [
+        "비대면 가입 가능"
+      ]
+    },
+    "filename": "황금우산골드리슈 상품설명서_2006042700180000.pdf",
+    "category": "Investment (투자/ISA/골드)",
+    "diversity_tag": "General"
+  },
+  {
+    "product_name": "세이프지수연동예금 KOSPI200 보장강화 안정형 26-01호(6개월)",
+    "product_type": "정기예금",
+    "accumulation_type": "자유적립식",
+    "eligibility": {
+      "age_min": null,
+      "age_max": null,
+      "target_detail": "가입자격 제한없음"
+    },
+    "interest_rate": {
+      "base_rate": 2.8,
+      "max_rate": 2.9,
+      "prime_conditions": [
+        "최소가입금액 300만원 이상(단, 비대면 채널 가입 시 50만원 이상)"
+      ]
+    },
+    "min_month": 6,
+    "max_month": 6,
+    "max_deposit": 500000000,
+    "auto_renewal": false,
+    "partial_withdrawal": true,
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "영업점 및 개인 인터넷뱅킹, SOL뱅크에서 해지 가능합니다.",
+        "비대면 채널을 통해 가입 가능"
+      ]
+    },
+    "risk_caution": "중도해지시 일부 원금손실 발생 가능.",
+    "keywords": [
+      "KOSPI200",
+      "정기예금",
+      "세이프지수연동예금"
+    ],
+    "filename": "세이프지수연동예금 26-01호 KOSPI200 보장강화 안정형 (6개월) 상품설명서_2026011300000100.pdf",
+    "category": "Savings (예적금)",
+    "diversity_tag": "General_TaxFree"
+  },
+  {
+    "product_name": "삼성 에이스변액저축보험(B2401)(무배당)",
+    "insurance_type": "적립형/거치형",
+    "is_renewal": true,
+    "declared_rate": 2.0,
+    "min_guarantee_rate": null,
+    "coverage_summary": "사망보험금: 피보험자 사망시 기본보험료의 6배 + 사망당시 계약자적립액",
+    "tax_benefit_cond": "해당 없음",
+    "early_termination_warning": "조기 해지 시 원금 손실 위험 경고.",
+    "join_channel": {
+      "is_online": true,
+      "is_offline": false,
+      "descriptions": [
+        "다이렉트(온라인) 상품입니다."
+      ]
+    },
+    "filename": "삼성 에이스변액저축보험(B2201)(무배당)_가입제안서_2021122700000123.pdf",
+    "category": "Insurance (보험/방카)",
+    "diversity_tag": "Business_Housing_Invest_TaxFree_Travel"
+  },
+  {
+    "product_name": "현대 able ELB 제153호 주가연계파생결합사채",
+    "pension_type": "IRP",
+    "default_option_info": null,
+    "tax_deduction_limit": "퇴직연금 적립금으로 제한",
+    "pension_receipt_method": "현금결제",
+    "investment_options": "KOSPI200",
+    "fees": "없음",
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "온라인 및 오프라인 청약 가능",
+        "청약증거금 100% 징구"
+      ]
+    },
+    "filename": "현대증권 퇴직연금 ELB 153호 (1년)_2015060160730000.pdf",
+    "category": "Retirement_Pension (퇴직연금)",
+    "diversity_tag": "Business_Housing_Invest_Pension"
+  },
+  {
+    "product_name": "신한 월세나눔통장",
+    "interest_payment_date": "매년 3월, 6월, 9월, 12월의 셋째주 마지막 영업일에 계산하여 그 지급방법 익일(원가일)에 원금에 더함",
+    "base_interest_rate": 0.1,
+    "max_interest_rate": 0.1,
+    "transfer_fee_waiver": "납부자 자동이체 월 1회 면제",
+    "withdraw_fee_waiver": null,
+    "currency_benefit": null,
+    "join_channel": {
+      "is_online": false,
+      "is_offline": true,
+      "descriptions": [
+        "영업점 방문"
+      ]
+    },
+    "filename": "신한월세나눔통장 상품설명서_2013032927370000.pdf",
+    "category": "Demand_Deposit (입출금)",
+    "diversity_tag": "General_Housing_TaxFree"
+  },
+  {
+    "product_name": "TEENS PLUS(틴즈플러스) 통장",
+    "interest_payment_date": "매년 3월, 6월, 9월, 12월의 셋째주 마지막 영업일에 계산하여 익일 원금에 더함",
+    "base_interest_rate": 0.1,
+    "max_interest_rate": 0.1,
+    "transfer_fee_waiver": "신한은행 CD/ATM기를 이용한 마감후 인출 수수료 면제 (단, 다른은행으로의 이체는 면제가 불가함)",
+    "withdraw_fee_waiver": "신한은행 CD/ATM기를 이용한 마감후 인출 수수료 면제 (단, 다른은행으로의 이체는 면제가 불가함)",
+    "currency_benefit": "비과세종합저축 가능",
+    "join_channel": {
+      "is_online": false,
+      "is_offline": true,
+      "descriptions": [
+        "영업점 방문"
+      ]
+    },
+    "filename": "TEENSPLUS(틴즈플러스)통장 상품설명서_2006042700890000.pdf",
+    "category": "Demand_Deposit (입출금)",
+    "diversity_tag": "General_Invest_TaxFree"
+  },
+  {
+    "product_name": "Tops시니어플랜 저축예금",
+    "product_type": "저축예금",
+    "accumulation_type": "정기적립식",
+    "eligibility": {
+      "age_min": 35,
+      "age_max": null,
+      "target_detail": "개인 및 개인사업자"
+    },
+    "interest_rate": {
+      "base_rate": 0.1,
+      "max_rate": 0.1,
+      "prime_conditions": [
+        "금융거래실적 1건 이상 수수료면제",
+        "금융거래실적 2건 이상 수신금리, 대출금리우대",
+        "금융거래실적 3건 이상 환율40%우대, 창구 송금수수료 면제"
+      ]
+    },
+    "min_month": null,
+    "max_month": null,
+    "max_deposit": null,
+    "auto_renewal": false,
+    "partial_withdrawal": false,
+    "join_channel": {
+      "is_online": false,
+      "is_offline": true,
+      "descriptions": [
+        "영업점 방문 필수"
+      ]
+    },
+    "risk_caution": null,
+    "keywords": [
+      "#신한은행 #저축예금 #시니어플랜"
+    ],
+    "filename": "Tops시니어플랜저축예금 상품설명서_2006042800040000.pdf",
+    "category": "Savings (예적금)",
+    "diversity_tag": "Housing_Invest_Senior_Travel"
+  },
+  {
+    "product_name": "신한 장학적금(저축의 날 50주년 금리우대)",
+    "product_type": "정기적금",
+    "accumulation_type": "정기적금(자유적립식)",
+    "eligibility": {
+      "age_min": 6,
+      "age_max": 18,
+      "target_detail": "초ᆞ중ᆞ고등학교 학생 (1인1계좌)"
+    },
+    "interest_rate": {
+      "base_rate": 2.8,
+      "max_rate": 3.2,
+      "prime_conditions": [
+        "은행거래 우대이자율(연0.4%)",
+        "이체에 의한 저축하는 경우 저축 건별 연 0.2%",
+        "체크카드 또는 주택청약종합저축 보유하는 경우 저축 건별 연 0.2%",
+        "단체신규 우대이자율 (연0.2%)",
+        "재예치 우대이자율 (연0.2%)"
+      ]
+    },
+    "min_month": 36,
+    "max_month": 36,
+    "max_deposit": 300000,
+    "auto_renewal": true,
+    "partial_withdrawal": false,
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "영업점 방문 필수",
+        "인터넷뱅킹 등 비대면 채널을 통해 가입 가능"
+      ]
+    },
+    "risk_caution": "해지 시 계약한 이율보다 낮은 중도해지이율이 적용됩니다.",
+    "keywords": [
+      "신한은행",
+      "장학적금",
+      "금리우대",
+      "정기적금",
+      "학생저축"
+    ],
+    "filename": "신한 장학적금(저축의 날 50주년 금리우대) 상품설명서_2013102841980000.pdf",
+    "category": "Savings (예적금)",
+    "diversity_tag": "General_Housing"
+  },
+  {
+    "product_name": "신한 주거래 우대통장",
+    "interest_payment_date": "매년 6월, 12월의 셋째주 마지막 영업일에 지급",
+    "base_interest_rate": 0.1,
+    "max_interest_rate": 0.1,
+    "transfer_fee_waiver": "인터넷, 폰뱅킹, 모바일뱅킹을 통한 다른은행으로의 이체 수수료 면제",
+    "withdraw_fee_waiver": "신한은행 CD/ATM을 이용한 신한은행 계좌의 현금인출 수수료 면제",
+    "currency_benefit": null,
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "비대면채널을 통해 가입 가능",
+        "영업점에서 가입 가능"
+      ]
+    },
+    "filename": "신한 주거래 우대통장 상품설명서_2011120802410000.pdf",
+    "category": "Demand_Deposit (입출금)",
+    "diversity_tag": "Business_Housing_Invest_TaxFree_Travel"
+  },
+  {
+    "product_name": "글로벌캠퍼스 통장",
+    "interest_payment_date": "null",
+    "base_interest_rate": 0.1,
+    "max_interest_rate": 0.1,
+    "transfer_fee_waiver": "인터넷 송금시 당발송금수수료 면제(100%면제)",
+    "withdraw_fee_waiver": "유학생 당발송금수수료 우대(50%우대)",
+    "currency_benefit": "환전시 환율우대 (USD,JPY,EUR:50% ,그외 통화:30%)",
+    "join_channel": {
+      "is_online": true,
+      "is_offline": false,
+      "descriptions": [
+        "신한은행 거래외국환 유학생 지정한 유학생 및 그 대리인 1인 1계좌"
+      ]
+    },
+    "filename": "글로벌캠퍼스통장 상품설명서_2006042500220000.pdf",
+    "category": "Demand_Deposit (입출금)",
+    "diversity_tag": "General_Travel"
+  },
+  {
+    "product_name": "신한 세(稅)테크 재형저축",
+    "product_type": "적립식",
+    "accumulation_type": "자유적립식",
+    "eligibility": {
+      "age_min": 15,
+      "age_max": 29,
+      "target_detail": "소득형 청년형 가입자"
+    },
+    "interest_rate": {
+      "base_rate": 1.8,
+      "max_rate": null,
+      "prime_conditions": [
+        "월50만원이상 급여이체실적이 5개월 이상인 경우",
+        "예금주의 신한카드 매출표 입금실적이 5개월 이상인 경우",
+        "예금주의 신한카드(체크포함) 월20만원 이상 결제실적이 5개월 이상인 경우"
+      ]
+    },
+    "min_month": 36,
+    "max_month": 120,
+    "max_deposit": 300000,
+    "auto_renewal": true,
+    "partial_withdrawal": false,
+    "join_channel": {
+      "is_online": false,
+      "is_offline": true,
+      "descriptions": [
+        "영업점 방문 필수"
+      ]
+    },
+    "risk_caution": null,
+    "keywords": [
+      "세테크",
+      "재형저축",
+      "신한은행"
+    ],
+    "filename": "신한 세(稅)테크 재형저축 상품설명서_2013031226870000.pdf",
+    "category": "Savings (예적금)",
+    "diversity_tag": "TaxFree_Youth"
+  },
+  {
+    "product_name": "신한 청춘드림(DREAM)적금",
+    "product_type": "적립식예금",
+    "accumulation_type": "자유적립식",
+    "eligibility": {
+      "age_min": 19,
+      "age_max": 35,
+      "target_detail": "대학생, 취업준비생, 직장인초년생"
+    },
+    "interest_rate": {
+      "base_rate": 1.3,
+      "max_rate": 3.0,
+      "prime_conditions": [
+        "첫거래 우대 (연 0.800%p)",
+        "거래실적 우대주1) (최고 연 0.700%p)",
+        "모바일 우대 (연 0.200%p)"
+      ]
+    },
+    "min_month": 36,
+    "max_month": 36,
+    "max_deposit": 300000,
+    "auto_renewal": false,
+    "partial_withdrawal": true,
+    "join_channel": {
+      "is_online": true,
+      "is_offline": false,
+      "descriptions": [
+        "모바일통장으로 가입(전환 포함)하거나 비대면채널(인터넷뱅킹, 신한S뱅크, SunnyBank 등)을 통해 가입"
+      ]
+    },
+    "risk_caution": null,
+    "keywords": [
+      "#신한은행 #청춘드림적금 #적금상품"
+    ],
+    "filename": "신한 청춘드림(DREAM)적금 상품설명서_2016080470330000.pdf",
+    "category": "Savings (예적금)",
+    "diversity_tag": "Housing_Invest_Pension_TaxFree_Youth"
+  },
+  {
+    "product_name": "무배당KB손보퇴직연금이율보증형보험(신탁제공용)",
+    "pension_type": "DB",
+    "default_option_info": "이율보증형 보험으로, 가입자의 운용지시에 따라 납입된 부담금으로 설정된 단위보험별로 이율보증기간 종료 시까지 해당 상품을 보유하는 경우 해당월 부담금 납입 시점의 적용이율을 이율보증기간 종료 시까지 확정 적용하는 상품입니다.",
+    "tax_deduction_limit": null,
+    "pension_receipt_method": "가입자는 이율보증기간 만기일에 해당 단위보험의 적립금으로 이율보증형의 새로운 단위 보험을 설정할 수 있습니다.",
+    "investment_options": "이율보증형 적용이율은 매월 공시되며, KB손해보험 홈페이지를 통해 확인할 수 있습니다.",
+    "fees": null,
+    "join_channel": {
+      "is_online": true,
+      "is_offline": false,
+      "descriptions": [
+        "KB손해보험 홈페이지를 통해 가입 가능"
+      ]
+    },
+    "filename": "KB손해보험 퇴직연금 이율보증형보험 상품설명서_2021061800000080.pdf",
+    "category": "Retirement_Pension (퇴직연금)",
+    "diversity_tag": "Business_Invest_Pension"
+  },
+  {
+    "product_name": "한달愛저금통",
+    "interest_payment_date": "매월 셋째 주 마지막 영업일에 지급",
+    "base_interest_rate": 2.5,
+    "max_interest_rate": null,
+    "transfer_fee_waiver": "해당 없음",
+    "withdraw_fee_waiver": "해당 없음",
+    "currency_benefit": "해당 없음",
+    "join_channel": {
+      "is_online": true,
+      "is_offline": false,
+      "descriptions": [
+        "인터넷뱅킹 또는 스마트뱅킹을 통해 가입 가능"
+      ]
+    },
+    "filename": "한달愛(애)저금통 상품설명서_2012032716700000.pdf",
+    "category": "Demand_Deposit (입출금)",
+    "diversity_tag": "Business_Parking_TaxFree"
+  },
+  {
+    "product_name": "미래에셋증권 제3118회 파생결합사채(ELB)",
+    "pension_type": "ELB",
+    "default_option_info": null,
+    "tax_deduction_limit": "해당 없음",
+    "pension_receipt_method": "현금결제",
+    "investment_options": "KOSPI200 지수, 삼성전자 보통주",
+    "fees": "없음",
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "미래에셋증권 HTS 및 홈페이지를 통한 온라인 청약 가능",
+        "미래에셋증권 본·지점에서 오프라인 청약 가능"
+      ]
+    },
+    "filename": "미래에셋증권 퇴직연금 ELB 3118호 투자설명서_2022122900000155.pdf",
+    "category": "Retirement_Pension (퇴직연금)",
+    "diversity_tag": "Business_Housing_Invest_Parking_Pension"
+  },
+  {
+    "product_name": "세이프지수연동예금(프리미어전용) 10-10호",
+    "product_type": "정기예금",
+    "accumulation_type": "정기적립식",
+    "eligibility": {
+      "age_min": null,
+      "age_max": null,
+      "target_detail": "개인 및 법인 (금융기관 제외)"
+    },
+    "interest_rate": {
+      "base_rate": 3.8,
+      "max_rate": 22.0,
+      "prime_conditions": [
+        "만기지수가 기준지수보다 1.5% 이상 상승한 경우 연 4.29%",
+        "만기지수가 기준지수 이상 상승한 경우 연 5.37%",
+        "만기지수가 기준지수보다 10% 이상 상승한 경우 연 6.85%",
+        "만기환율이 기준환율보다 3% 이상 하락 시 연 6.0%",
+        "골드가격이 40% 초과 상승 시 연 22.0%"
+      ]
+    },
+    "min_month": 6,
+    "max_month": 12,
+    "max_deposit": null,
+    "auto_renewal": false,
+    "partial_withdrawal": false,
+    "join_channel": {
+      "is_online": false,
+      "is_offline": true,
+      "descriptions": [
+        "영업점 방문 필수"
+      ]
+    },
+    "risk_caution": null,
+    "keywords": [
+      "#세이프지수연동예금",
+      "#프리미어전용",
+      "#정기예금"
+    ],
+    "filename": "프리미어세이프10-10호 상품설명서_2011111901450000.pdf",
+    "category": "Savings (예적금)",
+    "diversity_tag": "Business_Invest_Parking"
+  },
+  {
+    "product_name": "신한 플러스 월복리 정기예금",
+    "product_type": "정기예금",
+    "accumulation_type": "정기적립식",
+    "eligibility": {
+      "age_min": null,
+      "age_max": null,
+      "target_detail": "실명의 개인 및 개인사업자 – 1인 다계좌 가능"
+    },
+    "interest_rate": {
+      "base_rate": 1.9,
+      "max_rate": 2.25,
+      "prime_conditions": [
+        "신한은행 개인종합자산관리계좌(ISA) 또는 노란우산공제를 실적인정기간 중 보유한 경우 최고 우대 연 0.20%",
+        "본인명의 신한은행 입출금계좌에서 연금상품 이자율(신한은행 연금저축상품(신탁, 보험, 펀드), 개인형 IRP에 한함)으로 실적인정기간 중 누적 연 0.20%",
+        "50만원 이상 이체 실적이 있는 경우 연 0.10%",
+        "비과세종합저축 가입 자격 대상자로 등록된 경우 연 0.10%"
+      ]
+    },
+    "min_month": 12,
+    "max_month": 36,
+    "max_deposit": 30000000,
+    "auto_renewal": true,
+    "partial_withdrawal": true,
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "영업점 및 비대면 채널을 통해서 해지 가능",
+        "자동해지 서비스 이용 가능"
+      ]
+    },
+    "risk_caution": "만기전 해지할 경우 약정한 이자율보다 낮은 중도해지 이자율이 적용됨.",
+    "keywords": [
+      "정기예금",
+      "월복리",
+      "우대이자율",
+      "신한은행"
+    ],
+    "filename": "신한 플러스 월복리 정기예금 상품설명서_2016033167700000.pdf",
+    "category": "Savings (예적금)",
+    "diversity_tag": "Business_Invest_Pension_TaxFree"
+  },
+  {
+    "product_name": "어음관리계좌(CMA)",
+    "category_detail": "예금상품",
+    "underlying_asset": "CMA 수탁금",
+    "payout_cycle": "수시입출금식",
+    "risk_grade": 2,
+    "principal_protected": true,
+    "loss_warning": "예금자보호법에 따라 5천만원까지 보호",
+    "total_fee_rate": 2.2,
+    "fee_detail": "관리수수료율: 0.2%, 인출수수료율: 2.0%",
+    "recommended_period": "1년",
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "비대면 가입 가능",
+        "영업점 방문 가입 가능"
+      ]
+    },
+    "filename": "CMA(어음관리계좌) 상품설명서_2024011200000071.pdf",
+    "category": "Investment (투자/ISA/골드)",
+    "diversity_tag": "Business_Invest_Parking"
+  },
+  {
+    "product_name": "신한 글로벌OK 통장",
+    "interest_payment_date": "매년 3월, 6월, 9월, 12월의 셋째주 마지막 영업일",
+    "base_interest_rate": 0.1,
+    "max_interest_rate": 0.1,
+    "transfer_fee_waiver": "전자금융 이체 수수료 월 10회 면제, 신한은행 CD/ATM을 이용한 마감후 인출 수수료 월 10회 면제",
+    "withdraw_fee_waiver": "신한은행 CD/ATM을 통한 다른 은행 이체는 면제 불가",
+    "currency_benefit": "환율스프레드 할인우대 (USD, JPY, EUR :50%, 그 외 통화 :30%)",
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "온라인 및 오프라인 지점에서 가입 가능"
+      ]
+    },
+    "filename": "신한 글로벌OK 통장 상품설명서_2013082140590000.pdf",
+    "category": "Demand_Deposit (입출금)",
+    "diversity_tag": "General_TaxFree_Travel"
+  },
+  {
+    "product_name": "모두의 적금",
+    "product_type": "정기적금",
+    "accumulation_type": "자유적립식",
+    "eligibility": {
+      "age_min": null,
+      "age_max": null,
+      "target_detail": "실명의 개인 및 개인사업자 (1인1계좌)"
+    },
+    "interest_rate": {
+      "base_rate": 2.0,
+      "max_rate": 6.5,
+      "prime_conditions": [
+        "급여(건당 50만원이상) 또는 급여클럽 월급봉투",
+        "신한카드 가맹점 매출대금",
+        "공적연금(국민연금, 공무원연금, 사학연금, 군인연금, 보훈연금 中 1건 이상)"
+      ]
+    },
+    "min_month": 6,
+    "max_month": 12,
+    "max_deposit": 300000,
+    "auto_renewal": false,
+    "partial_withdrawal": true,
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "신한 SOL뱅크",
+        "신한 슈퍼SOL",
+        "영업점"
+      ]
+    },
+    "risk_caution": null,
+    "keywords": [
+      "#모두의적금",
+      "#신한은행",
+      "#적금상품"
+    ],
+    "filename": "모두의 적금 상품설명서_2025040200000103.pdf",
+    "category": "Savings (예적금)",
+    "diversity_tag": "Senior_TaxFree"
+  },
+  {
+    "product_name": "신한에스포스_ABCP",
+    "pension_type": "ABCP",
+    "default_option_info": null,
+    "tax_deduction_limit": null,
+    "pension_receipt_method": null,
+    "investment_options": "대출채권",
+    "fees": "발행수수료 및 관리비용",
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "온라인 및 오프라인 가입 가능",
+        "고객 상담센터를 통한 문의 가능"
+      ]
+    },
+    "filename": "신한에어포스_ABCP 상품설명서_2021031900000035.pdf",
+    "category": "Retirement_Pension (퇴직연금)",
+    "diversity_tag": "Business_Invest_Parking_Travel"
+  },
+  {
+    "product_name": "신한 그린愛생활 적금",
+    "product_type": "정기적립식",
+    "accumulation_type": "정기적립식",
+    "eligibility": {
+      "age_min": null,
+      "age_max": null,
+      "target_detail": "실명의 개인 및 개인사업자 (1인1계좌)"
+    },
+    "interest_rate": {
+      "base_rate": 2.7,
+      "max_rate": 3.0,
+      "prime_conditions": [
+        "신한카드 결제계좌를 신한은행으로 지정하고 월 10만원 이상 결제 실적 1개월 이상",
+        "신한은행 계좌로 급여 또는 공과금 또는 연금 또는 3년제 이상 적립식 예금 자동이체 실적이 3개월 이상"
+      ]
+    },
+    "min_month": 12,
+    "max_month": 12,
+    "max_deposit": 1000000,
+    "auto_renewal": false,
+    "partial_withdrawal": false,
+    "join_channel": {
+      "is_online": true,
+      "is_offline": false,
+      "descriptions": [
+        "비대면 채널(인터넷뱅킹, 신한S뱅크 등)을 통하여 가입"
+      ]
+    },
+    "risk_caution": null,
+    "keywords": [
+      "신한은행",
+      "적금",
+      "우대금리"
+    ],
+    "filename": "신한 그린愛생활 적금_2012082421740000.pdf",
+    "category": "Savings (예적금)",
+    "diversity_tag": "Housing_Soldier"
+  },
+  {
+    "product_name": "신한 군인행복 통장",
+    "interest_payment_date": "매월 셋째주 마지막 영업일에 계산하여 그 익일(원가일)에 원금에 더함",
+    "base_interest_rate": 0.1,
+    "max_interest_rate": 2.5,
+    "transfer_fee_waiver": "신한은행 자동화기기(CD/ATM)를 이용한 마감 후 인출 수수료 면제",
+    "withdraw_fee_waiver": "해당없음",
+    "currency_benefit": null,
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "영업점",
+        "신한 SOL뱅크"
+      ]
+    },
+    "filename": "신한 군인행복 통장 상품설명서_2024061300000018.pdf",
+    "category": "Demand_Deposit (입출금)",
+    "diversity_tag": "Soldier_TaxFree"
+  },
+  {
+    "product_name": "변액저축보험(무배당)",
+    "insurance_type": "변액보험",
+    "is_renewal": null,
+    "declared_rate": null,
+    "min_guarantee_rate": null,
+    "coverage_summary": "사망보험금 및 해지환급금이 투자실적에 따라 변동됨.",
+    "tax_benefit_cond": null,
+    "early_termination_warning": "중도 해지 시 원금 손실 위험이 있음.",
+    "join_channel": {
+      "is_online": false,
+      "is_offline": true,
+      "descriptions": [
+        "오프라인 판매 채널을 통해 가입 가능"
+      ]
+    },
+    "filename": "신한라이프_VIP변액저축보험(무배당)_핵심상품설명서_비대면 핵심상품설명서_2021091700000103.pdf",
+    "category": "Insurance (보험/방카)",
+    "diversity_tag": "Invest_Senior"
+  },
+  {
+    "product_name": "신한 연금 저축왕 적금",
+    "product_type": "정기적금",
+    "accumulation_type": "자유적립식",
+    "eligibility": {
+      "age_min": 50,
+      "age_max": null,
+      "target_detail": "실명의 개인 및 개인사업자 (1인1계좌)"
+    },
+    "interest_rate": {
+      "base_rate": 1.3,
+      "max_rate": 3.5,
+      "prime_conditions": [
+        "상품 신규 후 본인명의의 신한은행 입출금계좌로 국민연금/공무원연금/사학연금/군인연금/보훈연금 중 한가지 이상 수령 시 최대 연 2%",
+        "적금 가입기간 내 연금 10개월 이상 수령 시 연 0.5%",
+        "적금 가입기간 내 연금 20개월 이상 수령 시 연 1.0%",
+        "적금 가입기간 내 연금 30개월 이상 수령 시 연 2.0%",
+        "만기 시점에 '개인(신용)정보 수집•제공 동의서'에 동의한 경우 연 0.2%"
+      ]
+    },
+    "min_month": 36,
+    "max_month": 36,
+    "max_deposit": 500000,
+    "auto_renewal": false,
+    "partial_withdrawal": true,
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "영업점 및 신한은행 비대면채널(모바일, 인터넷뱅킹)에서 해지 가능합니다.",
+        "자동해지 서비스 이용가능합니다."
+      ]
+    },
+    "risk_caution": null,
+    "keywords": [
+      "신한은행",
+      "연금저축",
+      "적금상품",
+      "우대이자율"
+    ],
+    "filename": "신한 연금 저축왕 적금 상품설명서_2023040700000055.pdf",
+    "category": "Savings (예적금)",
+    "diversity_tag": "Soldier_TaxFree"
+  },
+  {
+    "product_name": "Tops비과세장기저축",
+    "product_type": "장기주택마련저축",
+    "accumulation_type": "자유적립식",
+    "eligibility": {
+      "age_min": 18,
+      "age_max": null,
+      "target_detail": "세대주로서 무주택자이거나 국민주택규모 이하의 주택 소유자"
+    },
+    "interest_rate": {
+      "base_rate": 3.4,
+      "max_rate": null,
+      "prime_conditions": [
+        "총급여액 8,800만원 이하 근로소득자 소득공제 허용 (최고 300만원)"
+      ]
+    },
+    "min_month": 84,
+    "max_month": 600,
+    "max_deposit": 3000000,
+    "auto_renewal": true,
+    "partial_withdrawal": true,
+    "join_channel": {
+      "is_online": false,
+      "is_offline": true,
+      "descriptions": [
+        "영업점 방문 필수"
+      ]
+    },
+    "risk_caution": "가입후 7년이상 경과후 해지시 비과세, 만기일 경과후 일반과세 적용.",
+    "keywords": [
+      "#비과세",
+      "#장기저축",
+      "#주택마련"
+    ],
+    "filename": "Tops비과세장기저축 상품설명서_2006042800010000.pdf",
+    "category": "Savings (예적금)",
+    "diversity_tag": "Housing_TaxFree_Worker"
+  },
+  {
+    "product_name": "DB한국지수연계증권투자신탁제3호[채권]",
+    "pension_type": "DB",
+    "default_option_info": "이 투자신탁은 근로자퇴직급여보장법에 의한 퇴직연금사업자로서, 수익증권의 종류에 따라 C-P2수익증권 및 C-P2E 수익증권으로 구분된다.",
+    "tax_deduction_limit": "퇴직연금에 대한 세액공제 한도는 연간 700만원이다.",
+    "pension_receipt_method": "퇴직연금 수령은 만 55세 이상부터 가능하며, 퇴직 후 1회 수령 또는 연금 형태로 수령할 수 있다.",
+    "investment_options": "채권형 투자신탁으로 KOSPI200지수 연계 채권에 투자한다.",
+    "fees": "운용보수는 연 0.5%로 설정되어 있다.",
+    "join_channel": {
+      "is_online": true,
+      "is_offline": false,
+      "descriptions": [
+        "온라인을 통해 수익증권을 구매할 수 있다."
+      ]
+    },
+    "filename": "DB한국지수연계증권자투자신탁제3호[채권] 집합투자규약_2022021800000011.pdf",
+    "category": "Retirement_Pension (퇴직연금)",
+    "diversity_tag": "Business_Housing_Invest_Parking_Pension"
+  },
+  {
+    "product_name": "세이프지수연동예금 KOSPI200 디지털 상승형 23-19호(1년)",
+    "product_type": "정기예금",
+    "accumulation_type": "정기적립식",
+    "eligibility": {
+      "age_min": null,
+      "age_max": null,
+      "target_detail": "세법상 거주자"
+    },
+    "interest_rate": {
+      "base_rate": 3.75,
+      "max_rate": 3.97,
+      "prime_conditions": [
+        "최소가입금액 300만원 이상 (단, 개인인터넷뱅킹, SOL뱅킹, M신한으로 가입시 50만원 이상)"
+      ]
+    },
+    "min_month": 12,
+    "max_month": 12,
+    "max_deposit": 200000000,
+    "auto_renewal": false,
+    "partial_withdrawal": true,
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "영업점 및 개인인터넷뱅킹, SOL뱅킹에서 가입 가능",
+        "비대면 채널을 통해 가입 시 통장 또는 증서가 교부되지 않음"
+      ]
+    },
+    "risk_caution": null,
+    "keywords": [
+      "KOSPI200",
+      "정기예금",
+      "지수연동예금"
+    ],
+    "filename": "세이프지수연동예금 23-19호 KOSPI200 디지털 상승형 (1년) 상품설명서_2023060100000048.pdf",
+    "category": "Savings (예적금)",
+    "diversity_tag": "General_TaxFree"
+  },
+  {
+    "product_name": "신한 주거래 S20통장",
+    "interest_payment_date": "매년 3월, 6월, 9월, 12월의 셋째주 마지막 영업일에 계산하여 지급",
+    "base_interest_rate": 0.1,
+    "max_interest_rate": 0.5,
+    "transfer_fee_waiver": "인터넷, 폰뱅킹, 모바일뱅킹을 통한 이체수수료 면제 (단, 자동이체 수수료 제외)",
+    "withdraw_fee_waiver": "신한은행 CD/ATM 마감후 인출 수수료 면제",
+    "currency_benefit": "골드리슈 자동이체 시 고객부담 스프레드 50% 우대",
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "영업점 방문",
+        "인터넷 홈페이지 가입"
+      ]
+    },
+    "filename": "신한 주거래 S20통장 상품설명서_2011111901250000.pdf",
+    "category": "Demand_Deposit (입출금)",
+    "diversity_tag": "Invest_TaxFree_Travel_Worker"
+  },
+  {
+    "product_name": "신한 두산베어스 정기예금",
+    "product_type": "정기예금",
+    "accumulation_type": "정기적립식",
+    "eligibility": {
+      "age_min": null,
+      "age_max": null,
+      "target_detail": "개인 및 개인사업자 고객 (1인1계좌)"
+    },
+    "interest_rate": {
+      "base_rate": 0.1,
+      "max_rate": 0.3,
+      "prime_conditions": [
+        "두산베어스가 포스트시즌 진출시 연 0.100%p",
+        "두산베어스가 한국시리즈 진출시 연 0.300%p",
+        "두산베어스가 한국시리즈 우승시 연 0.100%p"
+      ]
+    },
+    "min_month": 12,
+    "max_month": 12,
+    "max_deposit": 10000000,
+    "auto_renewal": false,
+    "partial_withdrawal": true,
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "비대면 채널로 신규할 경우 50만원 이상 1억원 이내"
+      ]
+    },
+    "risk_caution": null,
+    "keywords": [
+      "정기예금",
+      "신한은행",
+      "두산베어스",
+      "우대금리"
+    ],
+    "filename": "신한 두산베어스 정기예금 상품설명서_2018031287150000.pdf",
+    "category": "Savings (예적금)",
+    "diversity_tag": "Business_TaxFree"
+  },
+  {
+    "product_name": "신한 MY 주니어",
+    "interest_payment_date": "매년 3월, 6월, 9월, 12월의 셋째주 마지막 영업일",
+    "base_interest_rate": 0.1,
+    "max_interest_rate": null,
+    "transfer_fee_waiver": "모바일뱅킹, 인터넷뱅킹, 폰뱅킹(ARS에 한함)을 통한 다른 은행 이체수수료 면제",
+    "withdraw_fee_waiver": "신한은행 CD/ATM을 이용한 마감 후 현금인출수수료 면제",
+    "currency_benefit": null,
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "영업점 및 신한 SOL뱅크를 통한 가입 가능",
+        "인터넷뱅킹 등 비대면 채널을 통해 가입 가능"
+      ]
+    },
+    "filename": "신한 MY 주니어 통장 상품설명서_2020011700000190.pdf",
+    "category": "Demand_Deposit (입출금)",
+    "diversity_tag": "Business_Housing_Invest_TaxFree"
+  },
+  {
+    "product_name": "세이프지수연동예금 KOSPI200 상승형22-18호(6개월)",
+    "product_type": "정기예금",
+    "accumulation_type": "정기적립식",
+    "eligibility": {
+      "age_min": null,
+      "age_max": null,
+      "target_detail": "가입자격 제한없음"
+    },
+    "interest_rate": {
+      "base_rate": 3.96,
+      "max_rate": 6.6,
+      "prime_conditions": [
+        "인터넷뱅킹, SOL뱅킹, M신한으로 가입시 최소가입금액 50만원 이상"
+      ]
+    },
+    "min_month": 6,
+    "max_month": 6,
+    "max_deposit": 1000000000,
+    "auto_renewal": false,
+    "partial_withdrawal": true,
+    "join_channel": {
+      "is_online": true,
+      "is_offline": false,
+      "descriptions": [
+        "인터넷뱅킹 또는 SOL뱅킹을 통해 가입 가능"
+      ]
+    },
+    "risk_caution": "중도해지시 일부 원금손실 발생 가능.",
+    "keywords": [
+      "KOSPI200",
+      "정기예금",
+      "세이프지수연동예금"
+    ],
+    "filename": "세이프 지수연동예금 22-18호 KOSPI200 상승형(6개월) 상품설명서_2022100700000005.pdf",
+    "category": "Savings (예적금)",
+    "diversity_tag": "General_TaxFree"
+  },
+  {
+    "product_name": "세이프지수연동예금(프리미어전용) 10-11호",
+    "product_type": "정기예금",
+    "accumulation_type": "정기적립식",
+    "eligibility": {
+      "age_min": null,
+      "age_max": null,
+      "target_detail": "개인 및 법인 (금융기관 제외)"
+    },
+    "interest_rate": {
+      "base_rate": 3.2,
+      "max_rate": 23.6,
+      "prime_conditions": [
+        "만기지수가 기준지수보다 3.0% 이상 상승한 경우 연 4.29%",
+        "만기지수가 기준지수보다 1.5% 이상 상승한 경우 연 5.73%",
+        "만기지수가 기준지수보다 10% 이상 상승한 경우 연 7.00%",
+        "만기환율이 기준환율보다 3% 이상 하락 시 연 6.0%",
+        "골드가격이 40% 초과 상승 시 연 4.00%"
+      ]
+    },
+    "min_month": 6,
+    "max_month": 12,
+    "max_deposit": 3000000,
+    "auto_renewal": false,
+    "partial_withdrawal": false,
+    "join_channel": {
+      "is_online": false,
+      "is_offline": true,
+      "descriptions": [
+        "영업점 방문 필수"
+      ]
+    },
+    "risk_caution": null,
+    "keywords": [
+      "#세이프지수연동예금",
+      "#프리미어전용",
+      "#정기예금"
+    ],
+    "filename": "프리미어세이프10-11호 상품설명서_2011111901470000.pdf",
+    "category": "Savings (예적금)",
+    "diversity_tag": "Business_Invest_Parking"
+  },
+  {
+    "product_name": "아름다운 후원 정기예금",
+    "product_type": "정기예금",
+    "accumulation_type": "정기적립식",
+    "eligibility": {
+      "age_min": null,
+      "age_max": null,
+      "target_detail": "제한없음"
+    },
+    "interest_rate": {
+      "base_rate": 4.9,
+      "max_rate": 5.14,
+      "prime_conditions": [
+        "세전 연 4.9% 기본금리",
+        "세전 연 5.14% (CD연동형)"
+      ]
+    },
+    "min_month": 12,
+    "max_month": 12,
+    "max_deposit": null,
+    "auto_renewal": false,
+    "partial_withdrawal": false,
+    "join_channel": {
+      "is_online": false,
+      "is_offline": true,
+      "descriptions": [
+        "영업점 방문 필수"
+      ]
+    },
+    "risk_caution": null,
+    "keywords": [
+      "정기예금",
+      "기부금",
+      "세금우대"
+    ],
+    "filename": "아름다운후원정기예금 상품설명서_2006042600740000.pdf",
+    "category": "Savings (예적금)",
+    "diversity_tag": "Business_TaxFree_Travel"
+  },
+  {
+    "product_name": "카카오뱅크 퇴직연금 정기예금",
+    "pension_type": "DC, DB, IRP",
+    "default_option_info": "디폴트옵션의 경우 3년만 가능",
+    "tax_deduction_limit": null,
+    "pension_receipt_method": "만기 시 자동재예치 또는 자동해지",
+    "investment_options": "확정급여형(DB), 확정기여형(DC), 개인형퇴직연금(IRP)",
+    "fees": null,
+    "join_channel": {
+      "is_online": true,
+      "is_offline": false,
+      "descriptions": [
+        "카카오뱅크 인터넷 홈페이지를 통한 가입 가능"
+      ]
+    },
+    "filename": "카카오뱅크 퇴직연금 정기예금 상품설명서_2025111800000015.pdf",
+    "category": "Retirement_Pension (퇴직연금)",
+    "diversity_tag": "Business_Pension_TaxFree_Travel"
+  },
+  {
+    "product_name": "교보변액연금보험(무배당)[B] (일반형)",
+    "insurance_type": "변액보험",
+    "is_renewal": true,
+    "declared_rate": null,
+    "min_guarantee_rate": null,
+    "coverage_summary": "재해장해급여금 1,000만원X 해당 장해지급률",
+    "tax_benefit_cond": "보험차익 비과세 혜택 가능",
+    "early_termination_warning": "이 상품은 변액보험으로 투자실적에 따라 원금손실이 발생할 수 있습니다.",
+    "join_channel": {
+      "is_online": false,
+      "is_offline": true,
+      "descriptions": [
+        "다이렉트(온라인) 상품이 아닙니다."
+      ]
+    },
+    "filename": "교보생명 미리보는내연금(무)교보First변액연금Ⅱ_가입제안서_2021122700000132.pdf",
+    "category": "Insurance (보험/방카)",
+    "diversity_tag": "Housing_Invest_Pension_Senior_TaxFree_Travel"
+  },
+  {
+    "product_name": "신한 고정금리 재형저축(저축의 날 50주년 금리우대)",
+    "product_type": "정기적립식",
+    "accumulation_type": "자유적립식",
+    "eligibility": {
+      "age_min": null,
+      "age_max": null,
+      "target_detail": "가입일 현재 소득세법상 거주자이며, 직전연도 총급여액이 5천만원 이하이거나 종합소득금액이 3천500만원 이하인 고객"
+    },
+    "interest_rate": {
+      "base_rate": 3.4,
+      "max_rate": 3.7,
+      "prime_conditions": [
+        "신한은행 계좌로 월50만원 이상 급여이체 실적이 5개월 이상인 경우 (우대 0.3%)",
+        "신한은행 계좌로 신한카드 매출표 입금실적이 5개월 이상인 경우 (우대 0.3%)",
+        "신한은행을 결제계좌로 지정하고, 신한카드(체크포함) 월20만원 이상 결제실적이 5개월 이상인 경우 (우대 0.3%)"
+      ]
+    },
+    "min_month": 84,
+    "max_month": 84,
+    "max_deposit": 3000000,
+    "auto_renewal": true,
+    "partial_withdrawal": false,
+    "join_channel": {
+      "is_online": false,
+      "is_offline": true,
+      "descriptions": [
+        "영업점 방문 필수"
+      ]
+    },
+    "risk_caution": null,
+    "keywords": [
+      "고정금리",
+      "재형저축",
+      "세제혜택",
+      "우대금리"
+    ],
+    "filename": "신한 고정금리 재형저축(저축의 날 50주년 금리우대) 상품설명서_2013102841970000.pdf",
+    "category": "Savings (예적금)",
+    "diversity_tag": "TaxFree_Worker"
+  },
+  {
+    "product_name": "세이프지수연동예금",
+    "product_type": "정기예금",
+    "accumulation_type": "정기적립식",
+    "eligibility": {
+      "age_min": null,
+      "age_max": null,
+      "target_detail": "가입자격 제한없음"
+    },
+    "interest_rate": {
+      "base_rate": 0.0,
+      "max_rate": 16.5,
+      "prime_conditions": [
+        "최소가입금액 300만원 이상 (단, 인터넷뱅킹으로 신규 시 50만원 이상)",
+        "장중기준 30% 초과 상승한 적 있는 경우: 연5.00% 수익률 확정",
+        "만기 지수가 기준 지수 대비 상승 시 참여율에 따라 수익률 결정"
+      ]
+    },
+    "min_month": 12,
+    "max_month": 12,
+    "max_deposit": 900000000,
+    "auto_renewal": false,
+    "partial_withdrawal": false,
+    "join_channel": {
+      "is_online": true,
+      "is_offline": false,
+      "descriptions": [
+        "인터넷뱅킹으로 신규 가입 가능",
+        "영업점 방문 필요 없음"
+      ]
+    },
+    "risk_caution": "중도해지 시 원금 손실 발생 가능성 있음.",
+    "keywords": [
+      "KOSPI200",
+      "정기예금",
+      "지수연동예금"
+    ],
+    "filename": "세이프지수연동예금11-20호 상품설명서_2006042501030000.pdf",
+    "category": "Savings (예적금)",
+    "diversity_tag": "General"
+  },
+  {
+    "product_name": "U드림 정기예금 세이프 패키지",
+    "product_type": "정기예금",
+    "accumulation_type": "정기적립식",
+    "eligibility": {
+      "age_min": null,
+      "age_max": null,
+      "target_detail": null
+    },
+    "interest_rate": {
+      "base_rate": 0.1,
+      "max_rate": 2.0,
+      "prime_conditions": [
+        "세금우대 가능",
+        "생계형저축 가능"
+      ]
+    },
+    "min_month": 1,
+    "max_month": 36,
+    "max_deposit": 500000,
+    "auto_renewal": true,
+    "partial_withdrawal": true,
+    "join_channel": {
+      "is_online": true,
+      "is_offline": false,
+      "descriptions": [
+        "신한 온라인서비스(인터넷뱅킹,콜센터)를 통하여 가입"
+      ]
+    },
+    "risk_caution": null,
+    "keywords": [],
+    "filename": "U드림 정기예금 세이프패키지 상품설명서_2006041800310000.pdf",
+    "category": "Savings (예적금)",
+    "diversity_tag": "General"
+  },
+  {
+    "product_name": "세이프지수연동예금",
+    "product_type": "정기예금",
+    "accumulation_type": "정기적립식",
+    "eligibility": {
+      "age_min": null,
+      "age_max": null,
+      "target_detail": "개인 및 법인 (금융기관 제외)"
+    },
+    "interest_rate": {
+      "base_rate": 2.89,
+      "max_rate": 12.6,
+      "prime_conditions": [
+        "주식시장 상승 시 연 12.60%",
+        "만기지수가 기준지수 대비 20% 이상 상승 시 연 7.80%",
+        "만기지수가 기준지수 대비 3% 이상 상승 시 연 5.16%",
+        "주식시장 하락 시 연 14.70%"
+      ]
+    },
+    "min_month": 12,
+    "max_month": 12,
+    "max_deposit": null,
+    "auto_renewal": false,
+    "partial_withdrawal": false,
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "영업점 및 신한은행 홈페이지에서 가입 가능"
+      ]
+    },
+    "risk_caution": "고객께서 선택하신 상품에 대한 주가지수예측이 어긋날 경우 일반정기예금보다 낮은 이율이나 이율이 없을 수도 있으며 만기 전 중도해지 시에는 일부 원금 손실이 발생합니다.",
+    "keywords": [
+      "#세이프지수연동예금",
+      "#KOSPI200",
+      "#정기예금"
+    ],
+    "filename": "세이프지수연동예금 10-10호(상품설명서)_2012110924050000.pdf",
+    "category": "Savings (예적금)",
+    "diversity_tag": "Business_Invest"
+  },
+  {
+    "product_name": "세이프지수연동예금 11-3호",
+    "product_type": "정기예금",
+    "accumulation_type": "정기적립식",
+    "eligibility": {
+      "age_min": null,
+      "age_max": null,
+      "target_detail": "개인 및 법인 (금융기관 제외)"
+    },
+    "interest_rate": {
+      "base_rate": 3.74,
+      "max_rate": 14.6,
+      "prime_conditions": [
+        "만기지수가 기준지수 대비 3% 이상 상승 시 연 6.15%",
+        "만기지수가 기준지수 대비 10% 이상 상승 시 연 7.00%",
+        "만기지수가 기준지수 대비 20% 이상 상승 시 연 8.40%",
+        "만기지수가 기준지수 대비 3% 이상 상승 시 연 6.36%",
+        "주식시장 상승 시 최고 연 14.60% 또는 주식시장 하락 시 최고 연 14.40%"
+      ]
+    },
+    "min_month": 12,
+    "max_month": 12,
+    "max_deposit": null,
+    "auto_renewal": false,
+    "partial_withdrawal": false,
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "영업점 방문 가능",
+        "인터넷 뱅킹으로 가입 가능"
+      ]
+    },
+    "risk_caution": "고객께서 선택하신 상품에 대한 주가지수예측이 어긋날 경우 일반정기예금보다 낮은 이율이나 이율이 없을 수도 있으며 만기 전 중도해지 시에는 일부 원금 손실이 발생합니다.",
+    "keywords": [
+      "#세이프지수연동예금 #정기예금 #원금보장"
+    ],
+    "filename": "세이프지수연동예금11-3호 상품설명서_2011111901350000.pdf",
+    "category": "Savings (예적금)",
+    "diversity_tag": "Business_Invest"
+  },
+  {
+    "product_name": "신한은행 퇴직연금 정기예금",
+    "pension_type": "DB",
+    "default_option_info": null,
+    "tax_deduction_limit": null,
+    "pension_receipt_method": "만기일시지급식 - 만기 또는 중도해지 요청시 이자 지급",
+    "investment_options": "정기예금",
+    "fees": "없음",
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "영업점 방문",
+        "인터넷뱅킹 이용"
+      ]
+    },
+    "filename": "신한은행 퇴직연금 정기예금 상품설명서_2006042800300000.pdf",
+    "category": "Retirement_Pension (퇴직연금)",
+    "diversity_tag": "Business_Housing_Pension_TaxFree"
+  },
+  {
+    "product_name": "무배당 보너스주는변액저축보험2404",
+    "insurance_type": "변액보험",
+    "is_renewal": true,
+    "declared_rate": null,
+    "min_guarantee_rate": null,
+    "coverage_summary": "사망보험금 및 해약환급금이 펀드의 운용실적에 따라 변동됩니다.",
+    "tax_benefit_cond": "보험차익에 대한 이자소득세는 관련세법에서 정하는 요건에 부합하는 경우에 비과세가 가능합니다.",
+    "early_termination_warning": "해약환급금의 최저보증이 이루어지지 않으며, 원금손실이 발생할 수 있습니다.",
+    "join_channel": {
+      "is_online": false,
+      "is_offline": true,
+      "descriptions": [
+        "다이렉트(온라인) 상품이 아닙니다."
+      ]
+    },
+    "filename": "ABL생명_(무)보너스주는변액저축보험VI_운용설명서_2022041300000095.pdf",
+    "category": "Insurance (보험/방카)",
+    "diversity_tag": "Business_Housing_Invest_Parking_TaxFree"
+  },
+  {
+    "product_name": "WM 세이프지수연동예금",
+    "product_type": "정기예금",
+    "accumulation_type": "정기적립식",
+    "eligibility": {
+      "age_min": null,
+      "age_max": null,
+      "target_detail": "가입자격 제한없음"
+    },
+    "interest_rate": {
+      "base_rate": 1.88,
+      "max_rate": 6.9,
+      "prime_conditions": [
+        "인터넷뱅킹 또는 스마트폰뱅킹으로 가입 시 최소 가입금액 50만원 이상",
+        "원금보장형 상품의 경우 만기지수가 기준지수 대비 10% 이상 상승 시 연 3.50% 수익률 확정",
+        "상승형 상품의 경우 만기지수가 기준지수 대비 15% 초과 상승 시 연 1.80% 수익률 확정",
+        "하락형 상품의 경우 만기지수가 기준지수 대비 15% 초과 하락 시 연 1.80% 수익률 확정"
+      ]
+    },
+    "min_month": 12,
+    "max_month": 18,
+    "max_deposit": 100000000,
+    "auto_renewal": false,
+    "partial_withdrawal": false,
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "인터넷뱅킹 또는 스마트폰뱅킹으로 가입 가능",
+        "영업점 방문 가능"
+      ]
+    },
+    "risk_caution": null,
+    "keywords": [
+      "WM 세이프지수연동예금",
+      "KOSPI200",
+      "삼성전자"
+    ],
+    "filename": "WM 세이프지수연동예금 22-01호 상품설명서_2022011100000026.pdf",
+    "category": "Savings (예적금)",
+    "diversity_tag": "General_Invest_TaxFree"
+  },
+  {
+    "product_name": "무배당 더쉬운자산관리 ETF변액저축보험 2.0(일시납/적립형)",
+    "insurance_type": "변액보험",
+    "is_renewal": null,
+    "declared_rate": null,
+    "min_guarantee_rate": null,
+    "coverage_summary": "변액보험으로 원금 손실 가능성이 있으며, 보험금 및 해약환급금이 투자실적에 따라 변동됨.",
+    "tax_benefit_cond": null,
+    "early_termination_warning": "조기 해지 시 원금 손실 위험이 있으며, 해약환급금은 납입보험료보다 적거나 없을 수 있음.",
+    "join_channel": {
+      "is_online": false,
+      "is_offline": true,
+      "descriptions": [
+        "오프라인 가입 가능"
+      ]
+    },
+    "filename": "BNP파리바카디프생명_(무)더쉬운자산관리 ETF변액저축보험 2.0_핵심설명서_2022062400000236.pdf",
+    "category": "Insurance (보험/방카)",
+    "diversity_tag": "Housing_Invest_Senior"
+  },
+  {
+    "product_name": "퇴직연금용 정기예금 재예치형",
+    "pension_type": "DC",
+    "default_option_info": null,
+    "tax_deduction_limit": null,
+    "pension_receipt_method": "연금 형태로 분할 지급",
+    "investment_options": "정기예금",
+    "fees": "중도해지 시 낮은 이자율 적용",
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "은행 홈페이지를 통한 가입 가능",
+        "영업점을 통한 가입 가능"
+      ]
+    },
+    "filename": "외환은행 퇴직연금정기예금 (DB) 상품설명서_2015060160340000.pdf",
+    "category": "Retirement_Pension (퇴직연금)",
+    "diversity_tag": "Housing_Pension_Worker"
+  },
+  {
+    "product_name": "세이프지수연동예금 KOSPI200 보장강화 스텝업 25-13호(1년)",
+    "product_type": "정기예금",
+    "accumulation_type": "정기적립식",
+    "eligibility": {
+      "age_min": null,
+      "age_max": null,
+      "target_detail": "가입자격 제한없음"
+    },
+    "interest_rate": {
+      "base_rate": 2.5,
+      "max_rate": 2.79,
+      "prime_conditions": [
+        "만기가격결정일에 만기가격이 기준가격 대비 50% 이상 하락한 경우: 연 2.50%",
+        "만기가격결정일에 만기가격이 기준가격과 같거나 50% 이내 하락한 경우: 연 2.55%",
+        "만기가격결정일에 만기가격이 기준가격 대비 상승하여 가격변동률 10% 이내인 경우: 연[{가격변동률% X 참여율2.40% X 365÷예금기간}+ 2.55%]",
+        "만기가격결정일에 만기가격이 기준가격 대비 10% 초과 상승한 경우: 연 2.79%"
+      ]
+    },
+    "min_month": 12,
+    "max_month": 12,
+    "max_deposit": 1000000000,
+    "auto_renewal": false,
+    "partial_withdrawal": true,
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "영업점 및 개인 인터넷뱅킹, SOL뱅크에서 해지 가능",
+        "비대면 채널을 통해 가입 가능"
+      ]
+    },
+    "risk_caution": "중도해지시 일부 원금손실 발생 가능.",
+    "keywords": [
+      "KOSPI200",
+      "정기예금",
+      "세이프지수연동예금"
+    ],
+    "filename": "세이프지수연동예금 25-13호 KOSPI200 보장강화 스텝업 (1년) 상품설명서_2025052600000119.pdf",
+    "category": "Savings (예적금)",
+    "diversity_tag": "General_TaxFree"
+  },
+  {
+    "product_name": "Best Tour여행적금",
+    "product_type": "적립식예금",
+    "accumulation_type": "정기적립식 및 자유적립식",
+    "eligibility": {
+      "age_min": null,
+      "age_max": null,
+      "target_detail": "실명의 개인 및 개인사업자"
+    },
+    "interest_rate": {
+      "base_rate": 1.9,
+      "max_rate": 2.9,
+      "prime_conditions": [
+        "정기적립식: 적립금액이 30만원 이상시 연0.1% 가산",
+        "정기적립식: 전체 저축횟수 중 2/3 이상 이체거래로 입금시 연0.1% 가산",
+        "자유적립식: 매회 저축금액이 30만원 이상시 연0.1% 가산(건별)",
+        "자유적립식: 매회 저축금을 창구거래를 제외한 이체거래로 입금시 건별 연0.1% 가산"
+      ]
+    },
+    "min_month": 6,
+    "max_month": 36,
+    "max_deposit": 10000000,
+    "auto_renewal": false,
+    "partial_withdrawal": false,
+    "join_channel": {
+      "is_online": false,
+      "is_offline": true,
+      "descriptions": [
+        "영업점 방문 필수"
+      ]
+    },
+    "risk_caution": null,
+    "keywords": [
+      "여행적금",
+      "정기적립식",
+      "자유적립식"
+    ],
+    "filename": "BEST TOUR여행적금 상품설명서_2006042700230000.pdf",
+    "category": "Savings (예적금)",
+    "diversity_tag": "Business_Travel"
+  },
+  {
+    "product_name": "개인형 IRP / 연금저축",
+    "pension_type": "IRP",
+    "default_option_info": "사전지정운용제도 적용 가능",
+    "tax_deduction_limit": "연간 최대 700만원 (IRP + 연금저축 합산)",
+    "pension_receipt_method": "가입기간 5년 이상 및 만 55세 이후부터 연금 수령 가능",
+    "investment_options": "정기예금, 펀드, 보험상품 등 다양한 투자 옵션 제공",
+    "fees": "중도해지 수수료 없음, 단 세액공제받은 납입원금 및 수익에 대해 소득세 부과",
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "온라인 가입 가능",
+        "오프라인 지점 방문 가입 가능"
+      ]
+    },
+    "filename": "개인형IRP와 연금저축계좌 비교표_2022061600000105.pdf",
+    "category": "Retirement_Pension (퇴직연금)",
+    "diversity_tag": "Invest_Pension_Senior"
+  },
+  {
+    "product_name": "프리미어 토지보상 회전정기예금",
+    "product_type": "정기예금",
+    "accumulation_type": "정기적립식",
+    "eligibility": {
+      "age_min": null,
+      "age_max": null,
+      "target_detail": "공탁금 또는 토지보상금 수령고객 (개인 및 개인사업자)"
+    },
+    "interest_rate": {
+      "base_rate": 0.25,
+      "max_rate": 0.6,
+      "prime_conditions": [
+        "최저 3백만원 이상 가입",
+        "세금우대 및 생계형 가능",
+        "양도 및 질권설정 가능 (은행의 승낙 필요)"
+      ]
+    },
+    "min_month": 12,
+    "max_month": 60,
+    "max_deposit": null,
+    "auto_renewal": false,
+    "partial_withdrawal": true,
+    "join_channel": {
+      "is_online": false,
+      "is_offline": true,
+      "descriptions": [
+        "영업점 방문 필수"
+      ]
+    },
+    "risk_caution": "만기 전 해지할 경우 약정한 이자율보다 낮은 중도해지이자율이 적용됨",
+    "keywords": [
+      "정기예금",
+      "회전정기예금",
+      "토지보상금"
+    ],
+    "filename": "프리미어토지보상회전정기예금 상품설명서_2011111901340000.pdf",
+    "category": "Savings (예적금)",
+    "diversity_tag": "Business"
+  },
+  {
+    "product_name": "무배당 더쉬운자산관리 ETF변액보험 2.0(일시납)",
+    "insurance_type": "변액보험",
+    "is_renewal": null,
+    "declared_rate": null,
+    "min_guarantee_rate": null,
+    "coverage_summary": "원금 손실 위험이 있는 변액보험 상품으로, 해지 시 원금 손실이 발생할 수 있습니다.",
+    "tax_benefit_cond": null,
+    "early_termination_warning": "중도해지 시 원금 손실이 발생할 수 있습니다.",
+    "join_channel": {
+      "is_online": false,
+      "is_offline": true,
+      "descriptions": [
+        "오프라인 판매 채널을 통해 가입 가능"
+      ]
+    },
+    "filename": "BNP파리바카디프생명 (무)더쉬운자산관리 ETF변액보험 2.0_운용설명서_2021122700000006.pdf",
+    "category": "Insurance (보험/방카)",
+    "diversity_tag": "Business_Invest_Travel"
+  },
+  {
+    "product_name": "신한 청년 DREAM 통장(서울시)",
+    "interest_payment_date": "매년 3월, 6월, 9월, 12월의 셋째주 마지막 영업일에 지급",
+    "base_interest_rate": 0.1,
+    "max_interest_rate": 0.1,
+    "transfer_fee_waiver": "인터넷뱅킹, 폰뱅킹(ARS에 한함), 모바일뱅킹을 통한 다른은행으로의 이체수수료 면제",
+    "withdraw_fee_waiver": "신한은행 CD/ATM을 이용한 신한은행 계좌의 현금인출수수료 면제",
+    "currency_benefit": "해당없음",
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "인터넷뱅킹 등 비대면채널을 통해 가입 가능",
+        "영업점을 통해 가입 가능"
+      ]
+    },
+    "filename": "신한 청년 DREAM 통장(서울시) 상품설명서_2019050901970000.pdf",
+    "category": "Demand_Deposit (입출금)",
+    "diversity_tag": "Housing_Invest_TaxFree_Youth"
+  },
+  {
+    "product_name": "신한금융투자 2518호 주가연계파생결합사채(ELB)",
+    "pension_type": "IRP",
+    "default_option_info": null,
+    "tax_deduction_limit": "연 700만원",
+    "pension_receipt_method": "만기일에 현금으로 지급",
+    "investment_options": "삼성전자 보통주",
+    "fees": "없음",
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "신한금융투자 홈페이지에서 청약 가능",
+        "신한금융투자 지점 방문 청약 가능"
+      ]
+    },
+    "filename": "신한금융투자 퇴직연금 ELB 2518호 투자설명서_2022091500000006.pdf",
+    "category": "Retirement_Pension (퇴직연금)",
+    "diversity_tag": "Business_Housing_Invest_Pension"
+  },
+  {
+    "product_name": "스타트플랜FNA증권거래예금",
+    "product_type": "정기예금",
+    "accumulation_type": "정기적립식",
+    "eligibility": {
+      "age_min": 20,
+      "age_max": 32,
+      "target_detail": "직장인"
+    },
+    "interest_rate": {
+      "base_rate": 0.1,
+      "max_rate": 0.1,
+      "prime_conditions": [
+        "급여이체 실적: 매월 말일자를 기준으로 하여 최근 1개월 급여이체 합계가 50만원 이상 또는 최근 3개월 급여이체합계가 150만원 이상"
+      ]
+    },
+    "min_month": 24,
+    "max_month": 24,
+    "max_deposit": null,
+    "auto_renewal": true,
+    "partial_withdrawal": false,
+    "join_channel": {
+      "is_online": true,
+      "is_offline": false,
+      "descriptions": [
+        "앱(SOL) 전용 가입 가능"
+      ]
+    },
+    "risk_caution": null,
+    "keywords": [
+      "#정기예금",
+      "#스타트플랜",
+      "#FNA증권거래예금"
+    ],
+    "filename": "스타트플랜FNA증권거래예금 상품설명서_2006042500960000.pdf",
+    "category": "Savings (예적금)",
+    "diversity_tag": "Business_Housing_TaxFree_Travel"
+  },
+  {
+    "product_name": "세이프지수연동예금 KOSPI200 보장강화 상승형 23-05호(1년)",
+    "product_type": "정기예금",
+    "accumulation_type": "정기적립식",
+    "eligibility": {
+      "age_min": null,
+      "age_max": null,
+      "target_detail": "가입자격 제한없음"
+    },
+    "interest_rate": {
+      "base_rate": 3.6,
+      "max_rate": 4.6,
+      "prime_conditions": [
+        "최소가입금액 300만원 이상(단, 인터넷뱅킹, SOL뱅킹, M신한으로 가입시 50만원 이상)"
+      ]
+    },
+    "min_month": 12,
+    "max_month": 12,
+    "max_deposit": 20000000000,
+    "auto_renewal": false,
+    "partial_withdrawal": true,
+    "join_channel": {
+      "is_online": true,
+      "is_offline": false,
+      "descriptions": [
+        "인터넷뱅킹, SOL뱅킹, M신한으로 가입 가능"
+      ]
+    },
+    "risk_caution": "중도해지시 일부 원금손실 발생 가능.",
+    "keywords": [
+      "KOSPI200",
+      "정기예금",
+      "세이프지수연동예금"
+    ],
+    "filename": "세이프 지수연동예금 23-05호 KOSPI200보장강화상승형 (1년) 상품설명서_2023021600000139.pdf",
+    "category": "Savings (예적금)",
+    "diversity_tag": "General_TaxFree"
+  },
+  {
+    "product_name": "WELCOME 퇴직연금 정기예금",
+    "pension_type": "DC/IRP",
+    "default_option_info": "이 예금은 디폴트옵션 정기예금으로 사전지정운용방법에 따라 운용됩니다.",
+    "tax_deduction_limit": "해당 없음",
+    "pension_receipt_method": "만기 시 원금과 이자를 합산하여 상환",
+    "investment_options": "정기예금",
+    "fees": "해당 없음",
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "온라인 및 오프라인에서 가입 가능"
+      ]
+    },
+    "filename": "웰컴저축은행 퇴직연금 정기예금 상품설명서_2022012700000095.pdf",
+    "category": "Retirement_Pension (퇴직연금)",
+    "diversity_tag": "Business_Invest_Pension_TaxFree"
+  },
+  {
+    "product_name": "시간에 투자하는 변액연금보험 무배당 2108 최저연금보증형 2+α(월납입형)",
+    "insurance_type": "변액보험",
+    "is_renewal": true,
+    "declared_rate": null,
+    "min_guarantee_rate": null,
+    "coverage_summary": "변액보험은 계약자가 납입한 보험료에서 사업비 등을 뺀 금액을 일반계정에서 분리하여 특별계정(펀드)으로 운용하는 보험입니다.",
+    "tax_benefit_cond": "세제혜택 적용요건에 대한 상세한 사항은 상품설명서 본문을 참고하시기 바랍니다.",
+    "early_termination_warning": "중도 해지 시 돌려받는 금액이 지금까지 낸 보험료보다 적거나 없을 수 있습니다.",
+    "join_channel": {
+      "is_online": false,
+      "is_offline": true,
+      "descriptions": [
+        "보험모집종사자는 보험계약 체결 시 관계법령에 따른 절차를 준수해야 합니다.",
+        "보험계약자는 보험증권을 받은 날부터 15일 이내에 청약을 철회할 수 있습니다."
+      ]
+    },
+    "filename": "미래에셋생명_시간에 투자하는 변액연금보험(무)2108_상품설명서_최저연금보증형2_2021122800000027.pdf",
+    "category": "Insurance (보험/방카)",
+    "diversity_tag": "Housing_Invest_Parking_Senior_TaxFree"
+  },
+  {
+    "product_name": "신한 고정금리 재형저축",
+    "product_type": "정기적금",
+    "accumulation_type": "정기적립식",
+    "eligibility": {
+      "age_min": 15,
+      "age_max": 29,
+      "target_detail": "소득형 청년형 가입자"
+    },
+    "interest_rate": {
+      "base_rate": 2.95,
+      "max_rate": 2.95,
+      "prime_conditions": [
+        "신한은행 계좌로 월50만원이상 급여이체실적이 5개월 이상인 경우 연 0.3% 우대"
+      ]
+    },
+    "min_month": 12,
+    "max_month": 84,
+    "max_deposit": 3000000,
+    "auto_renewal": true,
+    "partial_withdrawal": false,
+    "join_channel": {
+      "is_online": false,
+      "is_offline": true,
+      "descriptions": [
+        "영업점 방문 필수"
+      ]
+    },
+    "risk_caution": "이 상품은 신규일로부터 7년간 고정이자율을 적용하는 상품으로 향후 금리가 상승할 경우 불리할 수 있으니 유의하시기 바랍니다.",
+    "keywords": [
+      "재형저축",
+      "고정금리",
+      "세금우대"
+    ],
+    "filename": "신한 고정금리 재형저축 상품설명서_2013072640180000.pdf",
+    "category": "Savings (예적금)",
+    "diversity_tag": "TaxFree_Youth"
+  },
+  {
+    "product_name": "유진투자증권 제297회 파생결합사채",
+    "pension_type": "기타파생결합사채",
+    "default_option_info": "저위험, 4등급",
+    "tax_deduction_limit": "해당 없음",
+    "pension_receipt_method": "현금결제",
+    "investment_options": "CD(양도성예금증서) 91일물의 최종호가수익률",
+    "fees": "해당 없음",
+    "join_channel": {
+      "is_online": true,
+      "is_offline": false,
+      "descriptions": [
+        "온라인 청약 가능",
+        "오프라인 청약 불가"
+      ]
+    },
+    "filename": "유진투자증권 퇴직연금 DLB 298호 간이투자설명서_2022122200000095.pdf",
+    "category": "Retirement_Pension (퇴직연금)",
+    "diversity_tag": "Business_Housing_Invest_Pension"
+  },
+  {
+    "product_name": "세이프지수연동예금(퇴직연금전용) KOSPI200 안정형11-3호",
+    "pension_type": "DB",
+    "default_option_info": null,
+    "tax_deduction_limit": "이자소득세 비과세, 퇴직소득세 과세",
+    "pension_receipt_method": "퇴직연금 수령 시 퇴직소득세가 과세됨",
+    "investment_options": "KOSPI200 지수 연동",
+    "fees": "중도해지 시 원금 손실 발생, 중도해지 수수료: 3개월 미만 3.00%, 6개월 미만 2.80%, 12개월 미만 2.58%",
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "신한은행 홈페이지 및 영업점에서 가입 가능"
+      ]
+    },
+    "filename": "세이프(퇴직연금전용)11-3호 상품설명서_2006042500640000.pdf",
+    "category": "Retirement_Pension (퇴직연금)",
+    "diversity_tag": "General_Pension_TaxFree"
+  },
+  {
+    "product_name": "세이프지수연동예금(프리미어전용)",
+    "product_type": "정기예금",
+    "accumulation_type": "정기적립식",
+    "eligibility": {
+      "age_min": null,
+      "age_max": null,
+      "target_detail": "개인 및 법인(금융기관 제외)"
+    },
+    "interest_rate": {
+      "base_rate": 0.0,
+      "max_rate": 6.7,
+      "prime_conditions": [
+        "만기환율이기준환율대비2.5%이상하락한 경우: 연6.70% 수익률확정",
+        "만기환율이기준환율대비상승했거나2.5%미만하락경우: 원금보장"
+      ]
+    },
+    "min_month": 12,
+    "max_month": 12,
+    "max_deposit": 150000000000,
+    "auto_renewal": false,
+    "partial_withdrawal": false,
+    "join_channel": {
+      "is_online": true,
+      "is_offline": false,
+      "descriptions": [
+        "앱(SOL) 전용"
+      ]
+    },
+    "risk_caution": "중도해지시에는 이자가 지급되지 않으며, 파생상품 매입비용 등으로 인하여 중도해지 이율 중도해지 수수료가 발생되어 원금 손실이 발생될 수 있습니다.",
+    "keywords": [
+      "세이프지수연동예금",
+      "프리미어전용",
+      "정기예금",
+      "원금보장",
+      "금리연동"
+    ],
+    "filename": "프리미어세이프11-3호 상품설명서_2006042300060000.pdf",
+    "category": "Savings (예적금)",
+    "diversity_tag": "Business_Parking_Pension"
+  },
+  {
+    "product_name": "세이프지수연동예금",
+    "product_type": "정기예금",
+    "accumulation_type": "정기적립식",
+    "eligibility": {
+      "age_min": null,
+      "age_max": null,
+      "target_detail": "가입자격 제한없음"
+    },
+    "interest_rate": {
+      "base_rate": 2.0,
+      "max_rate": 5.82,
+      "prime_conditions": [
+        "급여이체 시 우대금리 적용"
+      ]
+    },
+    "min_month": 18,
+    "max_month": 18,
+    "max_deposit": 30000000000,
+    "auto_renewal": false,
+    "partial_withdrawal": false,
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "인터넷 뱅킹을 통한 가입 가능",
+        "영업점 방문 가능"
+      ]
+    },
+    "risk_caution": "중도해지 시 원금 손실 발생 가능성 있음.",
+    "keywords": [
+      "#세이프지수연동예금",
+      "#정기예금",
+      "#KOSPI200"
+    ],
+    "filename": "세이프지수연동예금 13-7호_2013120643740000.pdf",
+    "category": "Savings (예적금)",
+    "diversity_tag": "Business_Invest_Travel"
+  },
+  {
+    "product_name": "교보변액연금보험(무배당)[B]",
+    "insurance_type": "변액",
+    "is_renewal": null,
+    "declared_rate": null,
+    "min_guarantee_rate": null,
+    "coverage_summary": "노후자금 마련을 목적으로 하는 저축성보험으로, 펀드의 운용성과에 따라 해약환급금 및 연금액 등이 변동됩니다.",
+    "tax_benefit_cond": null,
+    "early_termination_warning": "이 보험은 중도에 해지할 경우 원금 손실이 발생할 수 있습니다.",
+    "join_channel": {
+      "is_online": false,
+      "is_offline": true,
+      "descriptions": [
+        "다이렉트(온라인) 상품이 아닙니다."
+      ]
+    },
+    "filename": "교보생명 미리보는내연금(무)교보First변액연금Ⅱ_약관_2021122700000134.pdf",
+    "category": "Insurance (보험/방카)",
+    "diversity_tag": "Housing_Invest_Parking_Pension_TaxFree_Youth"
+  },
+  {
+    "product_name": "VIP변액저축보험(무배당)",
+    "insurance_type": "적립형",
+    "is_renewal": true,
+    "declared_rate": 3.5,
+    "min_guarantee_rate": 1.0,
+    "coverage_summary": "변액저축보험으로, 보험료의 일부가 투자에 사용되어 수익을 추구합니다.",
+    "tax_benefit_cond": "세액공제 혜택이 제공됩니다.",
+    "early_termination_warning": "조기 해지 시 원금 손실 위험이 있습니다.",
+    "join_channel": {
+      "is_online": true,
+      "is_offline": false,
+      "descriptions": [
+        "온라인으로 가입 가능",
+        "다이렉트 상품"
+      ]
+    },
+    "filename": "신한라이프_VIP변액저축보험(무배당)_약관_2021122700000104.pdf",
+    "category": "Insurance (보험/방카)",
+    "diversity_tag": "Business_Housing_Invest_Parking_Pension_Travel"
+  },
+  {
+    "product_name": "세이프지수연동예금(프리미어 전용)",
+    "category_detail": "예금",
+    "underlying_asset": "S&P 한국 대기업지수, KOSPI200, 위안화(USD/CNY), Commodity 바스켓지수",
+    "payout_cycle": "만기일시지급",
+    "risk_grade": 3,
+    "principal_protected": true,
+    "loss_warning": "원금 손실 가능성 있음",
+    "total_fee_rate": null,
+    "fee_detail": null,
+    "recommended_period": "1년",
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "비대면 가입 가능",
+        "오프라인 지점 방문 가능"
+      ]
+    },
+    "filename": "[ETF] KODEX 코스피 상품설명서_2006042300100000.pdf",
+    "category": "Investment (투자/ISA/골드)",
+    "diversity_tag": "Business_Parking_Pension"
+  },
+  {
+    "product_name": "트루 파생결합사채 (주가연계파생결합사채) 제526회",
+    "pension_type": "IRP",
+    "default_option_info": null,
+    "tax_deduction_limit": "퇴직연금 적립금에 한함",
+    "pension_receipt_method": "현금결제",
+    "investment_options": "KOSPI200",
+    "fees": "없음",
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "청약증거금은 납입기일에 증권납입금으로 대체충당",
+        "청약자는 실명확인이 된 계좌를 통해 청약해야 함",
+        "청약취소는 청약기간에 한하여 가능함"
+      ]
+    },
+    "filename": "한국투자증권 퇴직연금 ELB 527호 (1년)_2015060160450000.pdf",
+    "category": "Retirement_Pension (퇴직연금)",
+    "diversity_tag": "Business_Housing_Invest_Pension"
+  },
+  {
+    "product_name": "확정급여형(DB) 퇴직연금",
+    "pension_type": "DB",
+    "default_option_info": "사전지정운용제도에 따라 적립금의 최소적립금 수준을 유지해야 하며, 적립금이 법령에서 정한 최소적립금을 상회하고 있는지를 검증하는 업무가 포함됩니다.",
+    "tax_deduction_limit": "세액공제 한도는 관련 법령에 따라 다르며, 구체적인 한도는 세법 개정에 따라 변동될 수 있습니다.",
+    "pension_receipt_method": "퇴직급여 지급 시 전액 개인형 IRP로 의무 이전되며, 법령에 정한 사유에 해당할 경우 일시금 지급이 가능합니다.",
+    "investment_options": "주식형 또는 주식혼합형 펀드는 전체 적립금의 70% 범위 내에서만 운용 가능하며, 채권혼합형 펀드는 100%까지 운용 가능합니다.",
+    "fees": "수수료는 적립금 평잔에 따라 차등 적용되며, 10억원 미만의 경우 0.40%에서 시작하여 1,000억원 이상은 0.07%로 적용됩니다.",
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "온라인 및 오프라인으로 가입 가능",
+        "퇴직연금 전문센터를 통한 상담 가능"
+      ]
+    },
+    "filename": "[퇴직연금]확정급여형 퇴직연금 핵심설명서_2024071500000031.pdf",
+    "category": "Retirement_Pension (퇴직연금)",
+    "diversity_tag": "Business_Invest_Pension"
+  },
+  {
+    "product_name": "VIP 변액저축보험(무배당)",
+    "insurance_type": "변액보험",
+    "is_renewal": null,
+    "declared_rate": null,
+    "min_guarantee_rate": null,
+    "coverage_summary": "이 상품은 실적배당형 상품으로 보험금 및 해지환급금이 특별계정의 운용실적에 따라 변동됩니다.",
+    "tax_benefit_cond": "해당 없음",
+    "early_termination_warning": "중도해지 시 해지환급금에 대한 최저보증이 없으므로 원금손실이 발생할 수 있으며, 그 손실은 모두 계약자에게 귀속됩니다.",
+    "join_channel": {
+      "is_online": false,
+      "is_offline": true,
+      "descriptions": [
+        "신한라이프생명보험 주식회사에서 판매하는 오프라인 상품입니다."
+      ]
+    },
+    "filename": "신한라이프_VIP변액저축보험(무배당)_운용설명서_2021122700000105.pdf",
+    "category": "Insurance (보험/방카)",
+    "diversity_tag": "Business_Invest_Parking"
+  },
+  {
+    "product_name": "신한은행일임형ISA 액티브MP (안정추구형)",
+    "category_detail": "ISA",
+    "underlying_asset": "주식형, 채권형, 대체투자",
+    "payout_cycle": "만기일시지급",
+    "risk_grade": 4,
+    "principal_protected": false,
+    "loss_warning": "본상품은운용결과에따라원금의일부또는전부손실이발생할수있음",
+    "total_fee_rate": 0.2,
+    "fee_detail": "일임보수: 후취연0.2% (비대면0.1%)",
+    "recommended_period": "3년",
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "비대면 가입 가능",
+        "오프라인 지점 방문 가능"
+      ]
+    },
+    "filename": "4001_일임형ISA MP설명서(액티브MP 안정추구형)_2020070800000037.pdf",
+    "category": "Investment (투자/ISA/골드)",
+    "diversity_tag": "Housing_Invest_Parking_TaxFree_Worker"
+  },
+  {
+    "product_name": "WM 세이프지수연동예금",
+    "product_type": "정기예금",
+    "accumulation_type": "정기적립식",
+    "eligibility": {
+      "age_min": null,
+      "age_max": null,
+      "target_detail": "가입자격 제한없음"
+    },
+    "interest_rate": {
+      "base_rate": 1.35,
+      "max_rate": 5.55,
+      "prime_conditions": [
+        "인터넷 뱅킹 또는 스마트폰 뱅킹으로 가입 시 최소 가입금액 50만원 이상",
+        "만기지수 결정일에 기준지수 대비 10% 이상 상승 시 연 2.20% 수익률 확정",
+        "만기지수 결정일에 기준지수 대비 15% 초과 상승 시 연 1.00% 수익률 확정"
+      ]
+    },
+    "min_month": 12,
+    "max_month": 18,
+    "max_deposit": 1000000000,
+    "auto_renewal": false,
+    "partial_withdrawal": false,
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "인터넷 뱅킹 또는 스마트폰 뱅킹을 통해 가입 가능",
+        "영업점 방문 가능"
+      ]
+    },
+    "risk_caution": "중도해지 시 이자 지급되지 않으며 원금 손실 발생 가능성 있음.",
+    "keywords": [
+      "WM 세이프지수연동예금",
+      "KOSPI200",
+      "삼성전자"
+    ],
+    "filename": "WM 세이프지수연동예금 21-15호 상품설명서_2021090100000018.pdf",
+    "category": "Savings (예적금)",
+    "diversity_tag": "General_Invest_TaxFree"
+  },
+  {
+    "product_name": "스타트플랜저축예금",
+    "product_type": "저축예금",
+    "accumulation_type": "정기적립식",
+    "eligibility": {
+      "age_min": 20,
+      "age_max": 32,
+      "target_detail": "직장인"
+    },
+    "interest_rate": {
+      "base_rate": 0.1,
+      "max_rate": 0.1,
+      "prime_conditions": [
+        "급여이체 실적: 매월 말일자를 기준으로 하여 최근 1개월 급여이체 합계가 50만원 이상 또는 최근 3개월 급여이체합계가 150만원 이상"
+      ]
+    },
+    "min_month": 24,
+    "max_month": 24,
+    "max_deposit": null,
+    "auto_renewal": false,
+    "partial_withdrawal": false,
+    "join_channel": {
+      "is_online": true,
+      "is_offline": false,
+      "descriptions": [
+        "앱(SOL) 전용 가입 가능"
+      ]
+    },
+    "risk_caution": null,
+    "keywords": [
+      "#스타트플랜 #저축예금 #금리우대"
+    ],
+    "filename": "스타트플랜저축예금 상품설명서_2006042500950000.pdf",
+    "category": "Savings (예적금)",
+    "diversity_tag": "Business_Housing_TaxFree_Travel"
+  },
+  {
+    "product_name": "Tops직장인플랜 FNA증권거래예금",
+    "product_type": "저축예금",
+    "accumulation_type": "자유적립식",
+    "eligibility": {
+      "age_min": 18,
+      "age_max": null,
+      "target_detail": "개인"
+    },
+    "interest_rate": {
+      "base_rate": 0.1,
+      "max_rate": 0.1,
+      "prime_conditions": [
+        "전산상 급여이체로 자동인식되는 경우: 매월 말일자를 기준으로 하여 최근 1개월 급여이체 합계가 50만원 이상 또는 최근 3개월 급여이체합계가 150만원 이상인 경우",
+        "전산상 급여이체로 자동인식되지 않는 경우: 급여이체 확인서를 통하여 해당급여일 ±1영업일 입금금액 합계가 50만원 이상인 경우"
+      ]
+    },
+    "min_month": null,
+    "max_month": null,
+    "max_deposit": null,
+    "auto_renewal": false,
+    "partial_withdrawal": false,
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "영업점 방문 가능",
+        "앱(SOL) 전용 가입 가능"
+      ]
+    },
+    "risk_caution": null,
+    "keywords": [
+      "#신한은행",
+      "#직장인플랜",
+      "#예금상품"
+    ],
+    "filename": "Tops직장인플랜FNA증권거래예금 상품설명서_2006042800250000.pdf",
+    "category": "Savings (예적금)",
+    "diversity_tag": "Business_Housing_TaxFree_Travel"
+  },
+  {
+    "product_name": "매매대행 골드(실버)바",
+    "category_detail": "금 거래",
+    "underlying_asset": "골드(실버)바",
+    "payout_cycle": null,
+    "risk_grade": 3,
+    "principal_protected": false,
+    "loss_warning": "국제 금(은)가격 및 원달러환율의 변동에 따라 이익 또는 손실이 발생할 수 있습니다.",
+    "total_fee_rate": null,
+    "fee_detail": "부가가치세(고객의 매입가격의 10%) 별도 징수",
+    "recommended_period": null,
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "비대면 가입 가능",
+        "영업점 방문 가능"
+      ]
+    },
+    "filename": "매매대행 골드(실버)바 상품설명서_2014032747850000.pdf",
+    "category": "Investment (투자/ISA/골드)",
+    "diversity_tag": "Business"
+  },
+  {
+    "product_name": "시간에 투자하는 변액연금보험(무)2205_최저연금보증형 1+α 1종 [월납입형]",
+    "insurance_type": "변액연금보험",
+    "is_renewal": true,
+    "declared_rate": null,
+    "min_guarantee_rate": 1.0,
+    "coverage_summary": "최저사망적립금 보장, 재해장해생활비 지급, 종신연금 지급",
+    "tax_benefit_cond": null,
+    "early_termination_warning": "조기 해지 시 원금 손실 위험이 있습니다.",
+    "join_channel": {
+      "is_online": false,
+      "is_offline": true,
+      "descriptions": [
+        "오프라인 판매 채널을 통해 가입 가능"
+      ]
+    },
+    "filename": "미래에셋생명_시간에투자하는변액연금(무)2205(대면)_가입제안서_2022042600000130.pdf",
+    "category": "Insurance (보험/방카)",
+    "diversity_tag": "Housing_Invest_Senior_TaxFree"
+  },
+  {
+    "product_name": "골드바",
+    "category_detail": "금 상품",
+    "underlying_asset": "금",
+    "payout_cycle": null,
+    "risk_grade": 4,
+    "principal_protected": false,
+    "loss_warning": "금 가격 및 환율 변동에 따라 손실 발생 가능성 있음.",
+    "total_fee_rate": 9.0,
+    "fee_detail": "부가가치세 10% 및 실물수수료 4%~5%",
+    "recommended_period": null,
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "비대면으로 골드바 거래 가능",
+        "오프라인 지점 방문 가능"
+      ]
+    },
+    "filename": "골드리슈금매매(골드바) 상품설명서_2006042500050000.pdf",
+    "category": "Investment (투자/ISA/골드)",
+    "diversity_tag": "Business_Invest"
+  },
+  {
+    "product_name": "신한 더모아 적금",
+    "product_type": "정기적립식",
+    "accumulation_type": "자유적립식",
+    "eligibility": {
+      "age_min": null,
+      "age_max": null,
+      "target_detail": "실명의 개인 및 개인사업자, 1인 1계좌"
+    },
+    "interest_rate": {
+      "base_rate": 1.0,
+      "max_rate": 7.0,
+      "prime_conditions": [
+        "신한 더모아 카드로 60만원 이상 이용 시 연 5.0%",
+        "신한카드 마케팅 동의 및 한도상향 동의 시 연 1.0%"
+      ]
+    },
+    "min_month": 6,
+    "max_month": 6,
+    "max_deposit": 300000,
+    "auto_renewal": false,
+    "partial_withdrawal": false,
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "영업점 및 비대면 채널을 통해 가입 가능"
+      ]
+    },
+    "risk_caution": null,
+    "keywords": [
+      "신한은행",
+      "적금",
+      "우대금리",
+      "비과세종합저축"
+    ],
+    "filename": "신한 더모아 적금 상품 설명서_2021061000000060.pdf",
+    "category": "Savings (예적금)",
+    "diversity_tag": "Business_Housing_Invest_TaxFree"
+  },
+  {
+    "product_name": "신한 KIA타이거즈 정기예금",
+    "product_type": "정기예금",
+    "accumulation_type": "정기적립식",
+    "eligibility": {
+      "age_min": null,
+      "age_max": null,
+      "target_detail": "개인 및 개인사업자 고객 (1인1계좌)"
+    },
+    "interest_rate": {
+      "base_rate": 0.0,
+      "max_rate": 0.3,
+      "prime_conditions": [
+        "KIA타이거즈가 포스트시즌 진출시 연 0.100%p",
+        "KIA타이거즈가 한국시리즈 진출시 연 0.300%p",
+        "KIA타이거즈가 한국시리즈 우승시 연 0.100%p"
+      ]
+    },
+    "min_month": 12,
+    "max_month": 12,
+    "max_deposit": 100000000,
+    "auto_renewal": false,
+    "partial_withdrawal": true,
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "비대면 채널로 신규할 경우 50만원 이상 1억원 이내"
+      ]
+    },
+    "risk_caution": null,
+    "keywords": [
+      "정기예금",
+      "KIA타이거즈",
+      "우대금리"
+    ],
+    "filename": "신한 KIA타이거즈 정기예금 상품설명서_2018031287160000.pdf",
+    "category": "Savings (예적금)",
+    "diversity_tag": "Business_TaxFree"
+  },
+  {
+    "product_name": "개인종합자산관리계좌(ISA) 일임형",
+    "category_detail": "ISA",
+    "underlying_asset": "펀드, ETF, 파생결합증권 등",
+    "payout_cycle": "만기일시지급",
+    "risk_grade": 3,
+    "principal_protected": false,
+    "loss_warning": "원금 손실 가능성 있음",
+    "total_fee_rate": 0.9,
+    "fee_detail": "기본(일반)보수는 고객께서 선택한 계약유형 및 투자성향에 따라 결정",
+    "recommended_period": "3년 이상",
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "비대면 가입 가능",
+        "오프라인 지점 방문 가능"
+      ]
+    },
+    "filename": "2001_개인종합자산관리계좌(일임형)계약권유문서_2021111200000104.pdf",
+    "category": "Investment (투자/ISA/골드)",
+    "diversity_tag": "Business_Invest_Pension_TaxFree"
+  },
+  {
+    "product_name": "DB한국지수연계증권투자신탁제3호[채권]",
+    "pension_type": "DB",
+    "default_option_info": "이 투자신탁은 KOSPI200 지수의 변동과 연계되는 채권(파생결합사채)에 투자하여 기초자산의 변동에 따라 수익을 얻는 것을 목적으로 합니다.",
+    "tax_deduction_limit": "퇴직연금 수령시 관련 세법에 따라 세금을 부담하며, 거주자와 일반법인이 받는 집합투자기구로부터의 과세 이익에 대해서는 15.4% 세율로 원천징수됩니다.",
+    "pension_receipt_method": "투자자는 펀드에서 투자된 채권(파생결합사채)의 조기상환 또는 만기상환 이전에 중도환매가 가능합니다.",
+    "investment_options": "채권(파생결합사채)",
+    "fees": "환매수수료는 최초설정일로부터 6개월 미만 환매청구시 7%, 6개월 이후부터 채권 상환 이전 환매 청구시 5%입니다.",
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "온라인 및 오프라인을 통한 가입 가능"
+      ]
+    },
+    "filename": "DB한국지수연계증권자투자신탁제3호[채권] 간이투자설명서_2022021800000010.pdf",
+    "category": "Retirement_Pension (퇴직연금)",
+    "diversity_tag": "Business_Invest_Parking_Pension"
+  },
+  {
+    "product_name": "세이프지수연동예금",
+    "product_type": "정기예금",
+    "accumulation_type": "정기적립식",
+    "eligibility": {
+      "age_min": null,
+      "age_max": null,
+      "target_detail": "개인 및 법인(금융기관 제외)"
+    },
+    "interest_rate": {
+      "base_rate": 3.96,
+      "max_rate": 15.3,
+      "prime_conditions": [
+        "급여이체 시 우대금리 적용"
+      ]
+    },
+    "min_month": 12,
+    "max_month": 12,
+    "max_deposit": 110000000000,
+    "auto_renewal": false,
+    "partial_withdrawal": false,
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "인터넷뱅킹으로 신규 가입 가능",
+        "영업점 방문 가능"
+      ]
+    },
+    "risk_caution": "이자소득세의 적용: 만기 시 이자부분에 대한 원천징수세금은 소득세법에 따라 원금을 상회하는 이자지급 전액에 대하여 계산됩니다.",
+    "keywords": [
+      "지수연동예금",
+      "신한은행",
+      "정기예금"
+    ],
+    "filename": "세이프지수연동예금11-6호 상품설명서_2006042500850000.pdf",
+    "category": "Savings (예적금)",
+    "diversity_tag": "Business_Parking"
+  },
+  {
+    "product_name": "신한 My 주니어 적금",
+    "product_type": "적립식",
+    "accumulation_type": "자유적립식",
+    "eligibility": {
+      "age_min": 0,
+      "age_max": 18,
+      "target_detail": "만 18세 이하의 실명의 개인 (1인 1계좌)"
+    },
+    "interest_rate": {
+      "base_rate": 2.4,
+      "max_rate": 3.4,
+      "prime_conditions": [
+        "주택청약종합저축을 계약기간 만기일까지 보유하고 있는 경우 연 0.50%",
+        "신한은행 입출금통장에서 자동이체를 통한 입금이 6회 이상일 경우 연 0.50%",
+        "아동수당 수급한 적이 있는 경우 연 0.30%",
+        "신한 체크카드 결제 실적이 있는 경우 연 0.30%",
+        "재예치가 이루어진 계좌의 경우 최대 연 0.10%"
+      ]
+    },
+    "min_month": 12,
+    "max_month": 12,
+    "max_deposit": 1000000,
+    "auto_renewal": true,
+    "partial_withdrawal": true,
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "영업점 방문 가능",
+        "인터넷뱅킹 등 비대면 채널을 통해 가입 가능"
+      ]
+    },
+    "risk_caution": null,
+    "keywords": [
+      "신한은행",
+      "주니어 적금",
+      "자유적립식",
+      "금융소비자 보호법"
+    ],
+    "filename": "신한 My 주니어 적금 상품설명서_2020011600000161.pdf",
+    "category": "Savings (예적금)",
+    "diversity_tag": "Business_Housing_Pension_TaxFree"
+  },
+  {
+    "product_name": "미래에셋생명 변액저축보험 (무)2504",
+    "insurance_type": "변액보험",
+    "is_renewal": null,
+    "declared_rate": null,
+    "min_guarantee_rate": null,
+    "coverage_summary": "이 변액보험은 실적배당형 상품으로 보험금 및 해약환급금이 특별계정의 운용실적에 따라 변동됩니다.",
+    "tax_benefit_cond": null,
+    "early_termination_warning": "중도해지 시 해약환급금에 대한 최저보증이 없으므로 원금손실이 발생할 수 있으며, 그 손실은 모두 계약자에게 귀속됩니다.",
+    "join_channel": {
+      "is_online": false,
+      "is_offline": true,
+      "descriptions": [
+        "오프라인 판매 채널을 통해 가입 가능"
+      ]
+    },
+    "filename": "미래에셋생명_변액저축보험(무)2504_운용설명서_2024092400000105.pdf",
+    "category": "Insurance (보험/방카)",
+    "diversity_tag": "Invest_Parking_Senior_Travel"
+  },
+  {
+    "product_name": "퇴직연금 정기예금",
+    "pension_type": "DC",
+    "default_option_info": null,
+    "tax_deduction_limit": null,
+    "pension_receipt_method": "만기일시지급식",
+    "investment_options": "원리금보장형 연금자산",
+    "fees": "없음",
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "온라인 및 오프라인 가입 가능"
+      ]
+    },
+    "filename": "다올저축은행 퇴직연금 정기예금 상품설명서_2018121196190000.pdf",
+    "category": "Retirement_Pension (퇴직연금)",
+    "diversity_tag": "Business_Pension_TaxFree"
+  },
+  {
+    "product_name": "신한 직장인적금",
+    "product_type": "정기적립식",
+    "accumulation_type": "정기적립식",
+    "eligibility": {
+      "age_min": 18,
+      "age_max": null,
+      "target_detail": "직장인"
+    },
+    "interest_rate": {
+      "base_rate": 3.1,
+      "max_rate": 3.9,
+      "prime_conditions": [
+        "급여이체에 의한 가산이율(연0.5%P)",
+        "스윙서비스에 의한 입금시 가산이율(연0.1%P)"
+      ]
+    },
+    "min_month": 12,
+    "max_month": 36,
+    "max_deposit": 1000000,
+    "auto_renewal": false,
+    "partial_withdrawal": false,
+    "join_channel": {
+      "is_online": false,
+      "is_offline": true,
+      "descriptions": [
+        "영업점 방문 필수"
+      ]
+    },
+    "risk_caution": null,
+    "keywords": [
+      "#신한은행",
+      "#직장인적금",
+      "#정기적립식"
+    ],
+    "filename": "신한김대리적금 상품설명서_2006042600010000.pdf",
+    "category": "Savings (예적금)",
+    "diversity_tag": "Worker"
+  },
+  {
+    "product_name": "신한투자증권 2577호 주가연계파생결합사채(ELB)",
+    "pension_type": "IRP",
+    "default_option_info": null,
+    "tax_deduction_limit": "연 700만원",
+    "pension_receipt_method": "만기일에 현금으로 지급",
+    "investment_options": "삼성전자 보통주",
+    "fees": "없음",
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "신한투자증권 홈페이지에서 청약 가능",
+        "신한투자증권 지점 방문 청약 가능"
+      ]
+    },
+    "filename": "신한투자증권 퇴직연금 ELB 2577호 투자설명서_2023020900000038.pdf",
+    "category": "Retirement_Pension (퇴직연금)",
+    "diversity_tag": "Business_Housing_Invest_Pension"
+  },
+  {
+    "product_name": "WM 세이프지수연동예금",
+    "product_type": "정기예금",
+    "accumulation_type": "정기적립식",
+    "eligibility": {
+      "age_min": null,
+      "age_max": null,
+      "target_detail": "가입자격 제한없음"
+    },
+    "interest_rate": {
+      "base_rate": 1.01,
+      "max_rate": 4.65,
+      "prime_conditions": [
+        "인터넷뱅킹 또는 스마트폰뱅킹으로 가입 시 50만원 이상",
+        "최소가입금액 300만원 이상"
+      ]
+    },
+    "min_month": 12,
+    "max_month": 24,
+    "max_deposit": 200000000,
+    "auto_renewal": false,
+    "partial_withdrawal": false,
+    "join_channel": {
+      "is_online": true,
+      "is_offline": false,
+      "descriptions": [
+        "인터넷뱅킹 또는 스마트폰뱅킹으로 가입 가능"
+      ]
+    },
+    "risk_caution": "중도해지 시 이자 지급되지 않으며, 원금 손실 발생 가능성 있음.",
+    "keywords": [
+      "WM 세이프지수연동예금",
+      "KOSPI200",
+      "삼성전자",
+      "S&P로테이터"
+    ],
+    "filename": "WM 세이프지수연동예금 21-09호 상품설명서_2021051400000014.pdf",
+    "category": "Savings (예적금)",
+    "diversity_tag": "General_Invest_TaxFree"
+  },
+  {
+    "product_name": "세이프지수연동예금 KOSPI200 안정형12-6호(패키지)",
+    "product_type": "정기예금",
+    "accumulation_type": "정기적립식",
+    "eligibility": {
+      "age_min": null,
+      "age_max": null,
+      "target_detail": "가입자격 제한없음"
+    },
+    "interest_rate": {
+      "base_rate": 4.5,
+      "max_rate": 13.8,
+      "prime_conditions": [
+        "가입금액 300만원 이상",
+        "모집한도 총 300억원"
+      ]
+    },
+    "min_month": 12,
+    "max_month": 12,
+    "max_deposit": 3000000000,
+    "auto_renewal": false,
+    "partial_withdrawal": false,
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "영업점 방문 가능",
+        "앱(SOL) 전용 가입 가능"
+      ]
+    },
+    "risk_caution": "중도해지시 원금 손실 발생 가능성 있음.",
+    "keywords": [
+      "세이프지수연동예금",
+      "KOSPI200",
+      "정기예금",
+      "원금보장"
+    ],
+    "filename": "세이프지수연동예금 12-6호_2012072520920000.pdf",
+    "category": "Savings (예적금)",
+    "diversity_tag": "Business_Invest_Parking_Travel"
+  },
+  {
+    "product_name": "신한 11번가우대적금",
+    "product_type": "정기적금",
+    "accumulation_type": "자유적립식",
+    "eligibility": {
+      "age_min": null,
+      "age_max": null,
+      "target_detail": "실명의 개인 및 개인사업자"
+    },
+    "interest_rate": {
+      "base_rate": 2.0,
+      "max_rate": 8.5,
+      "prime_conditions": [
+        "주택청약종합저축 가입 시: 연 0.1%p",
+        "신한카드 결제계좌를 신한은행으로 지정 시: 연 0.2%p",
+        "금리우대 쿠폰 발급 고객: 연 0.2%p"
+      ]
+    },
+    "min_month": 6,
+    "max_month": 6,
+    "max_deposit": 300000,
+    "auto_renewal": false,
+    "partial_withdrawal": false,
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "인터넷뱅킹 또는 스마트폰뱅킹(신한S뱅크)에서 가입 가능",
+        "해지는 신한온라인서비스(인터넷뱅킹 등) 및 영업점에서 해지 가능"
+      ]
+    },
+    "risk_caution": null,
+    "keywords": [],
+    "filename": "신한 11번가우대 적금 상품설명서_2015040357560000.pdf",
+    "category": "Savings (예적금)",
+    "diversity_tag": "Business_Housing_TaxFree"
+  },
+  {
+    "product_name": "준법감시인 사전심사필 제2021-13271-2호",
+    "insurance_type": "비갱신형",
+    "is_renewal": false,
+    "declared_rate": null,
+    "min_guarantee_rate": null,
+    "coverage_summary": null,
+    "tax_benefit_cond": null,
+    "early_termination_warning": "조기 해지 시 원금 손실 위험 경고.",
+    "join_channel": {
+      "is_online": false,
+      "is_offline": true,
+      "descriptions": [
+        "오프라인 상품"
+      ]
+    },
+    "filename": "신한라이프_VIP변액저축보험(무배당)_가입제안서(단기강화형)_2021122700000101.pdf",
+    "category": "Insurance (보험/방카)",
+    "diversity_tag": "General"
+  },
+  {
+    "product_name": "시간에 투자하는 변액연금보험(무)2404_최저연금보증형1+α 1종[월납입형]",
+    "insurance_type": "변액연금보험",
+    "is_renewal": true,
+    "declared_rate": null,
+    "min_guarantee_rate": 1.0,
+    "coverage_summary": "최저보증연금(100세만기) 보장",
+    "tax_benefit_cond": "세제혜택 가능",
+    "early_termination_warning": "중도해지 시 원금 손실 위험이 있습니다.",
+    "join_channel": {
+      "is_online": false,
+      "is_offline": true,
+      "descriptions": [
+        "방카시스템을 통한 가입"
+      ]
+    },
+    "filename": "미래에셋생명_시간에 투자하는 변액연금보험(무)2207_가입제안서_2022062400000218.pdf",
+    "category": "Insurance (보험/방카)",
+    "diversity_tag": "Housing_Invest_Senior_TaxFree"
+  },
+  {
+    "product_name": "신한 주거래 미래설계 통장",
+    "interest_payment_date": "매년 3월, 6월, 9월, 12월의 셋째주 마지막 영업일에 계산하여 그 익일에 원금에 더함",
+    "base_interest_rate": 0.1,
+    "max_interest_rate": 0.75,
+    "transfer_fee_waiver": "인터넷, 폰뱅킹, 모바일뱅킹을 통한 신한은행 및 다른은행으로의 이체수수료 면제 (단, 다른은행으로의 자동이체 수수료 제외)",
+    "withdraw_fee_waiver": "신한은행 CD/ATM을 이용한 다른은행으로의 이체 수수료 월 10회 면제 및 마감후 인출 수수료 면제",
+    "currency_benefit": "해외 송금 시 고객부담 스프레드 우대 USD/JPY/EUR (50%), 기타통화 (20%)",
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "영업점 방문",
+        "인터넷뱅킹 가입"
+      ]
+    },
+    "filename": "신한 주거래 미래설계 통장 상품설명서_2006042600440000.pdf",
+    "category": "Demand_Deposit (입출금)",
+    "diversity_tag": "Invest_Pension_Senior_TaxFree_Travel"
+  },
+  {
+    "product_name": "신한 미래설계 적금",
+    "product_type": "적립식 예금",
+    "accumulation_type": "자유적립식",
+    "eligibility": {
+      "age_min": 30,
+      "age_max": null,
+      "target_detail": "실명의 개인 및 개인사업자, 1인 1계좌"
+    },
+    "interest_rate": {
+      "base_rate": 1.2,
+      "max_rate": 1.6,
+      "prime_conditions": [
+        "급여 또는 공과금 또는 연금이체 실적이 5개월 이상: 연 0.1% 우대",
+        "신한은행에서 판매하는 연금상품 보유실적이 1회 이상: 연 0.1% 우대",
+        "개인형 퇴직연금 (IRP) 가입 실적이 1회 이상: 연 0.1% 우대",
+        "영업점에서 은퇴설계를 받고 미래설계보고서를 제공받은 실적이 있는 경우: 연 0.2% 우대"
+      ]
+    },
+    "min_month": 1,
+    "max_month": 60,
+    "max_deposit": 3000000,
+    "auto_renewal": true,
+    "partial_withdrawal": false,
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "영업점 및 비대면 채널을 통해서 해지 가능",
+        "자동해지 서비스 이용 가능"
+      ]
+    },
+    "risk_caution": "만기 전 해지할 경우 약정한 이자율보다 낮은 중도해지이자율이 적용됨.",
+    "keywords": [
+      "신한은행",
+      "미래설계",
+      "적금",
+      "자유적립식",
+      "우대이자율"
+    ],
+    "filename": "신한 미래설계 적금 상품설명서_2015033157430000.pdf",
+    "category": "Savings (예적금)",
+    "diversity_tag": "Invest_Pension_Soldier_TaxFree"
+  },
+  {
+    "product_name": "대고객 환매조건부매도(RP)",
+    "category_detail": "환매조건부매도",
+    "underlying_asset": "국채증권, 지방채증권, 특수채증권, 보증사채권",
+    "payout_cycle": "만기일시지급",
+    "risk_grade": 3,
+    "principal_protected": false,
+    "loss_warning": "이 금융상품은 예금자보호법에 따라 예금보험공사가 보호하지 않습니다.",
+    "total_fee_rate": null,
+    "fee_detail": null,
+    "recommended_period": "30일 이상 2년 이하",
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "비대면 가입 가능",
+        "오프라인 지점 방문 가입 가능"
+      ]
+    },
+    "filename": "환매조건부매도 투자자정보확인서 및 상품설명서, 고객체크리스트_2006041700460000.pdf",
+    "category": "Investment (투자/ISA/골드)",
+    "diversity_tag": "Business_Housing_Invest"
+  },
+  {
+    "product_name": "세이프지수연동예금달러/원환율하락형23-02호(1년)",
+    "product_type": "정기예금",
+    "accumulation_type": "정기적립식",
+    "eligibility": {
+      "age_min": null,
+      "age_max": null,
+      "target_detail": "가입자격 제한없음"
+    },
+    "interest_rate": {
+      "base_rate": 0.1,
+      "max_rate": 3.875,
+      "prime_conditions": [
+        "인터넷뱅킹, SOL뱅킹, M신한으로 가입시 50만원 이상",
+        "최소가입금액 300만원 이상"
+      ]
+    },
+    "min_month": 12,
+    "max_month": 12,
+    "max_deposit": 20000000000,
+    "auto_renewal": false,
+    "partial_withdrawal": true,
+    "join_channel": {
+      "is_online": true,
+      "is_offline": false,
+      "descriptions": [
+        "인터넷뱅킹 또는 SOL뱅킹을 이용한 예금해지 가능"
+      ]
+    },
+    "risk_caution": "중도해지시 일부 원금손실 발생가능.",
+    "keywords": [
+      "#세이프지수연동예금",
+      "#정기예금",
+      "#환율연동"
+    ],
+    "filename": "세이프 지수연동예금 23-02호 달러원 환율하락형(1년) 상품설명서_2023011900000083.pdf",
+    "category": "Savings (예적금)",
+    "diversity_tag": "General_TaxFree"
+  },
+  {
+    "product_name": "세이프지수연동예금 KOSPI200 상승형22-08호(6개월)",
+    "product_type": "정기예금",
+    "accumulation_type": "정기적립식",
+    "eligibility": {
+      "age_min": null,
+      "age_max": null,
+      "target_detail": "가입자격 제한없음"
+    },
+    "interest_rate": {
+      "base_rate": 0.1,
+      "max_rate": 9.6,
+      "prime_conditions": [
+        "최저금리 0.10%"
+      ]
+    },
+    "min_month": 6,
+    "max_month": 18,
+    "max_deposit": 1000000000,
+    "auto_renewal": false,
+    "partial_withdrawal": true,
+    "join_channel": {
+      "is_online": true,
+      "is_offline": false,
+      "descriptions": [
+        "인터넷뱅킹, SOL뱅킹, M신한으로 가입 가능"
+      ]
+    },
+    "risk_caution": "중도해지시 일부 원금손실 발생가능.",
+    "keywords": [
+      "KOSPI200",
+      "세이프지수연동예금",
+      "정기예금"
+    ],
+    "filename": "세이프 지수연동예금 22-08호 상품설명서_2022050600000131.pdf",
+    "category": "Savings (예적금)",
+    "diversity_tag": "General_TaxFree"
+  },
+  {
+    "product_name": "신한 T 주거래 적금",
+    "product_type": "적립식",
+    "accumulation_type": "자유적립식",
+    "eligibility": {
+      "age_min": 15,
+      "age_max": null,
+      "target_detail": "개인 및 개인사업자 고객 (1인 1계좌)"
+    },
+    "interest_rate": {
+      "base_rate": 1.05,
+      "max_rate": 2.65,
+      "prime_conditions": [
+        "신한은행 입출금계좌를 통하여 SKT 통신비를 자동이체 한 경우",
+        "대량급여이체로 이체되거나 거래메모 또는 내용상 급여, 상여금, 월급, 봉급, 연금, 성과급, 급료, 보너스, 보로금, salary, bonus, pay 등으로 입금실적이 월 50만원 이상 있는 경우",
+        "'신한 주거래 우대통장' 또는 'Tops 직장인 플랜 저축예금' 가입고객으로 급여일 수기등록 후 급여일 전후 1영업일에 50만원 이상 급여 입금되어 추가우대 고객으로 인정된 경우",
+        "국민연금, 공무원연금, 사학연금, 군인연금, 보훈연금, 개인연금 등 연금수급실적이 월 50만원 이상 있는 경우",
+        "월50만원 이상 입금실적과 신한카드(신용/체크) 월 30만원 결제실적이 같은 월에 있는 경우",
+        "월50만원 이상 입금실적과 공과금 자동이체실적이 같은 월에 있는 경우",
+        "'신한 주거래 온가족 서비스'의 가족 금리우대를 받은 경우"
+      ]
+    },
+    "min_month": 12,
+    "max_month": 36,
+    "max_deposit": 500000,
+    "auto_renewal": false,
+    "partial_withdrawal": true,
+    "join_channel": {
+      "is_online": true,
+      "is_offline": false,
+      "descriptions": [
+        "앱(SOL) 전용 가입 가능"
+      ]
+    },
+    "risk_caution": null,
+    "keywords": [
+      "신한은행",
+      "적금",
+      "우대이자율",
+      "SKT 통신비 자동이체"
+    ],
+    "filename": "신한 T 주거래 적금 상품설명서_2016022566600000.pdf",
+    "category": "Savings (예적금)",
+    "diversity_tag": "Housing_Invest_Soldier_TaxFree"
+  },
+  {
+    "product_name": "무배당 (e)더쉬운자산관리 ETF변액저축보험 2.0",
+    "insurance_type": "변액보험",
+    "is_renewal": null,
+    "declared_rate": null,
+    "min_guarantee_rate": null,
+    "coverage_summary": "이 보험은 실적배당형 상품으로, 보험금 및 해약환급금이 펀드(특별계정)의 운용실적에 따라 변동됩니다.",
+    "tax_benefit_cond": null,
+    "early_termination_warning": "중도해지할 경우 해약환급금에 대한 최저보증이 없으므로 원금손실이 발생할 수 있습니다.",
+    "join_channel": {
+      "is_online": false,
+      "is_offline": true,
+      "descriptions": [
+        "오프라인에서 가입 가능"
+      ]
+    },
+    "filename": "BNP파리바카디프생명_(무)더쉬운자산관리 ETF변액저축보험 2.0(비대면)_약관및운용설명서_2022062400000237.pdf",
+    "category": "Insurance (보험/방카)",
+    "diversity_tag": "Housing_Invest_Parking_Senior_TaxFree_Travel"
+  },
+  {
+    "product_name": "Mint(민트)기업적금",
+    "product_type": "정기적립식 및 자유적립식",
+    "accumulation_type": "정기적립식 및 자유적립식",
+    "eligibility": {
+      "age_min": null,
+      "age_max": null,
+      "target_detail": "개인사업자 및 법인 (기타 법인격이 없는 단체, 조합 등 포함)"
+    },
+    "interest_rate": {
+      "base_rate": 2.1,
+      "max_rate": 2.8,
+      "prime_conditions": [
+        "정기적립식: 월저축금액이 1백만원 이상시 연0.1%P 가산",
+        "자유적립식: 매회 저축금액이 1백만원 이상시 적립건별 연0.1%P 가산",
+        "본 상품가입전 3대 CMS 가입 고객: 연0.1%P 가산",
+        "유동성예금 월평잔 3백만원 이상 또는 S-More 법인카드 월간 결제금액 1백만원 이상인 고객: 연0.2%P 가산",
+        "본 상품가입일로부터 전월말 기준 최근 6개월 이내 수출입송금 실적이 있는 고객: 연0.1%P",
+        "본 상품가입전 퇴직연금 가입 고객: 연0.1%P"
+      ]
+    },
+    "min_month": 6,
+    "max_month": 60,
+    "max_deposit": 20000000,
+    "auto_renewal": false,
+    "partial_withdrawal": false,
+    "join_channel": {
+      "is_online": false,
+      "is_offline": true,
+      "descriptions": [
+        "영업점 방문 필수"
+      ]
+    },
+    "risk_caution": null,
+    "keywords": [
+      "Mint",
+      "기업적금",
+      "정기적립식",
+      "자유적립식"
+    ],
+    "filename": "Mint(민트)기업적금 상품설명서_2006042700600000.pdf",
+    "category": "Savings (예적금)",
+    "diversity_tag": "Business_Pension"
+  },
+  {
+    "product_name": "Tops캠퍼스플랜 저축예금",
+    "product_type": "저축예금",
+    "accumulation_type": "자유적립식",
+    "eligibility": {
+      "age_min": null,
+      "age_max": null,
+      "target_detail": "실명의 개인"
+    },
+    "interest_rate": {
+      "base_rate": 0.1,
+      "max_rate": 0.1,
+      "prime_conditions": [
+        "급여문구 입금시 계좌번호 변경없이 신한 직장인통장으로 자동전환"
+      ]
+    },
+    "min_month": null,
+    "max_month": null,
+    "max_deposit": null,
+    "auto_renewal": false,
+    "partial_withdrawal": false,
+    "join_channel": {
+      "is_online": false,
+      "is_offline": true,
+      "descriptions": [
+        "영업점 방문 필수"
+      ]
+    },
+    "risk_caution": null,
+    "keywords": [
+      "대학생",
+      "우대금리",
+      "신한은행"
+    ],
+    "filename": "Tops캠퍼스플랜저축예금 상품설명서_2006042800270000.pdf",
+    "category": "Savings (예적금)",
+    "diversity_tag": "Housing_Invest_TaxFree_Travel_Youth"
+  },
+  {
+    "product_name": "세이프지수연동예금",
+    "product_type": "정기예금",
+    "accumulation_type": "정기적립식",
+    "eligibility": {
+      "age_min": null,
+      "age_max": null,
+      "target_detail": "개인 및 법인 (금융기관 제외)"
+    },
+    "interest_rate": {
+      "base_rate": 2.87,
+      "max_rate": 14.1,
+      "prime_conditions": [
+        "주식시장 상승 시 연 14.10%",
+        "만기지수가 기준지수 대비 20% 이상 상승 시 연 8.20%",
+        "만기지수가 기준지수 대비 3% 이상 상승 시 연 5.16%",
+        "주식시장 하락 시 연 15.75%"
+      ]
+    },
+    "min_month": 12,
+    "max_month": 12,
+    "max_deposit": null,
+    "auto_renewal": false,
+    "partial_withdrawal": false,
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "영업점 및 신한은행 홈페이지를 통한 가입 가능"
+      ]
+    },
+    "risk_caution": "고객께서 선택하신 상품에 대한 주가지수예측이 어긋날 경우 일반정기예금보다 낮은 이율이나 이율이 없을 수도 있으며 만기 전 중도해지 시에는 일부 원금 손실이 발생합니다.",
+    "keywords": [
+      "세이프지수연동예금",
+      "#정기예금",
+      "#KOSPI200"
+    ],
+    "filename": "세이프지수연동예금 10-9호(상품설명서)_2012110924000000.pdf",
+    "category": "Savings (예적금)",
+    "diversity_tag": "Business_Invest"
+  },
+  {
+    "product_name": "삼성화재 이율보증형보험(디폴트옵션)",
+    "pension_type": "DC, IRP",
+    "default_option_info": "이율보증형 상품으로, 가입자가 보증기간 종료시까지 해당 상품을 보유하는 경우 해당월 부담금 납입 시점의 적용이율을 보증기간 종료시까지 확정 적용하는 상품",
+    "tax_deduction_limit": null,
+    "pension_receipt_method": "만기 재예치",
+    "investment_options": "원리금보장형",
+    "fees": null,
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "삼성화재 홈페이지를 통한 온라인 가입 가능",
+        "고객센터를 통한 오프라인 가입 가능"
+      ]
+    },
+    "filename": "삼성화재 퇴직연금 이율보증형보험 상품설명서_2021051100000053.pdf",
+    "category": "Retirement_Pension (퇴직연금)",
+    "diversity_tag": "Business_Pension"
+  },
+  {
+    "product_name": "무배당 보너스주는변액저축보험2404",
+    "insurance_type": "변액저축보험",
+    "is_renewal": null,
+    "declared_rate": null,
+    "min_guarantee_rate": null,
+    "coverage_summary": "사망 당시 계약자적립액 및 장기유지보너스 제공",
+    "tax_benefit_cond": null,
+    "early_termination_warning": "조기 해지 시 원금 손실 위험이 있습니다.",
+    "join_channel": {
+      "is_online": false,
+      "is_offline": true,
+      "descriptions": [
+        "오프라인 지점에서 가입 가능"
+      ]
+    },
+    "filename": "ABL생명_(무)보너스주는변액저축보험VI(비대면)_약관&운용설명서_2022041300000098.pdf",
+    "category": "Insurance (보험/방카)",
+    "diversity_tag": "Housing_Invest_Parking_Pension_Senior_TaxFree_Travel"
+  },
+  {
+    "product_name": "세이프지수연동예금(IRA전용)",
+    "product_type": "정기예금",
+    "accumulation_type": "정기적립식",
+    "eligibility": {
+      "age_min": null,
+      "age_max": null,
+      "target_detail": "개인형IRA 가입자"
+    },
+    "interest_rate": {
+      "base_rate": 2.0,
+      "max_rate": 5.87,
+      "prime_conditions": [
+        "만기지수가 기준지수 대비 3% 이상 상승: 연 5.87%",
+        "만기지수가 기준지수 대비 0% 이상 3% 미만 상승: 연 2.00% + 지수 상승률(%) × 129%",
+        "만기지수가 기준지수 대비 하락: 연 2.00%"
+      ]
+    },
+    "min_month": 3,
+    "max_month": 12,
+    "max_deposit": 100000000,
+    "auto_renewal": false,
+    "partial_withdrawal": false,
+    "join_channel": {
+      "is_online": false,
+      "is_offline": true,
+      "descriptions": [
+        "영업점 방문 필수"
+      ]
+    },
+    "risk_caution": "중도해지시에는 이자가 지급되지 않으며, 원금 손실이 발생할 수 있습니다.",
+    "keywords": [
+      "세이프지수연동예금",
+      "IRA전용",
+      "정기예금"
+    ],
+    "filename": "세이프지수연동예금(IRA전용) 11-7호 상품설명서(고객교부용)_2012092122550000.pdf",
+    "category": "Savings (예적금)",
+    "diversity_tag": "Invest_Senior_Travel"
+  },
+  {
+    "product_name": "신한 KIA타이거즈 적금",
+    "product_type": "적립식예금",
+    "accumulation_type": "자유적립식",
+    "eligibility": {
+      "age_min": null,
+      "age_max": null,
+      "target_detail": "개인 및 개인사업자 고객 (1인 1계좌)"
+    },
+    "interest_rate": {
+      "base_rate": 1.5,
+      "max_rate": 3.3,
+      "prime_conditions": [
+        "구단별 가입좌수 연 0.500%p",
+        "KIA타이거즈의 2018년 정규시즌 최종 승률에 따라 연 1.000%p",
+        "KIA타이거즈가 2018년 포스트시즌 진출시 연 0.100%p",
+        "KIA타이거즈가 2018년 한국시리즈 진출시 연 0.300%p",
+        "KIA타이거즈가 2018년 한국시리즈 우승시 연 0.100%p"
+      ]
+    },
+    "min_month": 12,
+    "max_month": 12,
+    "max_deposit": 500000,
+    "auto_renewal": false,
+    "partial_withdrawal": true,
+    "join_channel": {
+      "is_online": false,
+      "is_offline": true,
+      "descriptions": [
+        "영업점 방문 필수"
+      ]
+    },
+    "risk_caution": null,
+    "keywords": [
+      "KIA타이거즈",
+      "적금",
+      "우대금리"
+    ],
+    "filename": "신한 KIA타이거즈 적금 상품설명서_2018031287020000.pdf",
+    "category": "Savings (예적금)",
+    "diversity_tag": "Business_TaxFree"
+  },
+  {
+    "product_name": "DB한국지수연계증권투자신탁제3호[채권]",
+    "pension_type": "C-P2",
+    "default_option_info": "5등급[낮은 위험]으로 분류된 투자신탁",
+    "tax_deduction_limit": "퇴직연금 수령시 관련 세법에 따라 세금 부담",
+    "pension_receipt_method": "만기 시점에 기초자산 가격에 따라 상환",
+    "investment_options": "KOSPI200 지수 연계 채권(파생결합사채)",
+    "fees": "환매수수료: 최초 6개월 7%, 이후 5%",
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "온라인 및 오프라인 판매 가능",
+        "판매회사를 통한 직접 가입"
+      ]
+    },
+    "filename": "DB한국지수연계증권자투자신탁제3호[채권] 투자설명서_2022021800000009.pdf",
+    "category": "Retirement_Pension (퇴직연금)",
+    "diversity_tag": "Housing_Invest_Parking_Pension_Senior"
+  },
+  {
+    "product_name": "2019 신한 NC다이노스 프로야구 정기예금",
+    "product_type": "정기예금",
+    "accumulation_type": "정기적립식",
+    "eligibility": {
+      "age_min": null,
+      "age_max": null,
+      "target_detail": "실명의 개인 및 개인사업자(1인 1계좌)"
+    },
+    "interest_rate": {
+      "base_rate": 2.0,
+      "max_rate": 3.0,
+      "prime_conditions": [
+        "포스트시즌 진출팀 가입고객중 100명씩 연 0.20%p",
+        "한국시리즈 진출팀 가입고객중 100명씩 연 0.30%p",
+        "한국시리즈 우승팀 가입고객중 100명 연 0.50%p"
+      ]
+    },
+    "min_month": 12,
+    "max_month": 12,
+    "max_deposit": 100000000,
+    "auto_renewal": false,
+    "partial_withdrawal": true,
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "영업점 및 비대면 채널을 통해서 해지 가능",
+        "자동해지 서비스 이용 가능"
+      ]
+    },
+    "risk_caution": "만기 전 해지할 경우 약정한 이자율보다 낮은 중도해지이자율이 적용됨.",
+    "keywords": [
+      "정기예금",
+      "신한은행",
+      "KBO리그"
+    ],
+    "filename": "2019 신한 NC다이노스 프로야구 정기예금 상품설명서_2019031199630000.pdf",
+    "category": "Savings (예적금)",
+    "diversity_tag": "Business_TaxFree"
+  },
+  {
+    "product_name": "세이프지수연동예금 KOSPI200 보장강화 상승형 23-18호(1년)",
+    "product_type": "정기예금",
+    "accumulation_type": "정기적립식",
+    "eligibility": {
+      "age_min": null,
+      "age_max": null,
+      "target_detail": "세법상 거주자"
+    },
+    "interest_rate": {
+      "base_rate": 3.6,
+      "max_rate": 3.94,
+      "prime_conditions": [
+        "개인 인터넷뱅킹, SOL뱅킹, M신한으로 가입 시 최소 가입금액 50만원 이상"
+      ]
+    },
+    "min_month": 12,
+    "max_month": 12,
+    "max_deposit": 200000000,
+    "auto_renewal": false,
+    "partial_withdrawal": true,
+    "join_channel": {
+      "is_online": true,
+      "is_offline": false,
+      "descriptions": [
+        "개인 인터넷뱅킹, SOL뱅킹, M신한으로 가입 가능"
+      ]
+    },
+    "risk_caution": "중도해지 시 일부 원금 손실 발생 가능.",
+    "keywords": [
+      "KOSPI200",
+      "정기예금",
+      "세이프지수연동예금"
+    ],
+    "filename": "세이프지수연동예금 23-18호 KOSPI200 보장강화 상승형 상품설명서_2023052400000055.pdf",
+    "category": "Savings (예적금)",
+    "diversity_tag": "General_TaxFree"
+  },
+  {
+    "product_name": "수퍼FNA증권거래예금",
+    "product_type": "저축예금",
+    "accumulation_type": "자유적립식",
+    "eligibility": {
+      "age_min": null,
+      "age_max": null,
+      "target_detail": "국민인 실명의 개인 (미성년자의 경우 법정대리인에 의하여만 가능)"
+    },
+    "interest_rate": {
+      "base_rate": 0.1,
+      "max_rate": 0.2,
+      "prime_conditions": [
+        "5백만원 이상 연0.100%",
+        "1천만원 이상 연0.100%",
+        "5천만원 이상 연0.150%",
+        "1억원 이상 연0.200%"
+      ]
+    },
+    "min_month": null,
+    "max_month": null,
+    "max_deposit": null,
+    "auto_renewal": false,
+    "partial_withdrawal": false,
+    "join_channel": {
+      "is_online": false,
+      "is_offline": true,
+      "descriptions": [
+        "영업점 방문 필수"
+      ]
+    },
+    "risk_caution": null,
+    "keywords": [
+      "수퍼FNA증권거래예금",
+      "신한금융투자",
+      "예금자보호"
+    ],
+    "filename": "수퍼FNA증권거래예금 상품설명서_2006042500930000.pdf",
+    "category": "Savings (예적금)",
+    "diversity_tag": "General_Invest"
+  },
+  {
+    "product_name": "표지어음",
+    "category_detail": "예금상품",
+    "underlying_asset": "상업어음, 무역어음",
+    "payout_cycle": "만기일시지급",
+    "risk_grade": 2,
+    "principal_protected": true,
+    "loss_warning": "원금 손실 가능성 없음",
+    "total_fee_rate": null,
+    "fee_detail": null,
+    "recommended_period": "30일 이상 1년 이내",
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "비대면 채널을 통해 가입 가능",
+        "통장 미 발행 요청 시 통장 또는 증서 미교부"
+      ]
+    },
+    "filename": "표지어음 상품설명서_2006041700410000.pdf",
+    "category": "Investment (투자/ISA/골드)",
+    "diversity_tag": "Business_TaxFree"
+  },
+  {
+    "product_name": "네이버페이 Ⅹ 신한통장",
+    "interest_payment_date": "매년 3월, 6월, 9월, 12월의 셋째주 마지막 영업일에 지급",
+    "base_interest_rate": 0.1,
+    "max_interest_rate": 0.1,
+    "transfer_fee_waiver": "모바일뱅킹, 인터넷뱅킹, 폰뱅킹(ARS에 한함)을 통한 다른은행 이체수수료 면제",
+    "withdraw_fee_waiver": "신한은행 자동화기기(CD/ATM)를 이용한 현금인출수수료 면제",
+    "currency_benefit": "예금자보호법에 따라 1인당 최고 5천만원까지 보호",
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "비대면채널을 통해 가입 시 통장 또는 증서가 교부되지 않음",
+        "영업점 방문 또는 비대면 해지 가능"
+      ]
+    },
+    "filename": "네이버페이x신한통장 상품설명서_2018101291340000.pdf",
+    "category": "Demand_Deposit (입출금)",
+    "diversity_tag": "General_TaxFree"
+  },
+  {
+    "product_name": "Charm(참) 신한 통장",
+    "interest_payment_date": "null",
+    "base_interest_rate": 0.1,
+    "max_interest_rate": 0.1,
+    "transfer_fee_waiver": "매월 10회 면제 (단, 자동이체 수수료 면제 불가)",
+    "withdraw_fee_waiver": "매월 10회 면제",
+    "currency_benefit": "null",
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "온라인 및 오프라인에서 가입 가능"
+      ]
+    },
+    "filename": "Charm(참)  신한 통장 상품설명서_2012042718090000.pdf",
+    "category": "Demand_Deposit (입출금)",
+    "diversity_tag": "General"
+  },
+  {
+    "product_name": "신한투자증권 2536호 주가연계파생결합사채(ELB)",
+    "pension_type": "ELB",
+    "default_option_info": null,
+    "tax_deduction_limit": null,
+    "pension_receipt_method": null,
+    "investment_options": "삼성전자 보통주",
+    "fees": null,
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "신한투자증권 고객센터(1588-0365) 문의",
+        "홈페이지(http://www.shinhansec.com)에서 정보 확인"
+      ]
+    },
+    "filename": "신한투자증권 퇴직연금 ELB 2536호 간이투자설명서_2022120800000010.pdf",
+    "category": "Retirement_Pension (퇴직연금)",
+    "diversity_tag": "Business_Housing_Invest_Pension"
+  },
+  {
+    "product_name": "신한투자증권 증권거래예금",
+    "category_detail": "예금",
+    "underlying_asset": "예금",
+    "payout_cycle": "매년 3월, 6월, 9월, 12월의 셋째주 마지막 영업일",
+    "risk_grade": 1,
+    "principal_protected": true,
+    "loss_warning": "원금 및 이자 지급 제한 가능성 있음",
+    "total_fee_rate": null,
+    "fee_detail": null,
+    "recommended_period": null,
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "비대면 채널을 통해 가입 가능",
+        "통장 미 발행 요청 시 통장 또는 증서가 교부되지 않음"
+      ]
+    },
+    "filename": "신한투자증권 증권거래예금 상품설명서_2006042700360000.pdf",
+    "category": "Investment (투자/ISA/골드)",
+    "diversity_tag": "Business_Invest_TaxFree"
+  },
+  {
+    "product_name": "시간에 투자하는 변액연금보험(무)2205",
+    "insurance_type": "변액연금보험",
+    "is_renewal": null,
+    "declared_rate": null,
+    "min_guarantee_rate": null,
+    "coverage_summary": "이 변액보험은 실적배당형 상품으로 보험금 및 해지환급금이 특별계정의 운용실적에 따라 변동됩니다.",
+    "tax_benefit_cond": null,
+    "early_termination_warning": "중도해지시 해지환급금에 대한 최저보증이 없으므로 원금손실이 발생할 수 있으며, 그 손실은 모두 계약자에게 귀속됩니다.",
+    "join_channel": {
+      "is_online": false,
+      "is_offline": true,
+      "descriptions": [
+        "오프라인 채널을 통해 가입 가능"
+      ]
+    },
+    "filename": "미래에셋생명_시간에투자하는변액연금(무)2205(대면)_운용설명서_2022042600000131.pdf",
+    "category": "Insurance (보험/방카)",
+    "diversity_tag": "Business_Invest_Parking_Travel"
+  },
+  {
+    "product_name": "신한 임대사업자 우대통장",
+    "interest_payment_date": "매월 셋째주 마지막 영업일에 계산하여 그 익일(원가일)에 원금에 더함",
+    "base_interest_rate": 0.1,
+    "max_interest_rate": 0.35,
+    "transfer_fee_waiver": "기업 인터넷뱅킹, 폰뱅킹(ARS에 한함)의 다른은행으로의 기본우대서비스 이체수수료 월 10회 면제",
+    "withdraw_fee_waiver": "CD/ATM(신한은행) 이용 수수료 : 마감 후 인출 수수료 또는 다른은행으로의 이체수수료 월 합산 10회 면제",
+    "currency_benefit": null,
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "인터넷 뱅킹 등 비대면 채널을 통해 가입 가능",
+        "영업점 방문을 통한 가입 가능"
+      ]
+    },
+    "filename": "임대사업자우대통장 상품설명서_2006042600350000.pdf",
+    "category": "Demand_Deposit (입출금)",
+    "diversity_tag": "Business_Invest_TaxFree"
+  },
+  {
+    "product_name": "가계당좌예금",
+    "product_type": "예금",
+    "accumulation_type": "정기적립식",
+    "eligibility": {
+      "age_min": null,
+      "age_max": null,
+      "target_detail": "다음 중 하나에 해당하는 개인으로서 영업점장이 인정하는 자로 함: 1) 공무원 2) 국공립기관, 국가 또는 지방자치단체에서 투자·재투자·출연한 기관, 국가 또는 지방자치단체에서 재정지원을 하거나 임원을 선임하는 기관, 국제기관, 외국기관, 교육기관, 언론기관, 의료기관, 금융기관, 경제인연합회, 무역협회, 주무관청의 인·허가를 받은 비영리기관 및 상장법인의 임직원 3) 위 2)이외의 기관 또는 기업체 임직원으로 신용평가표상 종합평점 50점 이상 4) 연금법령에 의한 연금 수급권자로 신용평가표상 종합평점 50점 이상 5) 신용평가표상 종합평점 60점 이상인 다음의 자 (단, 영업점장이 특별히 인정하는 경우에는 40점 이상) ① 자영업자 ② 최근 1년간 도시계획세, 소방공동시설세, 교육세를 포함한 총재산세액(종합토지세 포함)이 10만원 이상인 자 ③ 신청일 현재 3개월 간 계속하여 예금 또는 신탁 거래가 있고, 신청일 이전 3개월간 예금·신탁 평균잔액이 5백만원 이상인 자."
+    },
+    "interest_rate": {
+      "base_rate": 0.1,
+      "max_rate": null,
+      "prime_conditions": [
+        "해당 없음"
+      ]
+    },
+    "min_month": null,
+    "max_month": null,
+    "max_deposit": null,
+    "auto_renewal": false,
+    "partial_withdrawal": false,
+    "join_channel": {
+      "is_online": false,
+      "is_offline": true,
+      "descriptions": [
+        "영업점 방문 필수"
+      ]
+    },
+    "risk_caution": null,
+    "keywords": [
+      "가계당좌예금",
+      "예금자보호",
+      "정기적립식"
+    ],
+    "filename": "가계당좌예금 상품설명서_2006041700010000.pdf",
+    "category": "Savings (예적금)",
+    "diversity_tag": "Business_Invest_TaxFree"
+  },
+  {
+    "product_name": "교보변액연금보험(무배당)[B]",
+    "insurance_type": "변액보험",
+    "is_renewal": null,
+    "declared_rate": null,
+    "min_guarantee_rate": null,
+    "coverage_summary": "이 보험상품은 투자실적에 따라 보험금, 해약환급금 등이 변동되는 변액보험입니다.",
+    "tax_benefit_cond": "세제 혜택 적용요건은 상품설명서 본문을 참고하시기 바랍니다.",
+    "early_termination_warning": "조기 해지 시 원금 손실 위험이 있습니다.",
+    "join_channel": {
+      "is_online": false,
+      "is_offline": true,
+      "descriptions": [
+        "오프라인 판매 채널을 통해 가입 가능"
+      ]
+    },
+    "filename": "교보생명 미리보는내연금(무)교보First변액연금Ⅱ_핵심상품설명서_2021122700000135.pdf",
+    "category": "Insurance (보험/방카)",
+    "diversity_tag": "General_Invest_TaxFree"
+  },
+  {
+    "product_name": "TopsCD연동적립예금",
+    "product_type": "정기적금",
+    "accumulation_type": "정기적립식",
+    "eligibility": {
+      "age_min": null,
+      "age_max": null,
+      "target_detail": null
+    },
+    "interest_rate": {
+      "base_rate": null,
+      "max_rate": null,
+      "prime_conditions": [
+        "매회 저축금액이 30만원 이상시 연 0.1% 가산(건별)",
+        "매회 저축금을 창구거래를 제외한 이체거래로 입금시 연 0.1% 가산(건별)"
+      ]
+    },
+    "min_month": 12,
+    "max_month": 36,
+    "max_deposit": 10000000,
+    "auto_renewal": false,
+    "partial_withdrawal": false,
+    "join_channel": {
+      "is_online": false,
+      "is_offline": true,
+      "descriptions": [
+        "영업점 방문 필수"
+      ]
+    },
+    "risk_caution": null,
+    "keywords": [
+      "#정기적금",
+      "#변동금리",
+      "#TopsCD"
+    ],
+    "filename": "TopsCD연동적립예금 상품설명서_2006042800370000.pdf",
+    "category": "Savings (예적금)",
+    "diversity_tag": "Business_TaxFree"
+  },
+  {
+    "product_name": "신한플러스 멤버십 적금",
+    "product_type": "적립식",
+    "accumulation_type": "자유적립식",
+    "eligibility": {
+      "age_min": null,
+      "age_max": null,
+      "target_detail": "개인 및 개인사업자 (1인 1계좌)"
+    },
+    "interest_rate": {
+      "base_rate": 1.2,
+      "max_rate": 1.8,
+      "prime_conditions": [
+        "자동이체 우대: 본인 명의 신한은행 입출금 통장에서 이 적금으로 자동이체 입금실적이 3회 이상 있는 경우 연 0.3%",
+        "첫거래우대: 이 적금 가입일 3개월 전 응당일부터 가입일 전일까지 신한은행 적금을 보유하지 않은 경우 연 0.3%"
+      ]
+    },
+    "min_month": 6,
+    "max_month": 6,
+    "max_deposit": 300000,
+    "auto_renewal": false,
+    "partial_withdrawal": false,
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "영업점 또는 비대면채널에서 해지 가능합니다."
+      ]
+    },
+    "risk_caution": null,
+    "keywords": [
+      "신한플러스",
+      "멤버십",
+      "적금",
+      "우대금리",
+      "플러스 리워드"
+    ],
+    "filename": "신한플러스 멤버십 적금_2020060900000011.pdf",
+    "category": "Savings (예적금)",
+    "diversity_tag": "Business_Invest_TaxFree"
+  },
+  {
+    "product_name": "NH투자증권 주가연계 파생결합사채(ELB) 제2313회",
+    "pension_type": "IRP",
+    "default_option_info": null,
+    "tax_deduction_limit": "퇴직연금 세액공제 한도는 연 700만원",
+    "pension_receipt_method": "만기일에 현금결제",
+    "investment_options": "삼성전자 보통주, 한국전력 보통주",
+    "fees": null,
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "NH투자증권 HTS 및 홈페이지를 통한 온라인 청약 가능",
+        "지점 방문을 통한 오프라인 청약 가능"
+      ]
+    },
+    "filename": "NH투자증권 퇴직연금 ELB 2313호 투자설명서_2022123000000102.pdf",
+    "category": "Retirement_Pension (퇴직연금)",
+    "diversity_tag": "Business_Housing_Invest_Parking_Pension_TaxFree"
+  },
+  {
+    "product_name": "신한 공무원연금 평생안심통장",
+    "interest_payment_date": "매년 3월, 6월, 9월, 12월의 셋째주 마지막 영업일에 계산하여 그 익일 원금에 더함",
+    "base_interest_rate": 0.1,
+    "max_interest_rate": null,
+    "transfer_fee_waiver": "인터넷, 폰뱅킹(ARS에 한함), 모바일뱅킹의 다른 은행으로의 이체수수료 면제",
+    "withdraw_fee_waiver": "신한은행 CD/ATM기를 이용한 마감후 인출 수수료 면제",
+    "currency_benefit": "환전(지폐), 여행자수표 매매, 당/타발 외화송금 시 고객부담 스프레드 50%~20% 우대",
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "비대면 채널을 통해 가입 가능",
+        "영업점에서 가입 가능"
+      ]
+    },
+    "filename": "신한 공무원연금 평생안심통장 상품설명서_2015123165190000.pdf",
+    "category": "Demand_Deposit (입출금)",
+    "diversity_tag": "Senior_TaxFree_Travel"
+  },
+  {
+    "product_name": "Home’n Sweet 적립예금",
+    "product_type": "정기적금",
+    "accumulation_type": "정기적립식/자유적립식",
+    "eligibility": {
+      "age_min": null,
+      "age_max": null,
+      "target_detail": "실명의 개인"
+    },
+    "interest_rate": {
+      "base_rate": 2.95,
+      "max_rate": 3.95,
+      "prime_conditions": [
+        "월저축금액이 30만원 이상시 연0.1%P 가산",
+        "전체 저축건 중 2/3 이상 창구거래를 제외한 이체거래로 입금시 연0.1%P 가산"
+      ]
+    },
+    "min_month": 6,
+    "max_month": 60,
+    "max_deposit": 10000000,
+    "auto_renewal": false,
+    "partial_withdrawal": false,
+    "join_channel": {
+      "is_online": false,
+      "is_offline": true,
+      "descriptions": [
+        "영업점 방문 필수"
+      ]
+    },
+    "risk_caution": null,
+    "keywords": [
+      "#적립예금",
+      "#정기적금",
+      "#자유적립식"
+    ],
+    "filename": "홈앤스위트적립예금 상품설명서_2006042700150000.pdf",
+    "category": "Savings (예적금)",
+    "diversity_tag": "General_Housing"
+  },
+  {
+    "product_name": "Rainbow Plan 저축예금",
+    "product_type": "저축예금",
+    "accumulation_type": "자유적립식",
+    "eligibility": {
+      "age_min": null,
+      "age_max": null,
+      "target_detail": "개인(1인 1계좌, 외국인 비거주자 가입불가)"
+    },
+    "interest_rate": {
+      "base_rate": 0.1,
+      "max_rate": 0.1,
+      "prime_conditions": [
+        "외국인 근로자를 위한 영문전용통장 발급",
+        "해외송금시 환율 스프레드 30%우대",
+        "당발송금시 환율 스프레드 30% 우대",
+        "환전시(T/C 매도 포함) 환율을 매매마진율의 30% 우대",
+        "현찰 환전시 1불당 2포인트, 해외송금 및 T/C환전시 1불당 1포인트 적립후 매월 현금으로 입금 (1포인트=1원)"
+      ]
+    },
+    "min_month": null,
+    "max_month": null,
+    "max_deposit": 50000000,
+    "auto_renewal": false,
+    "partial_withdrawal": false,
+    "join_channel": {
+      "is_online": true,
+      "is_offline": false,
+      "descriptions": [
+        "앱(SOL) 전용"
+      ]
+    },
+    "risk_caution": null,
+    "keywords": [
+      "#신한은행 #저축예금 #외국인고객우대"
+    ],
+    "filename": "RainbowPlan(레인보우플랜)저축예금 상품설명서_2006042700850000.pdf",
+    "category": "Savings (예적금)",
+    "diversity_tag": "General_Travel"
+  },
+  {
+    "product_name": "2019 신한 SK와이번스 프로야구 정기예금",
+    "product_type": "정기예금",
+    "accumulation_type": "정기적립식",
+    "eligibility": {
+      "age_min": null,
+      "age_max": null,
+      "target_detail": "실명의 개인 및 개인사업자(1인 1계좌)"
+    },
+    "interest_rate": {
+      "base_rate": 2.0,
+      "max_rate": 3.0,
+      "prime_conditions": [
+        "포스트시즌 진출팀 가입고객중 100명씩 연 0.20%p",
+        "한국시리즈 진출팀 가입고객중 100명씩 연 0.30%p",
+        "한국시리즈 우승팀 가입고객중 100명 연 0.50%p"
+      ]
+    },
+    "min_month": 12,
+    "max_month": 12,
+    "max_deposit": 100000000,
+    "auto_renewal": false,
+    "partial_withdrawal": true,
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "영업점 및 비대면 채널을 통해서 해지 가능",
+        "자동해지 서비스 이용 가능"
+      ]
+    },
+    "risk_caution": "만기 전 해지할 경우 약정한 이자율보다 낮은 중도해지이자율이 적용됨",
+    "keywords": [
+      "정기예금",
+      "신한은행",
+      "KBO리그"
+    ],
+    "filename": "2019 신한 SK와이번스 프로야구 정기예금 상품설명서_2019031199640000.pdf",
+    "category": "Savings (예적금)",
+    "diversity_tag": "Business_TaxFree"
+  },
+  {
+    "product_name": "신한 RETS 임대인전용 통장",
+    "interest_payment_date": null,
+    "base_interest_rate": 0.1,
+    "max_interest_rate": null,
+    "transfer_fee_waiver": "신한은행의 폰뱅킹(ARS에한함), 모바일뱅킹을 통한 다른은행으로의 이체수수료 합계 월10회 이내 면제",
+    "withdraw_fee_waiver": "신한은행 마감후 CD/ATM 현금 인출수수료 합계 월10회 이내 면제",
+    "currency_benefit": null,
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "온라인 및 오프라인에서 가입 가능"
+      ]
+    },
+    "filename": "신한 RETS 임대인 전용통장 상품설명서_2012091422260000.pdf",
+    "category": "Demand_Deposit (입출금)",
+    "diversity_tag": "Business_Travel"
+  },
+  {
+    "product_name": "신한 S드림(DREAM)정기예금(창업 40주년 감사)",
+    "product_type": "정기예금",
+    "accumulation_type": "정기적립식",
+    "eligibility": {
+      "age_min": null,
+      "age_max": null,
+      "target_detail": "개인 및 개인사업자 (1인 1계좌)"
+    },
+    "interest_rate": {
+      "base_rate": 1.85,
+      "max_rate": 3.2,
+      "prime_conditions": [
+        "환경보호 실천에 참여하는 모든 고객에게 연 1.25% 우대",
+        "무통장 또는 비대면에서 신규 시 연 0.10% 우대"
+      ]
+    },
+    "min_month": 12,
+    "max_month": 12,
+    "max_deposit": 100000000,
+    "auto_renewal": false,
+    "partial_withdrawal": true,
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "영업점 및 비대면 채널을 통해서 해지 가능",
+        "자동해지 서비스 이용 가능"
+      ]
+    },
+    "risk_caution": null,
+    "keywords": [
+      "정기예금",
+      "신한은행",
+      "우대이자율"
+    ],
+    "filename": "신한 s드림 정기예금(창업 40주년 감사)_2022061700000018.pdf",
+    "category": "Savings (예적금)",
+    "diversity_tag": "Business_TaxFree"
+  },
+  {
+    "product_name": "확정기여형(DC) 퇴직연금",
+    "pension_type": "DC",
+    "default_option_info": "가입자는 사전지정운용방법 중 하나를 선택하여야 하며, 은행은 해당 방법에 따라 적립금을 운용함을 통지함.",
+    "tax_deduction_limit": "연간 1,800만원까지 입금 가능하며, 이 중 900만원까지 세액공제 가능. 1주택 고령가구는 추가로 1억원 한도 내에서 납입 가능.",
+    "pension_receipt_method": "정기예금은 신청일 포함 3영업일, 펀드는 5~12영업일 소요.",
+    "investment_options": "주식형 또는 주식혼합형 펀드는 전체 적립금의 70% 범위 내에서 운용 가능, 채권혼합형 펀드는 100%까지 운용 가능.",
+    "fees": "가입자 부담금 수수료율: 운용관리 0.10%, 자산관리 0.30%. 장기계약 할인 적용.",
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "온라인 및 오프라인으로 가입 가능",
+        "고객 상담센터를 통해 문의 가능"
+      ]
+    },
+    "filename": "확정기여형(DC) 핵심설명서_2016012765760000.pdf",
+    "category": "Retirement_Pension (퇴직연금)",
+    "diversity_tag": "Housing_Invest_Pension_Senior"
+  },
+  {
+    "product_name": "한화스마트ELB 제417호",
+    "pension_type": "DB",
+    "default_option_info": "해당 상품은 디폴트옵션이 적용되지 않음.",
+    "tax_deduction_limit": "해당 상품은 세액공제 대상이 아님.",
+    "pension_receipt_method": "만기 시 원금 이상 지급",
+    "investment_options": "삼성전자 보통주 연계",
+    "fees": "중도상환 시 발생하는 비용",
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "온라인 및 오프라인에서 가입 가능",
+        "고객센터를 통한 상담 가능"
+      ]
+    },
+    "filename": "한화투자증권 퇴직연금 ELB 417호 간이투자설명서_2023013000000037.pdf",
+    "category": "Retirement_Pension (퇴직연금)",
+    "diversity_tag": "Business_Housing_Invest_Pension"
+  },
+  {
+    "product_name": "Mint 레이디통장",
+    "interest_payment_date": "null",
+    "base_interest_rate": 0.1,
+    "max_interest_rate": 0.1,
+    "transfer_fee_waiver": "신규일로부터 3개월간은 실적관계없이 수수료면제",
+    "withdraw_fee_waiver": "신한은행 CD/ATM을 통한 현금인출수수료 월10회 면제",
+    "currency_benefit": "해당 없음",
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "온라인 및 오프라인 지점에서 가입 가능"
+      ]
+    },
+    "filename": "Mint(민트)레이디통장 상품설명서_2006042700630000.pdf",
+    "category": "Demand_Deposit (입출금)",
+    "diversity_tag": "Business_Invest_Travel"
+  },
+  {
+    "product_name": "신한 김대리통장",
+    "interest_payment_date": "매년 3월, 6월, 9월, 12월의 셋째주 마지막 영업일에 계산하여 기준일에 이은 익일에 원금에 더함",
+    "base_interest_rate": 0.1,
+    "max_interest_rate": 0.2,
+    "transfer_fee_waiver": "가입 후 3개월간 전자금융이체수수료 면제",
+    "withdraw_fee_waiver": "가입 후 3개월간 CD/ATM인출수수료 면제",
+    "currency_benefit": null,
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "온라인 뱅킹을 통한 가입 가능",
+        "오프라인 지점 방문을 통한 가입 가능"
+      ]
+    },
+    "filename": "신한김대리통장 상품설명서_2006042600040000.pdf",
+    "category": "Demand_Deposit (입출금)",
+    "diversity_tag": "Business_Housing_TaxFree_Travel"
+  },
+  {
+    "product_name": "환매조건부매도(RP)",
+    "category_detail": "단기 금융투자 상품",
+    "underlying_asset": "신한은행이 보유중인 증권",
+    "payout_cycle": "만기일시지급",
+    "risk_grade": 3,
+    "principal_protected": false,
+    "loss_warning": "예금자보호법에 따라 예금보험공사가 보호하지 않습니다.",
+    "total_fee_rate": 0.0,
+    "fee_detail": "해당 없음",
+    "recommended_period": "30일 이상 2년 이내",
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "비대면 가입 가능",
+        "영업점 방문 가입 가능"
+      ]
+    },
+    "filename": "환매조건부매도 상품설명서_2006041700440000.pdf",
+    "category": "Investment (투자/ISA/골드)",
+    "diversity_tag": "General_Invest_TaxFree"
+  },
+  {
+    "product_name": "2023-02차 세이프지수연동예금(교보생명) 15NC1 Simple Zero Callable",
+    "insurance_type": "예금상품",
+    "is_renewal": null,
+    "declared_rate": 5.5,
+    "min_guarantee_rate": 0.1,
+    "coverage_summary": "예금의 원금은 보장하고 장래에 지급할 이자의 일부 또는 전부를 각종 시장지표에 연계된 파생상품에 투자하여 고수익을 추구하는 예금상품입니다.",
+    "tax_benefit_cond": "이자소득세의 적용: 만기시 고객님이 수령하시는 전체 이자금액에 대하여 소득세법에 따라 이자소득세가 부과됩니다.",
+    "early_termination_warning": "중도해지 시 원금 손실 위험이 있습니다.",
+    "join_channel": {
+      "is_online": true,
+      "is_offline": false,
+      "descriptions": [
+        "비대면 채널을 통해 가입 가능",
+        "통장 미 발행 요청 시 통장 또는 증서가 교부되지 않음"
+      ]
+    },
+    "filename": "2023-02차 세이프지수연동예금(교보생명) 15NC1 simple zero callable Deposit_2023070300000072.pdf",
+    "category": "Insurance (보험/방카)",
+    "diversity_tag": "General_Invest"
+  },
+  {
+    "product_name": "삼성 에이스변액저축보험(B2401)(무배당)",
+    "insurance_type": "변액보험",
+    "is_renewal": true,
+    "declared_rate": null,
+    "min_guarantee_rate": null,
+    "coverage_summary": "이 보험상품은 투자실적에 따라 보험금, 해약환급금 등이 변동되는 변액보험입니다.",
+    "tax_benefit_cond": "해당 상품은 세제혜택이 있을 수 있습니다.",
+    "early_termination_warning": "조기 해지 시 원금 손실 위험이 있습니다.",
+    "join_channel": {
+      "is_online": false,
+      "is_offline": true,
+      "descriptions": [
+        "오프라인 판매를 통해 가입 가능"
+      ]
+    },
+    "filename": "삼성 에이스변액저축보험(B2201)(무배당)_핵심설명서_2021122700000129.pdf",
+    "category": "Insurance (보험/방카)",
+    "diversity_tag": "Housing_Invest_Parking_Senior"
+  },
+  {
+    "product_name": "생명 나눔 예금",
+    "insurance_type": "예금",
+    "is_renewal": null,
+    "declared_rate": 4.1,
+    "min_guarantee_rate": 0.5,
+    "coverage_summary": "고객이 헌혈, 출산, 입양 등 특정 조건을 충족할 경우 보너스 금리를 제공하는 만기지급식 예금 상품.",
+    "tax_benefit_cond": null,
+    "early_termination_warning": "조기 해지 시 15일 미만은 무이자, 15일 이상은 연 0.5%, 3개월 이상은 연 1.0%의 이율 적용.",
+    "join_channel": {
+      "is_online": false,
+      "is_offline": true,
+      "descriptions": [
+        "오프라인 지점에서 가입 가능"
+      ]
+    },
+    "filename": "생명나눔예금 상품설명서_2006042500550000.pdf",
+    "category": "Insurance (보험/방카)",
+    "diversity_tag": "Business"
+  },
+  {
+    "product_name": "2024 신한 프로야구 적금",
+    "product_type": "정기적립식",
+    "accumulation_type": "자유적립식",
+    "eligibility": {
+      "age_min": null,
+      "age_max": null,
+      "target_detail": "실명의 개인 및 개인사업자"
+    },
+    "interest_rate": {
+      "base_rate": 2.5,
+      "max_rate": 4.2,
+      "prime_conditions": [
+        "한국시리즈 우승 시: 연 1.0%",
+        "포스트시즌 진출 시: 연 0.8%",
+        "포스트시즌 미진출 시: 연 0.5%",
+        "6개월 이상 쏠야구 콘텐츠 참여: 연 0.5%",
+        "6개월 이상 소득입금 발생: 연 0.2%"
+      ]
+    },
+    "min_month": 12,
+    "max_month": 12,
+    "max_deposit": 500000,
+    "auto_renewal": false,
+    "partial_withdrawal": true,
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "영업점 및 비대면채널(모바일, 인터넷뱅킹)에서 가입 가능"
+      ]
+    },
+    "risk_caution": null,
+    "keywords": [
+      "신한은행",
+      "프로야구",
+      "적금",
+      "우대금리",
+      "자유적립식"
+    ],
+    "filename": "『2024 신한 프로야구 적금』 상품설명서_2024030600000098.pdf",
+    "category": "Savings (예적금)",
+    "diversity_tag": "Business_TaxFree"
+  },
+  {
+    "product_name": "신한 ISA 정기예금",
+    "category_detail": "정기예금",
+    "underlying_asset": "ISA(개인종합자산관리계좌)",
+    "payout_cycle": "만기일시지급",
+    "risk_grade": 1,
+    "principal_protected": true,
+    "loss_warning": "만기 전 해지할 경우 약정한 이자율보다 낮은 중도해지 이자율이 적용됩니다.",
+    "total_fee_rate": null,
+    "fee_detail": null,
+    "recommended_period": "3개월, 6개월, 1년, 2년, 3년",
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "비대면 가입 가능",
+        "오프라인 지점 방문 가능"
+      ]
+    },
+    "filename": "신한 ISA 정기예금 상품설명서_2016031167280000.pdf",
+    "category": "Investment (투자/ISA/골드)",
+    "diversity_tag": "General_TaxFree"
+  },
+  {
+    "product_name": "세이프지수연동예금(프리미어전용)",
+    "product_type": "예금",
+    "accumulation_type": "정기적립식",
+    "eligibility": {
+      "age_min": null,
+      "age_max": null,
+      "target_detail": "개인 및 법인(금융기관 제외)"
+    },
+    "interest_rate": {
+      "base_rate": 0.0,
+      "max_rate": 21.6,
+      "prime_conditions": [
+        "원금 보장",
+        "KOSPI200 안정형: 연 6.11%",
+        "KOSPI200 고수익 상승형: 연 19.89%",
+        "골드프리미어 고수익 상승형: 연 21.60%"
+      ]
+    },
+    "min_month": 12,
+    "max_month": 12,
+    "max_deposit": 70000000000,
+    "auto_renewal": false,
+    "partial_withdrawal": false,
+    "join_channel": {
+      "is_online": false,
+      "is_offline": true,
+      "descriptions": [
+        "영업점 방문 필수"
+      ]
+    },
+    "risk_caution": "고객께서 선택하신 상품에 대한 주식가치가 예상과 다를 경우 일반 정기예금보다 낮은 이율이 적용될 수 있으며, 만기 전 중도해지 시 일부 원금 손실이 발생할 수 있습니다.",
+    "keywords": [
+      "세이프지수연동예금",
+      "프리미어전용",
+      "KOSPI200",
+      "골드프리미어",
+      "원금보장"
+    ],
+    "filename": "프리미어세이프11-14호 상품설명서_2006042300170000.pdf",
+    "category": "Savings (예적금)",
+    "diversity_tag": "Business"
+  },
+  {
+    "product_name": "무배당 (e)더쉬운자산관리 ETF변액보험 2.0",
+    "insurance_type": "변액보험",
+    "is_renewal": null,
+    "declared_rate": null,
+    "min_guarantee_rate": null,
+    "coverage_summary": "원금 손실이 발생할 수 있는 상품",
+    "tax_benefit_cond": null,
+    "early_termination_warning": "조기 해지 시 원금 손실 위험 경고",
+    "join_channel": {
+      "is_online": false,
+      "is_offline": true,
+      "descriptions": [
+        "오프라인 판매 채널을 통해 가입 가능"
+      ]
+    },
+    "filename": "BNP파리바카디프생명 (무)더쉬운자산관리 ETF변액보험 2.0_약관&운용설명서_비대면_2021122700000008.pdf",
+    "category": "Insurance (보험/방카)",
+    "diversity_tag": "Business_Housing_Invest_Parking_Travel"
+  },
+  {
+    "product_name": "신한 SOL메이트 정기예금",
+    "product_type": "정기예금",
+    "accumulation_type": "정기적립식",
+    "eligibility": {
+      "age_min": 50,
+      "age_max": null,
+      "target_detail": "만 50세 이상 실명의 개인 및 개인사업자"
+    },
+    "interest_rate": {
+      "base_rate": 2.9,
+      "max_rate": 3.1,
+      "prime_conditions": [
+        "공적연금이 본인명의 신한은행 입출금 통장으로 3개월 이상 연 0.20% 입금된 경우",
+        "사적연금이 본인명의 신한은행 입출금 통장으로 3개월 이상 연 0.20% 이상 입금된 경우"
+      ]
+    },
+    "min_month": 12,
+    "max_month": 12,
+    "max_deposit": 300000000,
+    "auto_renewal": false,
+    "partial_withdrawal": true,
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "영업점 방문 가능",
+        "신한 SOL뱅크 앱을 통한 가입 가능"
+      ]
+    },
+    "risk_caution": null,
+    "keywords": [
+      "정기예금",
+      "우대이자율",
+      "50세 이상",
+      "신한은행"
+    ],
+    "filename": "신한 SOL메이트 정기예금 상품설명서_2026011400000009.pdf",
+    "category": "Savings (예적금)",
+    "diversity_tag": "Housing_Invest_Pension_Senior_TaxFree"
+  },
+  {
+    "product_name": "신한 MyShop 가맹점통장",
+    "interest_payment_date": "null",
+    "base_interest_rate": 0.1,
+    "max_interest_rate": 0.1,
+    "transfer_fee_waiver": "전자금융수수료 월 합산 10회 면제",
+    "withdraw_fee_waiver": "CD/ATM(신한은행) 이용 수수료 면제",
+    "currency_benefit": "null",
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "온라인 및 오프라인 지점에서 가입 가능"
+      ]
+    },
+    "filename": "신한MyShop가맹점통장 상품설명서_2006042600590000.pdf",
+    "category": "Demand_Deposit (입출금)",
+    "diversity_tag": "Business_TaxFree"
+  },
+  {
+    "product_name": "교보변액연금보험(무배당)[B]",
+    "insurance_type": "변액연금보험",
+    "is_renewal": true,
+    "declared_rate": null,
+    "min_guarantee_rate": null,
+    "coverage_summary": "이 상품은 연금수령을 원하는 고객님에게 연금 본연의 혜택을 드리기 위해 가입시에 연금개시시점부터 수령할 최소한의 연금액을 보증하는 변액연금보험입니다.",
+    "tax_benefit_cond": "해당 없음",
+    "early_termination_warning": "해약환급금은 최저보증이 없으므로 원금손실이 발생할 수 있으며, 그 손실은 모두 계약자에게 귀속됩니다.",
+    "join_channel": {
+      "is_online": false,
+      "is_offline": true,
+      "descriptions": [
+        "오프라인 판매"
+      ]
+    },
+    "filename": "교보생명 미리보는내연금(무)교보First변액연금Ⅱ_운용설명서_2021122700000131.pdf",
+    "category": "Insurance (보험/방카)",
+    "diversity_tag": "Housing_Invest_Pension_Senior_Travel"
+  },
+  {
+    "product_name": "DB형 이율보증형",
+    "pension_type": "DB",
+    "default_option_info": "이 상품은 원리금 보장형으로, 약정된 기간 동안 확정된 금리가 적용됩니다.",
+    "tax_deduction_limit": null,
+    "pension_receipt_method": "가입자는 퇴직 시 적립금을 수령할 수 있습니다.",
+    "investment_options": "원리금 보장형 상품으로, 이율보증형 적용이율이 적용됩니다.",
+    "fees": "중도해지 시 중도해지이율이 적용됩니다.",
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "DB생명 홈페이지를 통해 가입 가능",
+        "오프라인 지점 방문을 통한 가입 가능"
+      ]
+    },
+    "filename": "DB생명 퇴직연금 이율보증형보험 상품설명서_DB_2024121700000092.pdf",
+    "category": "Retirement_Pension (퇴직연금)",
+    "diversity_tag": "Business_Pension"
+  },
+  {
+    "product_name": "신한 나라사랑 통장",
+    "interest_payment_date": "매월 셋째 주 마지막 영업일에 계산하여 그 익일(원가일)에 원금에 더함",
+    "base_interest_rate": 0.1,
+    "max_interest_rate": 2.0,
+    "transfer_fee_waiver": "인터넷/모바일뱅킹, 폰뱅킹(ARS에 한함)의 다른 은행 이체수수료 면제",
+    "withdraw_fee_waiver": "신한은행 기기를 이용한 신한은행 계좌의 현금인출수수료 면제, 신한은행 기기를 이용한 신한은행 계좌의 다른 은행 이체 수수료 월 10회 면제, 다른 은행 기기를 이용한 신한은행 계좌의 현금인출수수료 월 5회 면제",
+    "currency_benefit": null,
+    "join_channel": {
+      "is_online": true,
+      "is_offline": true,
+      "descriptions": [
+        "영업점",
+        "신한SOL뱅크",
+        "모바일웹"
+      ]
+    },
+    "filename": "『신한 나라사랑 통장』 상품설명서_2025120300000034.pdf",
+    "category": "Demand_Deposit (입출금)",
+    "diversity_tag": "Invest_Soldier_TaxFree"
+  }
+]
